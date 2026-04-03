@@ -624,6 +624,18 @@ class DiplomacyManager(Versioned):
 	
 	
 	def _to_region_name(self, name):
+		name = name.lower()
+		if name in self._get_region:
+			return self._get_region[name]
+    
+		matches = [k for k in self._get_region if k.startswith(name)]
+    
+		if len(matches) == 1:
+			return self._get_region[matches[0]]
+		elif len(matches) > 1:
+			raise LocationError(f"Ambiguous: {matches}")
+    
+		raise LocationError(name)
 		if name not in self._get_region:
 			raise LocationError(name)
 		return self._get_region[name]

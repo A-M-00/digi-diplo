@@ -1,0 +1,323 @@
+Northern_League:
+  color: '#6b6b98'
+  demonym: Gawedi
+  home: [KONUNGRHAVEN, BAYVEK, VOTSEND, GAWETON, ROTTENSTEP, VERTESK, EMULYON, OZTENCOST,
+    WHITTINGTON, OK, TUNIN, PANHENAW, ELSINECESTIR]
+  name: Northern_League
+  territory: [KONUNGRHAVEN, BAYVEK, VOTSEND, WESTMOORS, GAWETON, ROTTENSTEP, VERTESK,
+    EMULYON, OZTENCOST, WHITTINGTON, OK, TUNIN, PANHENAW, ELSINECESTIR]
+  units:
+  - {loc: KONUNGRHAVEN, type: fleet}
+  - {loc: BAYVEK, type: fleet}
+  - {loc: VOTSEND, type: fleet}
+  - {loc: GAWETON, type: army}
+  - {loc: ROTTENSTEP, type: army}
+  - {loc: VERTESK, type: army}
+  - {loc: EMULYON, type: fleet}
+  - {loc: OZTENCOST, type: army}
+  - {loc: WHITTINGTON, type: army}
+  - {loc: OK, type: fleet}
+  - {loc: TUNIN, type: fleet}
+  - {loc: PANHENAW, type: fleet}
+  - {loc: ELSINECESTIR, type: fleet}
+  capital: GAWETON
+Lorent:
+  color: '#af4846'
+  demonym: Lorentish
+  home: [DERANNE, LORENTAINE, DAROMSFORT, SORNAIRE, KWINEHCOST, ABHENN, CRIODHEEL,
+    SHOFASHOK, BIENG_PHANG, SKARKAOPHE, OCHCHUSCOST, KUNOLO, CROVANSPIER, VUMBKAUVA,
+    WANDERER'S_ISLES]
+  name: Lorent
+  territory: [DERANNE, REDGLADES, EXWES, LORENTAINE, DAROMSFORT, ORDING, ROILSARD,
+    SORNAIRE, BLOODGROVES, KWINEHCOST, ABHENN, RED_COAST, NORTH_ENDRALLIANDE, JERCEL,
+    CRIODHEEL, SHOFASHOK, TAIVER, BIENG_PHANG, SKARKAOPHE, EADOHAS, OCHCHUSCOST, KUNOLO,
+    CROVANSPIER, VUMBKAUVA, TAGTO, TIPHIYA, WANDERER'S_ISLES]
+  units:
+  - {loc: DERANNE, type: fleet}
+  - {loc: LORENTAINE, type: army}
+  - {loc: DAROMSFORT, type: fleet}
+  - {loc: SORNAIRE, type: fleet}
+  - {loc: KWINEHCOST, type: army}
+  - {loc: ABHENN, type: fleet}
+  - {loc: CRIODHEEL, type: fleet}
+  - {loc: SHOFASHOK, type: army}
+  - {loc: BIENG_PHANG, type: army}
+  - {loc: SKARKAOPHE, type: fleet}
+  - {loc: OCHCHUSCOST, type: fleet}
+  - {loc: KUNOLO, type: fleet}
+  - {loc: CROVANSPIER, type: army}
+  - {loc: VUMBKAUVA, type: fleet}
+  - {loc: WANDERER'S_ISLES, type: fleet}
+  capital: LORENTAINE
+Gnomish_Hierarchy:
+  color: '#ebbcd6'
+  demonym: Gnomish
+  home: [MARATHMAS, FJELSTRON, NOO_ODDANSBAY, ODDANSBAY, KOBILDZAN, ROYVIBOBB, SLEGCAL,
+    MANERD, SNECHOLLE, ZYUGONG, REVERS, CRESCENT_LINE]
+  name: Gnomish_Hierarchy
+  territory: [SJAVARRUST, DERHILDIA, NOO_CODORRAN, MARATHMAS, OLLORLAND, FJELSTRON,
+    DRAGONSPINE, HEHADEDPAR, NOO_ODDANSBAY, ODDANSBAY, KOBILDZAN, GEMRADCURT, ROYVIBOBB,
+    SLEGCAL, MANERD, JHORGASHIRR, SNECHOLLE, ZYUGONG, REVERS, FAR_PLENTY, CRESCENT_LINE]
+  units:
+  - {loc: MARATHMAS, type: fleet}
+  - {loc: FJELSTRON, type: fleet}
+  - {loc: NOO_ODDANSBAY, type: army}
+  - {loc: ODDANSBAY, type: fleet}
+  - {loc: ROYVIBOBB, type: army}
+  - {loc: SLEGCAL, type: army}
+  - {loc: MANERD, type: fleet}
+  - {loc: SNECHOLLE, type: army}
+  - {loc: ZYUGONG, type: army}
+  - {loc: REVERS, type: army}
+  - {loc: FAR_PLENTY, type: army}
+  - {loc: CRESCENT_LINE, type: fleet}
+  capital: ODDANSBAY
+Busilar:
+  color: '#e0bc82'
+  demonym: Busilari
+  home: [HAPAINE, EBORTHIL, EKHA, DESHAK, UPPER_KEOADEN, DAGGER_POINT, HEBA,
+    SIGILAN, GANIMEOR, SAHANAFO, CURMARKET, WEST_TURTLEBACK, ARMANHAL, NUR_TEL, TROPAICOST,
+    BRISTAILEAN, GITINALAS, ANISIGO]
+  name: Busilar
+  territory: [LIONCOST, HAPAINE, EBORTHIL, EKHA, DESHAK, KUDET_KAI, UPPER_KEOADEN,
+    NON_CHIEN, DAGGER_POINT, HEBA, SIGILAN, CROOKED, JANAMA, SANT_BERNAL, GANIMEOR,
+    GEMTREE, SAHANAFO, CURMARKET, WEST_TURTLEBACK, ARMANHAL, NUR_TEL, TROPAICOST,
+    KIUBANG, BRISTAILEAN, GITINALAS, ANISIGO]
+  units:
+  - {loc: HAPAINE, type: army}
+  - {loc: EBORTHIL, type: fleet}
+  - {loc: EKHA, type: fleet}
+  - {loc: DESHAK, type: army}
+  - {loc: UPPER_KEOADEN, type: army}
+  - {loc: DAGGER_POINT, type: fleet}
+  - {loc: HEBA, type: army}
+  - {loc: SIGILAN, type: army}
+  - {loc: GANIMEOR, type: army}
+  - {loc: SAHANAFO, type: army}
+  - {loc: CURMARKET, type: fleet}
+  - {loc: WEST_TURTLEBACK, type: army}
+  - {loc: ARMANHAL, type: army}
+  - {loc: NUR_TEL, type: fleet}
+  - {loc: TROPAICOST, type: fleet}
+  - {loc: BRISTAILEAN, type: fleet}
+  - {loc: GITINALAS, type: fleet}
+  - {loc: ANISIGO, type: fleet}
+  capital: HAPAINE
+Anbennar:
+  color: '#213739'
+  demonym: Anbennarian
+  home: [DAMESCROWN, SILVERKEEP, NECKCLIFFE, ORRIC_CHEID, NURCANDAR, DEVINAIRE, NINAK,
+    ANBENNCOST, VRENDIN, KIINDTIR]
+  name: Anbennar
+  territory: [ARBARAN, DAMESCROWN, SILVERKEEP, KONWELL, NECKCLIFFE, MOONHAVEN, VERNE,
+    ORRIC_CHEID, NURCANDAR, DEVINAIRE, NINAK, ANBENNCOST, ISLES_OF_PLENTY, VRENDIN,
+    KIINDTIR]
+  units:
+  - {loc: DAMESCROWN, type: army}
+  - {loc: SILVERKEEP, type: army}
+  - {loc: NECKCLIFFE, type: army}
+  - {loc: ORRIC_CHEID, type: fleet}
+  - {loc: NURCANDAR, type: army}
+  - {loc: DEVINAIRE, type: fleet}
+  - {loc: NINAK, type: army}
+  - {loc: ANBENNCOST, type: fleet}
+  - {loc: VRENDIN, type: fleet}
+  - {loc: KIINDTIR, type: fleet}
+  capital: ANBENNCOST
+Grombar:
+  color: '#92a6a4'
+  demonym: Grombari
+  home: [YYL_MOITSA, PUAKOD, KABARDA, ATHFORK, GAROK]
+  name: Grombar
+  territory: [TROLL_FORESTS, YYL_MOITSA, OLAVLUND, PUAKOD, KABARDA, ATHFORK, GAROK,
+    MIDDLE_ALEN, ASSEMBLY_TERRACE]
+  units:
+  - {loc: YYL_MOITSA, type: fleet}
+  - {loc: PUAKOD, type: army}
+  - {loc: KABARDA, type: army}
+  - {loc: ATHFORK, type: army}
+  - {loc: GAROK, type: fleet}
+  capital: GAROK
+Cyranvar:
+  color: '#498a3d'
+  demonym: Cyranvari
+  home: [CIRANMYNA, ELYNAILE, DRENNETHILLE, IMYHAIN]
+  name: Cyranvar
+  territory: [FLOWER_GROVE, CIRANMYNA, ELYNAILE, DRENNETHILLE, IMYHAIN, SHADOW_GROVE]
+  units:
+  - {loc: CIRANMYNA, type: army}
+  - {loc: ELYNAILE, type: army}
+  - {loc: DRENNETHILLE, type: army}
+  - {loc: IMYHAIN, type: army}
+  capital: ELYNAILE
+Konolkhatep:
+  color: '#6c2d2b'
+  demonym: Konolkhatepan
+  home: [AZKA_JEXIS, KOROSHESH, KHATERAT, ARGAZEEN, KWATUBIS]
+  name: Konolkhatep
+  territory: [VOGKEYSA, AZKA_JEXIS, KOROSHESH, SHASOURA, KHATERAT, UPPER_SORROW, ARGAZEEN,
+    KWATUBIS, KHAWIT]
+  units:
+  - {loc: AZKA_JEXIS, type: fleet}
+  - {loc: KOROSHESH, type: fleet}
+  - {loc: KHATERAT, type: army}
+  - {loc: ARGAZEEN, type: army}
+  - {loc: KWATUBIS, type: army}
+  capital: KHETERAT
+Jaddanzuir:
+  color: '#eef090'
+  demonym: Jadd
+  home: [JADDANZAR, MERMIGAN, BULWAR, AVHAUBHIYA, ILZIN_ZOKKA]
+  name: Jaddanzuir
+  territory: [JADDANZAR, MERMIGAN, BULWAR, AZKA_SUR, UPPER_SURAN, NAHANA_JADD, AVHAUBHIYA,
+    ARDU, ILZIN_ZOKKA, SARK]
+  units:
+  - {loc: JADDANZAR, type: army}
+  - {loc: MERMIGAN, type: army}
+  - {loc: BULWAR, type: fleet}
+  - {loc: AVHAUBHIYA, type: army}
+  - {loc: ILZIN_ZOKKA, type: fleet}
+  capital: JADDANZAR
+Kalsyto:
+  color: '#6786c0'
+  demonym: Triunic
+  home: [QARSHTULUU, BULREKAYIG, LANKINA]
+  name: Kalsyto
+  territory: [ZUURZOI, QARSHTULUU, BULREKAYIG, LANKINA]
+  units:
+  - {loc: QARSHTULUU, type: fleet}
+  - {loc: BULREKAYIG, type: army}
+  - {loc: LANKINA, type: army}
+  - {loc: OOL1, type: fleet}
+  capital: QARSHTULUU
+Danggun:
+  color: '#6aae96'
+  demonym: Dangguni
+  home: [NUUGEM, HYEONSEONG, HEYOOLGIN, JAENGUJAN]
+  name: Danggun
+  territory: [NUUGEM, HYEONSEONG, HEYOOLGIN, JAENGUJAN, NOKSESEOM]
+  units:
+  - {loc: NUUGEM, type: fleet}
+  - {loc: HYEONSEONG, type: army}
+  - {loc: HEYOOLGIN, type: army}
+  - {loc: JAENGUJAN, type: fleet}
+  capital: JAENGUJAN
+Dragon_Command:
+  color: '#834838'
+  demonym: Dragonborn
+  home: [SIR, YANZHONG, NOZANYANBE, BIANYUAN]
+  name: Dragon_Command
+  territory: [SIR, YANZHONG, NOZANYANBE, BIANYUAN]
+  units:
+  - {loc: SIR, type: army}
+  - {loc: YANZHONG, type: army}
+  - {loc: NOZANYANBE, type: army}
+  - {loc: BIANYUAN, type: army}
+  capital: NOZANYANBE
+Khatalashya:
+  color: '#86ac8d'
+  demonym: Khatalashyan
+  home: [ZERAT, AKHANEKAS, AMIRI, RAYAZAS]
+  name: Khatalashya
+  territory: [ZERAT, AKHANEKAS, KAGDILGIR, AMIRI, ZENA, RAYAZAS]
+  units:
+  - {loc: ZERAT, type: army}
+  - {loc: AKHANEKAS, type: army}
+  - {loc: AMIRI, type: fleet}
+  - {loc: RAYAZAS, type: army}
+  capital: ZERAT
+Umoji_Baashidi:
+  color: '#5681a7'
+  demonym: Baashidi
+  home: [QASRI_UBAKHIYO, MAROODIYA, MAGAALAD_QASR, FOG_ISLES]
+  name: Umoji_Baashidi
+  territory: [ASHAMADIAT, QASRI_UBAKHIYO, MAROODIYA, MAGAALAD_QASR, FOG_ISLES]
+  units:
+  - {loc: QASRI_UBAKHIYO, type: army}
+  - {loc: MAROODIYA, type: fleet}
+  - {loc: MAGAALAD_QASR, type: fleet}
+  - {loc: FOG_ISLES, type: fleet}
+  capital: MAROODIYA
+Melakmengi:
+  color: '#8fd6d6'
+  demonym: Melakmengi
+  home: [NALENI, YETMESIRA, KVATHAGIS, KREKDEKEI]
+  name: Melakmengi
+  territory: [NALENI, SIMAHRIKA, YETMESIRA, KVATHAGIS, FEDONI, ZEDAHRIKA, KREKDEKEI,
+    SKY_SOARING_EAGLE]
+  units:
+  - {loc: NALENI, type: fleet}
+  - {loc: YETMESIRA, type: army}
+  - {loc: KVATHAGIS, type: army}
+  - {loc: KREKDEKEI, type: army}
+  capital: KREKDEKEI
+Nur_Dhanaenn:
+  color: '#66bdba'
+  demonym: Nur_Dhanaennian
+  home: [SORMAW, SENAINE, SORFEN, DALAINE]
+  name: Nur_Dhanaenn
+  territory: [SORMAW, SENAINE, SORFEN, DALAINE]
+  units:
+  - {loc: SORMAW, type: fleet}
+  - {loc: SENAINE, type: army}
+  - {loc: SORFEN, type: army}
+  - {loc: DALAINE, type: army}
+  capital: DALAINE
+Ameion:
+  color: '#b97dff'
+  demonym: Ameioni
+  home: [PARAIDAR, IPPAROGA, SOTEREION, AMEION]
+  name: Ameion
+  territory: [PARAIDAR, IPPAROGA, SOTEREION, AMEION, AKR]
+  units:
+  - {loc: PARAIDAR, type: fleet}
+  - {loc: IPPAROGA, type: army}
+  - {loc: SOTEREION, type: army}
+  - {loc: AMEION, type: fleet}
+  capital: AMEOIN
+Sarda_Empire:
+  color: '#7b50bd'
+  demonym: Sarda
+  home: [ARVERYNN, YRNGARD, VELS_DOMFAN, YNNSMOUTH]
+  name: Sarda_Empire
+  territory: [ARVERYNN, LOWER_YNN, YRNGARD, VELS_DOMFAN, YNNSMOUTH]
+  units:
+  - {loc: ARVERYNN, type: army}
+  - {loc: YRNGARD, type: army}
+  - {loc: VELS_DOMFAN, type: army}
+  - {loc: YNNSMOUTH, type: fleet}
+  capital: ARVERYNN
+Vanbury_Steel_Guild:
+  color: '#be813c'
+  demonym: Steel_Guildman
+  home: [STEELHYL, BAYCOAST, SOLDARCAM, QUINTUPLETS, TRISTANTON, RICARDSPORT, PITHION,
+    ENPKEIOS]
+  name: Vanbury_Steel_Guild
+  territory: [STEELHYL, BAYCOAST, SOLDARCAM, WORMWAY, QUINTUPLETS, TRISTANTON, RICARDSPORT,
+    PITHION, ENPKEIOS]
+  units:
+  - {loc: STEELHYL, type: army}
+  - {loc: BAYCOAST, type: fleet}
+  - {loc: SOLDARCAM, type: army}
+  - {loc: QUINTUPLETS, type: army}
+  - {loc: TRISTANTON, type: fleet}
+  - {loc: RICARDSPORT, type: army}
+  - {loc: PITHION, type: army}
+  - {loc: ENPKEIOS, type: fleet}
+  capital: RICARDSPORT
+Triarchy:
+  color: '#90adda'
+  demonym: Triarchic
+  home: [BEIK, VEMOD_ARKA, ZURZUMEXIA, GOMMOPORT, MAI, MESTIKARDU, GINHYUT]
+  name: Triarchy
+  territory: [BEIK, VEMOD_ARKA, ZURZUMEXIA, BOKGUAN, GOMMOPORT, MAI, MESTIKARDU,
+    MALLAZABO, GADODCODD, GINHYUT]
+  units:
+  - {loc: BEIK, type: army}
+  - {loc: VEMOD_ARKA, type: army}
+  - {loc: ZURZUMEXIA, type: army}
+  - {loc: GOMMOPORT, type: fleet}
+  - {loc: MAI, type: army}
+  - {loc: MESTIKARDU, type: fleet}
+  - {loc: GINHYUT, type: fleet}
+  capital: VEMOD_ARKA

@@ -8,7 +8,8 @@ from .errors import ParsingFailedError
 
 # Simple synonyms and patterns for units, locations, etc.
 UNIT_PATTERN = r"(?:a|t|f|n|ar|tr|fl|na|army|troop|fleet|navy)"
-LOCATION_PATTERN = r"[A-Za-z]{3}(?:-(?:nc|sc|ec|wc))?"
+#LOCATION_PATTERN = r"[A-Za-z]{3}(?:-(?:nc|sc|ec|wc))?"
+LOCATION_PATTERN = r"[A-Za-z][A-Za-z_'1234]*(?:-(?:nc|sc|ec|wc))?\b"
 
 HOLD_SYNONYMS = r"(?:hold|holds|h|hd|holding)"
 MOVE_SYNONYMS = r"(?:move|moves|m|mv|moving)"
@@ -16,7 +17,7 @@ TO_SYNONYMS    = r"(?:to|->|-|>)"
 SUPPORT_SYNONYMS = r"(?:support|supports|su|s|sp|supp)"
 CONVOY_SYNONYMS  = r"(?:convoy|convoys|convey|c|conv|convoying)"
 BUILD_SYNONYMS   = r"(?:build|builds|b|bd|building|bldg)"
-DISBAND_SYNONYMS = r"(?:disband|disbands|d|db|disb|disbanding)"
+DISBAND_SYNONYMS = r"(?:disband|disbands|d|db|disb|disbanding|boom|dies)"
 RETREAT_SYNONYMS = r"(?:retreat|retreats|r|rt|retreating)"
 
 # A small convenience: optionally capture "in|at" between unit & location
@@ -72,7 +73,7 @@ MOVE_PATTERN_A = rf"""^
 (?P<loc>{LOCATION_WRAPPED})
 \s+
 ((?P<move_verb>{MOVE_SYNONYMS})
-\s+)?
+\s+)
 (?P<dest>{LOCATION_WRAPPED})
 $"""
 
