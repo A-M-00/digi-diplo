@@ -17,7 +17,7 @@ The recommended way to use this repo is with a discord bot (run locally). This b
 
 0. If you don't already have python installed, I recommend using the [Anaconda](https://www.anaconda.com/products/individual) (or [miniconda](https://docs.conda.io/en/latest/miniconda.html)) distribution, as it will make dealing with dependencies easier.
 
-1. Download, or better yet, clone this repo with `git clone https://github.com/felixludos/digi-diplo`. (Note that if you don't have git installed, you have to manually download and install [`pydip`](https://github.com/aparkins/pydip) and remove the corresponding line from the `requirements.txt` before the next step, while if you have `git` all that will be done automatically).
+1. Download, or better yet, clone this repo with `git clone https://github.com/A-M-00/digi-diplo`. (Note that if you don't have git installed, you have to manually download and install [`pydip`](https://github.com/aparkins/pydip) and remove the corresponding line from the `requirements.txt` before the next step, while if you have `git` all that will be done automatically).
 
 2. From the top level directory (containing this readme), install all dependencies using `pip install -r requirements.txt`.
 
