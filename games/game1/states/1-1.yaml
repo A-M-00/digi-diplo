@@ -1,0 +1,293 @@
+players:
+  Ameion:
+    capital: AMEOIN
+    centers: [PARAIDAR, IPPAROGA, SOTEREION, AMEION]
+    control: [PARAIDAR, IPPAROGA, SOTEREION, AMEION, AKR]
+    home: [PARAIDAR, IPPAROGA, SOTEREION, AMEION]
+    units:
+    - {loc: PARAIDAR, type: fleet}
+    - {loc: IPPAROGA, type: army}
+    - {loc: SOTEREION, type: army}
+    - {loc: AMEION, type: fleet}
+  Anbennar:
+    capital: ANBENNCOST
+    centers: [DAMESCROWN, SILVERKEEP, NECKCLIFFE, ORRIC_CHEID, NURCANDAR, DEVINAIRE,
+      NINAK, ANBENNCOST, VRENDIN, KIINDTIR]
+    control: [ARBARAN, DAMESCROWN, SILVERKEEP, KONWELL, NECKCLIFFE, MOONHAVEN, VERNE,
+      ORRIC_CHEID, NURCANDAR, DEVINAIRE, NINAK, ANBENNCOST, ISLES_OF_PLENTY, VRENDIN,
+      KIINDTIR]
+    home: [DAMESCROWN, SILVERKEEP, NECKCLIFFE, ORRIC_CHEID, NURCANDAR, DEVINAIRE,
+      NINAK, ANBENNCOST, VRENDIN, KIINDTIR]
+    units:
+    - {loc: DAMESCROWN, type: army}
+    - {loc: SILVERKEEP, type: army}
+    - {loc: NECKCLIFFE, type: army}
+    - {loc: ORRIC_CHEID, type: fleet}
+    - {loc: NURCANDAR, type: army}
+    - {loc: DEVINAIRE, type: fleet}
+    - {loc: NINAK, type: army}
+    - {loc: ANBENNCOST, type: fleet}
+    - {loc: VRENDIN, type: fleet}
+    - {loc: KIINDTIR, type: fleet}
+  Busilar:
+    capital: HAPAINE
+    centers: [HAPAINE, EBORTHIL, EKHA, DESHAK, UPPER_KEOADEN, DAGGER_POINT, HEBA,
+      SIGILAN, GANIMEOR, SAHANAFO, CURMARKET, WEST_TURTLEBACK, ARMANHAL, NUR_TEL,
+      TROPAICOST, BRISTAILEAN, GITINALAS, ANISIGO]
+    control: [LIONCOST, HAPAINE, EBORTHIL, EKHA, DESHAK, KUDET_KAI, UPPER_KEOADEN,
+      NON_CHIEN, DAGGER_POINT, HEBA, SIGILAN, CROOKED, JANAMA, SANT_BERNAL, GANIMEOR,
+      GEMTREE, SAHANAFO, CURMARKET, WEST_TURTLEBACK, ARMANHAL, NUR_TEL, TROPAICOST,
+      KIUBANG, BRISTAILEAN, GITINALAS, ANISIGO]
+    home: [HAPAINE, EBORTHIL, EKHA, DESHAK, UPPER_KEOADEN, DAGGER_POINT, HEBA, SIGILAN,
+      GANIMEOR, SAHANAFO, CURMARKET, WEST_TURTLEBACK, ARMANHAL, NUR_TEL, TROPAICOST,
+      BRISTAILEAN, GITINALAS, ANISIGO]
+    units:
+    - {loc: HAPAINE, type: army}
+    - {loc: EBORTHIL, type: fleet}
+    - {loc: EKHA, type: fleet}
+    - {loc: DESHAK, type: army}
+    - {loc: UPPER_KEOADEN, type: army}
+    - {loc: DAGGER_POINT, type: fleet}
+    - {loc: HEBA, type: army}
+    - {loc: SIGILAN, type: army}
+    - {loc: GANIMEOR, type: army}
+    - {loc: SAHANAFO, type: army}
+    - {loc: CURMARKET, type: fleet}
+    - {loc: WEST_TURTLEBACK, type: army}
+    - {loc: ARMANHAL, type: army}
+    - {loc: NUR_TEL, type: fleet}
+    - {loc: TROPAICOST, type: fleet}
+    - {loc: BRISTAILEAN, type: fleet}
+    - {loc: GITINALAS, type: fleet}
+    - {loc: ANISIGO, type: fleet}
+  Cyranvar:
+    capital: ELYNAILE
+    centers: [CIRANMYNA, ELYNAILE, DRENNETHILLE, IMYHAIN]
+    control: [FLOWER_GROVE, CIRANMYNA, ELYNAILE, DRENNETHILLE, IMYHAIN, SHADOW_GROVE]
+    home: [CIRANMYNA, ELYNAILE, DRENNETHILLE, IMYHAIN, ANRACHRAN, BLASTGAT]
+    units:
+    - {loc: CIRANMYNA, type: army}
+    - {loc: ELYNAILE, type: army}
+    - {loc: DRENNETHILLE, type: army}
+    - {loc: IMYHAIN, type: army}
+  Danggun:
+    capital: JAENGUJAN
+    centers: [NUUGEM, HYEONSEONG, HEYOOLGIN, JAENGUJAN]
+    control: [NUUGEM, HYEONSEONG, HEYOOLGIN, JAENGUJAN, NOKSESEOM]
+    home: [NUUGEM, HYEONSEONG, HEYOOLGIN, JAENGUJAN]
+    units:
+    - {loc: NUUGEM, type: fleet}
+    - {loc: HYEONSEONG, type: army}
+    - {loc: HEYOOLGIN, type: army}
+    - {loc: JAENGUJAN, type: fleet}
+  Dragon_Command:
+    capital: NOZANYANBE
+    centers: [SIR, YANZHONG, NOZANYANBE, BIANYUAN]
+    control: [SIR, YANZHONG, NOZANYANBE, BIANYUAN]
+    home: [SIR, YANZHONG, NOZANYANBE, BIANYUAN]
+    units:
+    - {loc: SIR, type: army}
+    - {loc: YANZHONG, type: army}
+    - {loc: NOZANYANBE, type: army}
+    - {loc: BIANYUAN, type: army}
+  Gnomish_Hierarchy:
+    capital: ODDANSBAY
+    centers: [MARATHMAS, FJELSTRON, NOO_ODDANSBAY, ODDANSBAY, KOBILDZAN, ROYVIBOBB,
+      SLEGCAL, MANERD, SNECHOLLE, ZYUGONG, REVERS, CRESCENT_LINE]
+    control: [SJAVARRUST, DERHILDIA, NOO_CODORRAN, MARATHMAS, OLLORLAND, FJELSTRON,
+      DRAGONSPINE, HEHADEDPAR, NOO_ODDANSBAY, ODDANSBAY, KOBILDZAN, GEMRADCURT, ROYVIBOBB,
+      SLEGCAL, MANERD, JHORGASHIRR, SNECHOLLE, ZYUGONG, REVERS, FAR_PLENTY, CRESCENT_LINE]
+    home: [MARATHMAS, FJELSTRON, NOO_ODDANSBAY, ODDANSBAY, ROYVIBOBB, SLEGCAL,
+      MANERD, SNECHOLLE, ZYUGONG, REVERS, CRESCENT_LINE, HEHONG]
+    units:
+    - {loc: MARATHMAS, type: fleet}
+    - {loc: FJELSTRON, type: fleet}
+    - {loc: NOO_ODDANSBAY, type: army}
+    - {loc: ODDANSBAY, type: fleet}
+    - {loc: ROYVIBOBB, type: army}
+    - {loc: SLEGCAL, type: army}
+    - {loc: MANERD, type: fleet}
+    - {loc: SNECHOLLE, type: army}
+    - {loc: ZYUGONG, type: army}
+    - {loc: REVERS, type: army}
+    - {loc: FAR_PLENTY, type: army}
+    - {loc: CRESCENT_LINE, type: fleet}
+  Grombar:
+    capital: GAROK
+    centers: [YYL_MOITSA, PUAKOD, KABARDA, ATHFORK, GAROK]
+    control: [TROLL_FORESTS, YYL_MOITSA, OLAVLUND, PUAKOD, KABARDA, ATHFORK, GAROK,
+      MIDDLE_ALEN, ASSEMBLY_TERRACE]
+    home: [YYL_MOITSA, PUAKOD, KABARDA, ATHFORK, GAROK]
+    units:
+    - {loc: YYL_MOITSA, type: fleet}
+    - {loc: PUAKOD, type: army}
+    - {loc: KABARDA, type: army}
+    - {loc: ATHFORK, type: army}
+    - {loc: GAROK, type: fleet}
+  Jaddanzuir:
+    capital: JADDANZAR
+    centers: [JADDANZAR, MERMIGAN, BULWAR, AVHAUBHIYA, ILZIN_ZOKKA]
+    control: [JADDANZAR, MERMIGAN, BULWAR, AZKA_SUR, UPPER_SURAN, NAHANA_JADD, AVHAUBHIYA,
+      ARDU, ILZIN_ZOKKA, SARK]
+    home: [JADDANZAR, MERMIGAN, BULWAR, AVHAUBHIYA, ILZIN_ZOKKA]
+    units:
+    - {loc: JADDANZAR, type: army}
+    - {loc: MERMIGAN, type: army}
+    - {loc: BULWAR, type: fleet}
+    - {loc: AVHAUBHIYA, type: army}
+    - {loc: ILZIN_ZOKKA, type: fleet}
+  Kalsyto:
+    capital: QARSHTULUU
+    centers: [QARSHTULUU, BULREKAYIG, LANKINA]
+    control: [ZUURZOI, QARSHTULUU, BULREKAYIG, LANKINA]
+    home: [QARSHTULUU, BULREKAYIG, LANKINA]
+    units:
+    - {loc: QARSHTULUU, type: fleet}
+    - {loc: BULREKAYIG, type: army}
+    - {loc: LANKINA, type: army}
+    - {loc: OOL1, type: fleet}
+  Khatalashya:
+    capital: ZERAT
+    centers: [ZERAT, AKHANEKAS, AMIRI, RAYAZAS]
+    control: [ZERAT, AKHANEKAS, KAGDILGIR, AMIRI, ZENA, RAYAZAS]
+    home: [ZERAT, AKHANEKAS, AMIRI, RAYAZAS]
+    units:
+    - {loc: ZERAT, type: army}
+    - {loc: AKHANEKAS, type: army}
+    - {loc: AMIRI, type: fleet}
+    - {loc: RAYAZAS, type: army}
+  Konolkhatep:
+    capital: KHETERAT
+    centers: [AZKA_JEXIS, KOROSHESH, KHATERAT, ARGAZEEN, KWATUBIS]
+    control: [VOGKEYSA, AZKA_JEXIS, KOROSHESH, SHASOURA, KHATERAT, UPPER_SORROW, ARGAZEEN,
+      KWATUBIS, KHAWIT]
+    home: [AZKA_JEXIS, KOROSHESH, KHATERAT, ARGAZEEN, KWATUBIS, ZUVAVIM]
+    units:
+    - {loc: AZKA_JEXIS, type: fleet}
+    - {loc: KOROSHESH, type: fleet}
+    - {loc: KHATERAT, type: army}
+    - {loc: ARGAZEEN, type: army}
+    - {loc: KWATUBIS, type: army}
+  Lorent:
+    capital: LORENTAINE
+    centers: [DERANNE, LORENTAINE, DAROMSFORT, SORNAIRE, KWINEHCOST, ABHENN, CRIODHEEL,
+      SHOFASHOK, BIENG_PHANG, SKARKAOPHE, OCHCHUSCOST, KUNOLO, CROVANSPIER, VUMBKAUVA,
+      WANDERER'S_ISLES]
+    control: [DERANNE, REDGLADES, EXWES, LORENTAINE, DAROMSFORT, ORDING, ROILSARD,
+      SORNAIRE, BLOODGROVES, KWINEHCOST, ABHENN, RED_COAST, NORTH_ENDRALLIANDE, JERCEL,
+      CRIODHEEL, SHOFASHOK, TAIVER, BIENG_PHANG, SKARKAOPHE, EADOHAS, OCHCHUSCOST,
+      KUNOLO, CROVANSPIER, VUMBKAUVA, TAGTO, TIPHIYA, WANDERER'S_ISLES]
+    home: [DERANNE, LORENTAINE, DAROMSFORT, SORNAIRE, KWINEHCOST, ABHENN, CRIODHEEL,
+      SHOFASHOK, BIENG_PHANG, SKARKAOPHE, OCHCHUSCOST, KUNOLO, CROVANSPIER, VUMBKAUVA,
+      WANDERER'S_ISLES]
+    units:
+    - {loc: DERANNE, type: fleet}
+    - {loc: LORENTAINE, type: army}
+    - {loc: DAROMSFORT, type: fleet}
+    - {loc: SORNAIRE, type: fleet}
+    - {loc: KWINEHCOST, type: army}
+    - {loc: ABHENN, type: fleet}
+    - {loc: CRIODHEEL, type: fleet}
+    - {loc: SHOFASHOK, type: army}
+    - {loc: BIENG_PHANG, type: army}
+    - {loc: SKARKAOPHE, type: fleet}
+    - {loc: OCHCHUSCOST, type: fleet}
+    - {loc: KUNOLO, type: fleet}
+    - {loc: CROVANSPIER, type: army}
+    - {loc: VUMBKAUVA, type: fleet}
+    - {loc: WANDERER'S_ISLES, type: fleet}
+  Melakmengi:
+    capital: KREKDEKEI
+    centers: [NALENI, YETMESIRA, KVATHAGIS, KREKDEKEI]
+    control: [NALENI, SIMAHRIKA, YETMESIRA, KVATHAGIS, FEDONI, ZEDAHRIKA, KREKDEKEI,
+      SKY_SOARING_EAGLE]
+    home: [NALENI, YETMESIRA, KVATHAGIS, KREKDEKEI]
+    units:
+    - {loc: NALENI, type: fleet}
+    - {loc: YETMESIRA, type: army}
+    - {loc: KVATHAGIS, type: army}
+    - {loc: KREKDEKEI, type: army}
+  Northern_League:
+    capital: GAWETON
+    centers: [KONUNGRHAVEN, BAYVEK, VOTSEND, GAWETON, ROTTENSTEP, VERTESK, EMULYON,
+      OZTENCOST, WHITTINGTON, OK, TUNIN, PANHENAW, ELSINECESTIR]
+    control: [KONUNGRHAVEN, BAYVEK, VOTSEND, WESTMOORS, GAWETON, ROTTENSTEP, VERTESK,
+      EMULYON, OZTENCOST, WHITTINGTON, OK, TUNIN, PANHENAW, ELSINECESTIR]
+    home: [KONUNGRHAVEN, BAYVEK, VOTSEND, GAWETON, ROTTENSTEP, VERTESK, EMULYON, OZTENCOST,
+      WHITTINGTON, OK, TUNIN, PANHENAW, ELSINECESTIR, SILSENAIRE]
+    units:
+    - {loc: KONUNGRHAVEN, type: fleet}
+    - {loc: BAYVEK, type: fleet}
+    - {loc: VOTSEND, type: fleet}
+    - {loc: GAWETON, type: army}
+    - {loc: ROTTENSTEP, type: army}
+    - {loc: VERTESK, type: army}
+    - {loc: EMULYON, type: fleet}
+    - {loc: OZTENCOST, type: army}
+    - {loc: WHITTINGTON, type: army}
+    - {loc: OK, type: fleet}
+    - {loc: TUNIN, type: fleet}
+    - {loc: PANHENAW, type: fleet}
+    - {loc: ELSINECESTIR, type: fleet}
+  Nur_Dhanaenn:
+    capital: DALAINE
+    centers: [SORMAW, SENAINE, SORFEN, DALAINE]
+    control: [SORMAW, SENAINE, SORFEN, DALAINE]
+    home: [SORMAW, SENAINE, SORFEN, DALAINE]
+    units:
+    - {loc: SORMAW, type: fleet}
+    - {loc: SENAINE, type: army}
+    - {loc: SORFEN, type: army}
+    - {loc: DALAINE, type: army}
+  Sarda_Empire:
+    capital: ARVERYNN
+    centers: [ARVERYNN, YRNGARD, VELS_DOMFAN, YNNSMOUTH]
+    control: [ARVERYNN, LOWER_YNN, YRNGARD, VELS_DOMFAN, YNNSMOUTH]
+    home: [ARVERYNN, YRNGARD, VELS_DOMFAN, YNNSMOUTH]
+    units:
+    - {loc: ARVERYNN, type: army}
+    - {loc: YRNGARD, type: army}
+    - {loc: VELS_DOMFAN, type: army}
+    - {loc: YNNSMOUTH, type: fleet}
+  Triarchy:
+    capital: VEMOD_ARKA
+    centers: [BEIK, VEMOD_ARKA, ZURZUMEXIA, GOMMOPORT, MAI, MESTIKARDU, GINHYUT]
+    control: [BEIK, VEMOD_ARKA, ZURZUMEXIA, BOKGUAN, GOMMOPORT, MAI, MESTIKARDU, MALLAZABO,
+      GADODCODD, GINHYUT]
+    home: [BEIK, VEMOD_ARKA, ZURZUMEXIA, GOMMOPORT, MAI, MESTIKARDU, GINHYUT]
+    units:
+    - {loc: BEIK, type: army}
+    - {loc: VEMOD_ARKA, type: army}
+    - {loc: ZURZUMEXIA, type: army}
+    - {loc: GOMMOPORT, type: fleet}
+    - {loc: MAI, type: army}
+    - {loc: MESTIKARDU, type: fleet}
+    - {loc: GINHYUT, type: fleet}
+  Umoji_Baashidi:
+    capital: MAROODIYA
+    centers: [QASRI_UBAKHIYO, MAROODIYA, MAGAALAD_QASR, FOG_ISLES]
+    control: [ASHAMADIAT, QASRI_UBAKHIYO, MAROODIYA, MAGAALAD_QASR, FOG_ISLES]
+    home: [QASRI_UBAKHIYO, MAROODIYA, MAGAALAD_QASR, FOG_ISLES, JOENGHOENGGONG]
+    units:
+    - {loc: QASRI_UBAKHIYO, type: army}
+    - {loc: MAROODIYA, type: fleet}
+    - {loc: MAGAALAD_QASR, type: fleet}
+    - {loc: FOG_ISLES, type: fleet}
+  Vanbury_Steel_Guild:
+    capital: RICARDSPORT
+    centers: [STEELHYL, BAYCOAST, SOLDARCAM, QUINTUPLETS, TRISTANTON, RICARDSPORT,
+      PITHION, ENPKEIOS]
+    control: [STEELHYL, BAYCOAST, SOLDARCAM, WORMWAY, QUINTUPLETS, TRISTANTON, RICARDSPORT,
+      PITHION, ENPKEIOS]
+    home: [STEELHYL, BAYCOAST, SOLDARCAM, QUINTUPLETS, TRISTANTON, RICARDSPORT, PITHION,
+      ENPKEIOS]
+    units:
+    - {loc: STEELHYL, type: army}
+    - {loc: BAYCOAST, type: fleet}
+    - {loc: SOLDARCAM, type: army}
+    - {loc: QUINTUPLETS, type: army}
+    - {loc: TRISTANTON, type: fleet}
+    - {loc: RICARDSPORT, type: army}
+    - {loc: PITHION, type: army}
+    - {loc: ENPKEIOS, type: fleet}
+time: {season: 1, turn: 1}

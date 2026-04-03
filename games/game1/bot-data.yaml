@@ -1,0 +1,14 @@
+channels: {ameion-orders: Ameion, anbennar-orders: Anbennar, busilar-orders: Busilar,
+  command-orders: Dragon_Command, cyranvar-orders: Cyranvar, danggun-orders: Danggun,
+  gnomish-orders: Gnomish_Hierarchy, grombar-orders: Grombar, jaddanzuir-orders: Jaddanzuir,
+  kalsyto-orders: Kalsyto, khatalashya-orders: Khatalashya, konolkhatep-orders: Konolkhatep,
+  lorent-orders: Lorent, melakmengi-orders: Melakmengi, northern-orders: Northern_League,
+  nur-dhanaenn-orders: Nur_Dhanaenn, sarda-orders: Sarda_Empire, triarchy-orders: Triarchy,
+  umoji-baashidi-orders: Umoji_Baashidi, vanbury-orders: Vanbury_Steel_Guild}
+players: {}
+roles: {Ameion: Ameion, Anbennar: Anbennar, Busilar: Busilar, Cyranvar: Cyranvar,
+  Danggun: Danggun, Dragon Command: Dragon_Command, Gnomish Hierarchy: Gnomish_Hierarchy,
+  Grombar: Grombar, Jaddanzuir: Jaddanzuir, Khatalashya: Khatalashya, Konolkhatep: Konolkhatep,
+  Lorent: Lorent, Melakmengi: Melakmengi, Northern League: Northern_League, Nur Dhanaenn: Nur_Dhanaenn,
+  Sarda Empire: Sarda_Empire, Triarchy: Triarchy, Umoji Baashidi: Umoji_Baashidi,
+  Vanbury Steel Guild: Vanbury_Steel_Guild, kalsyto: Kalsyto}
