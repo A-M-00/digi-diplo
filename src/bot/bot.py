@@ -201,8 +201,8 @@ class DiplomacyBot(Versioned, DiscordBot):
 			total = 0
 			
 			for message in reversed(messages):
-				if message.clean_content.startswith('.order') and self._to_player(message.author) == player:
-					raw = message.clean_content.replace('.order', '\n')
+				if message.clean_content.startswith('.o') and self._to_player(message.author) == player:
+					raw = message.clean_content.replace('.o', '\n')
 					results = self._register_orders(player, raw.splitlines())
 					
 					num = int(results[0].split('Recorded ')[-1].split(' action')[0])
