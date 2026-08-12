@@ -371,9 +371,6 @@ class DiplomacyBot(Versioned, DiscordBot):
 
 	@as_command('score', brief='(admin) Prints out the current score for all players')
 	async def on_score(self, ctx):
-		if self._insufficient_permissions(ctx.author):
-			await ctx.send(f'{ctx.author.display_name} does not have sufficient permissions for this.')
-			return
 
 		scores = self.manager.compute_scores()
 		# lines.extend(f'{player}: {score}' for player, score in scores)
@@ -387,6 +384,26 @@ class DiplomacyBot(Versioned, DiscordBot):
 			prev_score = score
 
 		lines = tabulate(tbl, headers=['Place', 'Player', 'Score']).split('\n')
+		lines = [f'Current turn: **{self.manager.format_date()}**', '```', *lines, '```']
+		await self._batched_send(ctx, lines)
+
+	@as_command('builds', brief='Prints out the current build numbers for all players')
+	async def on_builds(self, ctx):
+        #if self._insufficient_permissions(ctx.author):
+        #    await ctx.send(f'{ctx.author.display_name} does not have sufficient permissions for this.')
+        #    return
+
+		builds = self.manager.compute_builds()
+
+		prev_place = 1
+		prev_score = None
+		tbl = []
+		for i, (player, builds_num) in enumerate(sorted(builds, key=lambda x: (-x[1], x[0]))):
+			prev_place = i + 1 if builds_num != prev_score else prev_place
+			tbl.append([prev_place if builds_num != prev_score else None, player, builds_num])
+			prev_score = builds_num
+
+		lines = tabulate(tbl, headers=['Place', 'Player', 'Builds']).split('\n')
 		lines = [f'Current turn: **{self.manager.format_date()}**', '```', *lines, '```']
 		await self._batched_send(ctx, lines)
 	
@@ -449,7 +466,8 @@ class DiplomacyBot(Versioned, DiscordBot):
 			if gains == 0:
 				return [f'You have no orders to submit.']
 			home = self.manager.state['players'][player]['home']
-			valid = [loc for loc in home if self.manager.find_unit(loc) is None]
+			centers = self.manager.state['players'][player]['centers']
+			valid = [loc for loc in home if self.manager.find_unit(loc) is None and loc in centers]
 			deferred = max(gains - len(valid), 0)
 			possible = gains - deferred
 			lines = [f'You could build{" up to" if gains > 1 else ""} {gains} '

@@ -153,14 +153,14 @@ Cyranvar:
 Konolkhatep:
   color: '#6c2d2b'
   demonym: Konolkhatepan
-  home: [AZKA_JEXIS, KOROSHESH, KHATERAT, ARGAZEEN, KWATUBIS]
+  home: [AZKA_JEXIS, KOROSHESH, KHETERAT, ARGAZEEN, KWATUBIS]
   name: Konolkhatep
-  territory: [VOGKEYSA, AZKA_JEXIS, KOROSHESH, SHASOURA, KHATERAT, UPPER_SORROW, ARGAZEEN,
+  territory: [VOGKEYSA, AZKA_JEXIS, KOROSHESH, SHASOURA, KHETERAT, UPPER_SORROW, ARGAZEEN,
     KWATUBIS, KHAWIT]
   units:
   - {loc: AZKA_JEXIS, type: fleet}
   - {loc: KOROSHESH, type: fleet}
-  - {loc: KHATERAT, type: army}
+  - {loc: KHETERAT, type: army}
   - {loc: ARGAZEEN, type: army}
   - {loc: KWATUBIS, type: army}
   capital: KHETERAT
@@ -185,7 +185,7 @@ Kalsyto:
   name: Kalsyto
   territory: [ZUURZOI, QARSHTULUU, BULREKAYIG, LANKINA]
   units:
-  - {loc: QARSHTULUU, type: fleet}
+  - {loc: QARSHTULUU-nc, type: fleet}
   - {loc: BULREKAYIG, type: army}
   - {loc: LANKINA, type: army}
   - {loc: OOL1, type: fleet}
@@ -193,11 +193,11 @@ Kalsyto:
 Danggun:
   color: '#6aae96'
   demonym: Dangguni
-  home: [NUUGEM, HYEONSEONG, HEYOOLGIN, JAENGUJAN]
+  home: [NUUGAM, HYEONSEONG, HEYOOLGIN, JAENGUJAN]
   name: Danggun
-  territory: [NUUGEM, HYEONSEONG, HEYOOLGIN, JAENGUJAN, NOKSESEOM]
+  territory: [NUUGAM, HYEONSEONG, HEYOOLGIN, JAENGUJAN, NAKSESEOM]
   units:
-  - {loc: NUUGEM, type: fleet}
+  - {loc: NUUGAM, type: fleet}
   - {loc: HYEONSEONG, type: army}
   - {loc: HEYOOLGIN, type: army}
   - {loc: JAENGUJAN, type: fleet}
@@ -274,16 +274,16 @@ Ameion:
   - {loc: IPPAROGA, type: army}
   - {loc: SOTEREION, type: army}
   - {loc: AMEION, type: fleet}
-  capital: AMEOIN
+  capital: AMEION
 Sarda_Empire:
   color: '#7b50bd'
   demonym: Sarda
-  home: [ARVERYNN, YRNGARD, VELS_DOMFAN, YNNSMOUTH]
+  home: [ARVERYNN, YNNGARD, VELS_DOMFAN, YNNSMOUTH]
   name: Sarda_Empire
-  territory: [ARVERYNN, LOWER_YNN, YRNGARD, VELS_DOMFAN, YNNSMOUTH]
+  territory: [ARVERYNN, LOWER_YNN, YNNGARD, VELS_DOMFAN, YNNSMOUTH]
   units:
   - {loc: ARVERYNN, type: army}
-  - {loc: YRNGARD, type: army}
+  - {loc: YNNGARD, type: army}
   - {loc: VELS_DOMFAN, type: army}
   - {loc: YNNSMOUTH, type: fleet}
   capital: ARVERYNN
@@ -291,10 +291,10 @@ Vanbury_Steel_Guild:
   color: '#be813c'
   demonym: Steel_Guildman
   home: [STEELHYL, BAYCOAST, SOLDARCAM, QUINTUPLETS, TRISTANTON, RICARDSPORT, PITHION,
-    ENPKEIOS]
+    EMPKEIOS]
   name: Vanbury_Steel_Guild
   territory: [STEELHYL, BAYCOAST, SOLDARCAM, WORMWAY, QUINTUPLETS, TRISTANTON, RICARDSPORT,
-    PITHION, ENPKEIOS]
+    PITHION, EMPKEIOS]
   units:
   - {loc: STEELHYL, type: army}
   - {loc: BAYCOAST, type: fleet}
@@ -303,7 +303,7 @@ Vanbury_Steel_Guild:
   - {loc: TRISTANTON, type: fleet}
   - {loc: RICARDSPORT, type: army}
   - {loc: PITHION, type: army}
-  - {loc: ENPKEIOS, type: fleet}
+  - {loc: EMPKEIOS, type: fleet}
   capital: RICARDSPORT
 Triarchy:
   color: '#90adda'

@@ -523,12 +523,12 @@ class DiplomacyManager(Versioned):
 	@staticmethod
 	def action_format():
 		return {
-			'move': '[X] to [Y]',
-			'support move': '[X] supports [Y] to [Z]',
+			'move': '[X] - [Y]',
+			'support move': '[X] supports [Y] - [Z]',
 			'support hold': '[X] support holds [Y]',
-			'convoy': '[X] convoys [Y] to [Z]',
+			'convoy': '[X] convoys [Y] - [Z]',
 			'hold': '[X] holds',
-			'retreat': '[X] retreats to [Y]',
+			'retreat': '[X] retreats [Y]',
 			'disband': '[X] disbands',
 			'build': 'Build [T] in [X]',
 		}
@@ -772,6 +772,11 @@ class DiplomacyManager(Versioned):
 		data = {player: len(self.state['players'][player]['centers']) for player in self.state['players']}
 		scores = sorted(data.items(), key=lambda x: x[1], reverse=True)
 		return scores
+	
+	def compute_builds(self) -> list[tuple[str, int]]:
+		data = self.state.get('adjustments', {})
+		builds = sorted(data.items(), key=lambda x: x[1], reverse=True)
+		return builds
 
 	
 	def parse_action(self, player, text, terms=None):

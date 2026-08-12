@@ -3,7 +3,7 @@ _base: [anben/pixels, wd/std]
 
 assets-path: assets/anben
 
-year-offset: 1836
+year-offset: 1820
 
 manager.renderer._type: anben-renderer
 

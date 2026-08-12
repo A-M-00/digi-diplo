@@ -145,3 +145,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Current local games, except base setup
+games/*
+!games/game1/
+!games/game1/**
+
+games/game1/states/
+games/game1/actions/
+games/game1/images
+
+# A file I made on my end to set up the game, but not needed for others
+main.py
+

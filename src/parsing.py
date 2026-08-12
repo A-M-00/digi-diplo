@@ -7,9 +7,13 @@ from .errors import ParsingFailedError
 # ----------------------------------------------------------------------------------
 
 # Simple synonyms and patterns for units, locations, etc.
+KEYWORDS = r"(?:hold|holds|h|move|moves|m|to|support|supports|s|disband|disbands|d|boom|convoy|convoys|c)"
 UNIT_PATTERN = r"(?:a|t|f|n|ar|tr|fl|na|army|troop|fleet|navy)"
 #LOCATION_PATTERN = r"[A-Za-z]{3}(?:-(?:nc|sc|ec|wc))?"
-LOCATION_PATTERN = r"[A-Za-z][A-Za-z_'1234]*(?:-(?:nc|sc|ec|wc))?\b"
+#LOCATION_PATTERN = r"[A-Za-z][A-Za-z_'1234]*(?:-(?:nc|sc|ec|wc))?\b"
+#LOCATION_PATTERN = rf"""(?!{KEYWORDS}\b)[A-Za-z][A-Za-z_'1234]*(?:-(?:nc|sc|ec|wc))?\b"""
+LOCATION_WORD = rf"(?!{KEYWORDS}\b)[A-Za-z][A-Za-z_'1234]*"
+LOCATION_PATTERN = rf"""{LOCATION_WORD}(?:\s+{LOCATION_WORD})*(?:-(?:nc|sc|ec|wc))?""" #This one should hopefully accept spaces´´´
 
 HOLD_SYNONYMS = r"(?:hold|holds|h|hd|holding)"
 MOVE_SYNONYMS = r"(?:move|moves|m|mv|moving)"
@@ -111,32 +115,16 @@ SUPPORT_MOVE_PATTERN_A = rf"""^
 \s+)?
 (?P<target>{LOCATION_WRAPPED})
 \s+
-((?:{TO_SYNONYMS})
-\s+)?
+(?P<to_verb>{TO_SYNONYMS})
+\s+
 (?P<dest>{LOCATION_WRAPPED})
 $"""
 
-SUPPORT_MOVE_PATTERN_B = rf"""^
-((?P<sup_verb>{SUPPORT_SYNONYMS})
-\s+)?
-((?P<unit>{UNIT_PATTERN})
-{IN_AT_OPT}?
-\s+)?
-(?P<loc>{LOCATION_WRAPPED}):?
-\s+
-((?P<tunit>{UNIT_PATTERN})
-{IN_AT_OPT}?
-\s+)?
-(?P<target>{LOCATION_WRAPPED})
-\s+
-((?:{TO_SYNONYMS})
-\s+)?
-(?P<dest>{LOCATION_WRAPPED})
-$"""
+#SUPPORT_MOVE_PATTERN_B = rf"""^((?P<sup_verb>{SUPPORT_SYNONYMS})\s+)?((?P<unit>{UNIT_PATTERN}){IN_AT_OPT}?\s+)?(?P<loc>{LOCATION_WRAPPED}):?\s+((?P<tunit>{UNIT_PATTERN}){IN_AT_OPT}?\s+)?(?P<target>{LOCATION_WRAPPED})\s+((?:{TO_SYNONYMS})\s+)?(?P<dest>{LOCATION_WRAPPED})$"""
 
 SUPPORT_MOVE_PATTERNS = [
 	re.compile(SUPPORT_MOVE_PATTERN_A, re.IGNORECASE | re.VERBOSE),
-	re.compile(SUPPORT_MOVE_PATTERN_B, re.IGNORECASE | re.VERBOSE),
+	#re.compile(SUPPORT_MOVE_PATTERN_B, re.IGNORECASE | re.VERBOSE),
 ]
 
 #
@@ -433,6 +421,12 @@ def parse_order(order_text: str, group: Union[str,Iterable[str]],
 			if match:
 				matches[order_type] = match.groupdict()
 	if matches:
+		for order_type, data in matches.items():
+			for k, v in data.items():
+				if isinstance(v, str):
+                    # normalize all location-like fields
+					if "loc" in k or k in {"dest", "target"}:
+						data[k] = v.replace("_", " ").strip()
 		return matches
 
 	raise ParsingFailedError(f"Could not parse order: '{order_text}'.")

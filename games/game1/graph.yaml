@@ -3,7 +3,7 @@ ARBARAN:
   area: 9966
   edges:
     army: [AINETHIL, ANCARD, DAMESCROWN, GAWETON, ROTTENSTEP, VERTESK]
-    fleet: [BAY_OF_VERTESK, DAMESCROWN, VERTESK]
+    fleet: [BAY OF VERTESK, DAMESCROWN, VERTESK]
   locs:
     label:
     - [0, 0]
@@ -18,8 +18,8 @@ DAMESCROWN:
   ID: 2
   area: 4163
   edges:
-    army: [AINETHIL, ARBARAN, IBEVAR_CITY, KONWELL, SILVERKEEP]
-    fleet: [ARBARAN, BAY_OF_VERTESK, DAMESHEAD, KONWELL]
+    army: [AINETHIL, ARBARAN, IBEVAR CITY, KONWELL, SILVERKEEP]
+    fleet: [ARBARAN, BAY OF VERTESK, DAMESHEAD, KONWELL]
   locs:
     label:
     - [0, 0]
@@ -37,7 +37,7 @@ SILVERKEEP:
   ID: 3
   area: 7272
   edges:
-    army: [ARANNEN, DAMESCROWN, DOVESWALL, IBEVAR_CITY, KONWELL, MAGDALAIRE, MOONHAVEN,
+    army: [ARANNEN, DAMESCROWN, DOVESWALL, IBEVAR CITY, KONWELL, MAGDALAIRE, MOONHAVEN,
       VERNE]
   locs:
     label:
@@ -73,7 +73,7 @@ NECKCLIFFE:
   area: 4751
   edges:
     army: [ANBENNCOST, EXWES, ROILSARD, RUBYHOLD]
-    fleet: [ANBENNCOST, BAY_OF_WINES, EXWES, ROILSARD]
+    fleet: [ANBENNCOST, BAY OF WINES, EXWES, ROILSARD]
   locs:
     label:
     - [0, 0]
@@ -92,7 +92,7 @@ MOONHAVEN:
   area: 4215
   edges:
     army: [ANBENNCOST, KONWELL, SILVERKEEP, VERNE]
-    fleet: [ANBENNCOST, BAY_OF_WINES, KONWELL, VERNE]
+    fleet: [ANBENNCOST, BAY OF WINES, KONWELL, VERNE]
   locs:
     label:
     - [0, 0]
@@ -108,7 +108,7 @@ VERNE:
   area: 6266
   edges:
     army: [LIONCOST, MAGDALAIRE, MOONHAVEN, SILVERKEEP]
-    fleet: [BAY_OF_WINES, DOG_COAST, LIONCOST, MOONHAVEN]
+    fleet: [BAY OF WINES, DOG COAST, LIONCOST, MOONHAVEN]
   locs:
     label:
     - [0, 0]
@@ -119,12 +119,12 @@ VERNE:
   name: VERNE
   tiles: [7]
   type: coast
-ORRIC_CHEID:
+ORRIC CHEID:
   ID: 8
   area: 5201
   edges:
-    army: [NEW_UANCED]
-    fleet: [BANISHED_SEA, CALAMITY_PASS, NEW_UANCED]
+    army: [NEW UANCED]
+    fleet: [BANISHED SEA, CALAMITY PASS, NEW UANCED]
   locs:
     label:
     - [0, 0]
@@ -134,7 +134,7 @@ ORRIC_CHEID:
     - [1289.0, 3007.0]
     sc:
     - [1293.0, 3014.0]
-  name: ORRIC_CHEID
+  name: ORRIC CHEID
   sc: 1
   tiles: [8]
   type: coast
@@ -143,7 +143,7 @@ NURCANDAR:
   area: 2619
   edges:
     army: [OZTENCOST, QUINTUPLETS, TUMBATER]
-    fleet: [GULF_OF_HARAF, OZTENCOST, QUINTUPLETS]
+    fleet: [GULF OF HARAF, OZTENCOST, QUINTUPLETS]
   locs:
     label:
     - [0, 0]
@@ -161,8 +161,8 @@ DEVINAIRE:
   ID: 10
   area: 3846
   edges:
-    army: [ISLES_OF_PLENTY]
-    fleet: [BAY_OF_RESPITE, CHARMED_SEA, ISLES_OF_PLENTY, REAPERS_COAST]
+    army: [ISLES OF PLENTY]
+    fleet: [BAY OF RESPITE, CHARMED SEA, ISLES OF PLENTY, REAPERS COAST]
   locs:
     label:
     - [0, 0]
@@ -180,8 +180,8 @@ NINAK:
   ID: 11
   area: 629
   edges:
-    army: [ADARU, MARIDS_DELTA, REVERS]
-    fleet: [LATRAN, MARIDS_DELTA, REVERS]
+    army: [ADARU, MARIDS DELTA, REVERS]
+    fleet: [LATRAN, MARIDS DELTA, REVERS]
   locs:
     label:
     - [0, 0]
@@ -200,7 +200,7 @@ ANBENNCOST:
   area: 8333
   edges:
     army: [EXWES, KONWELL, MOONHAVEN, NECKCLIFFE]
-    fleet: [BAY_OF_WINES, DAMESHEAD, EXWES, KONWELL, MOONHAVEN, NECKCLIFFE]
+    fleet: [BAY OF WINES, DAMESHEAD, EXWES, KONWELL, MOONHAVEN, NECKCLIFFE]
   locs:
     label:
     - [0, 0]
@@ -214,12 +214,12 @@ ANBENNCOST:
   sc: 1
   tiles: [12]
   type: coast
-ISLES_OF_PLENTY:
+ISLES OF PLENTY:
   ID: 13
   area: 27716
   edges:
-    army: [DEVINAIRE, FAR_PLENTY, TROPAICOST]
-    fleet: [BAY_OF_RESPITE, CHARMED_SEA, CRATERDEEP, DEVINAIRE, FAR_PLENTY, TROPAICOST]
+    army: [DEVINAIRE, FAR PLENTY, TROPAICOST]
+    fleet: [BAY OF RESPITE, CHARMED SEA, CRATERDEEP, DEVINAIRE, FAR PLENTY, TROPAICOST]
   locs:
     label:
     - [0, 0]
@@ -227,14 +227,15 @@ ISLES_OF_PLENTY:
     - [1432.0, 1880.0]
     unit:
     - [1495.0, 1858.0]
-  name: ISLES_OF_PLENTY
+  name: ISLES OF PLENTY
   tiles: [13]
   type: coast
 VRENDIN:
   ID: 14
   area: 4618
   edges:
-    fleet: [COAST_OF_TIMBER, KILA_TORAM, SURAELS_RESPITE]
+    fleet: [COAST OF TIMBER, KILA TORAM, SURAELS RESPITE]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -252,7 +253,8 @@ KIINDTIR:
   ID: 15
   area: 2760
   edges:
-    fleet: [RADIANT_STRAITS, SUNSHADE_BAY, THAWS_END]
+    fleet: [RADIANT STRAITS, SUNSHADE BAY, THAWS END]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -280,7 +282,7 @@ KRAKDUNVHOR:
   name: KRAKDUNVHOR
   tiles: [16]
   type: land
-SERPENTSPINE_PROPER:
+SERPENTSPINE PROPER:
   ID: 17
   area: 48673
   edges: {}
@@ -291,10 +293,10 @@ SERPENTSPINE_PROPER:
     - [511.0, 4730.0]
     unit:
     - [573.0, 4656.0]
-  name: SERPENTSPINE_PROPER
+  name: SERPENTSPINE PROPER
   tiles: [17]
   type: land
-NORTHERN_HOLDS:
+NORTHERN HOLDS:
   ID: 18
   area: 15009
   edges: {}
@@ -305,13 +307,14 @@ NORTHERN_HOLDS:
     - [467.0, 4513.0]
     unit:
     - [466.0, 4556.0]
-  name: NORTHERN_HOLDS
+  name: NORTHERN HOLDS
   tiles: [18]
   type: land
-DALAIREY_WASTES:
+DALAIREY WASTES:
   ID: 19
   area: 90564
-  edges: {}
+  edges:
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -319,10 +322,10 @@ DALAIREY_WASTES:
     - [707.0, 2132.0]
     unit:
     - [660.0, 2041.0]
-  name: DALAIREY_WASTES
+  name: DALAIREY WASTES
   tiles: [19]
   type: coast
-NOT_NAMED_20:
+NOT NAMED 20:
   ID: 20
   area: 5113
   edges: {}
@@ -333,7 +336,7 @@ NOT_NAMED_20:
     - [474.0, 3962.0]
     unit:
     - [514.0, 3836.0]
-  name: NOT_NAMED_20
+  name: NOT NAMED 20
   tiles: [20]
   type: land
 SERPENTREACH:
@@ -350,7 +353,7 @@ SERPENTREACH:
   name: SERPENTREACH
   tiles: [21]
   type: land
-JADE_MINES:
+JADE MINES:
   ID: 22
   area: 12775
   edges: {}
@@ -361,7 +364,7 @@ JADE_MINES:
     - [906.0, 5947.0]
     unit:
     - [876.0, 5867.0]
-  name: JADE_MINES
+  name: JADE MINES
   tiles: [22]
   type: land
 SEGHDIR:
@@ -378,7 +381,7 @@ SEGHDIR:
   name: SEGHDIR
   tiles: [23]
   type: land
-DAKAZ_CARZAVIYA:
+DAKAZ CARZAVIYA:
   ID: 24
   area: 25309
   edges: {}
@@ -389,10 +392,10 @@ DAKAZ_CARZAVIYA:
     - [1012.0, 5722.0]
     unit:
     - [1033.0, 5543.0]
-  name: DAKAZ_CARZAVIYA
+  name: DAKAZ CARZAVIYA
   tiles: [24]
   type: land
-EAST_SALAHAD:
+EAST SALAHAD:
   ID: 25
   area: 41238
   edges: {}
@@ -403,13 +406,14 @@ EAST_SALAHAD:
     - [1417.0, 4860.0]
     unit:
     - [1406.0, 4955.0]
-  name: EAST_SALAHAD
+  name: EAST SALAHAD
   tiles: [25]
   type: land
-KAYDHANO_SEA:
+KAYDHANO SEA:
   ID: 26
   area: 51056
-  edges: {}
+  edges:
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -417,10 +421,10 @@ KAYDHANO_SEA:
     - [2359.0, 1797.0]
     unit:
     - [2417.0, 1852.0]
-  name: KAYDHANO_SEA
+  name: KAYDHANO SEA
   tiles: [26]
   type: coast
-FLOWER_GROVE:
+FLOWER GROVE:
   ID: 27
   area: 7307
   edges:
@@ -432,14 +436,14 @@ FLOWER_GROVE:
     - [694.0, 4574.0]
     unit:
     - [706.0, 4610.0]
-  name: FLOWER_GROVE
+  name: FLOWER GROVE
   tiles: [27]
   type: land
 CIRANMYNA:
   ID: 28
   area: 3059
   edges:
-    army: [BLADEMARCHES, DRENNETHILLE, ELYNAILE, FLOWER_GROVE, MARRHOLD]
+    army: [BLADEMARCHES, DRENNETHILLE, ELYNAILE, FLOWER GROVE, MARRHOLD]
   locs:
     label:
     - [0, 0]
@@ -457,7 +461,7 @@ ELYNAILE:
   ID: 29
   area: 6238
   edges:
-    army: [ARCA_CORVUR, BLADEMARCHES, BONE_GROVE, CIRANMYNA, DRENNETHILLE, GABLAINE]
+    army: [ARCA CORVUR, BLADEMARCHES, BONE GROVE, CIRANMYNA, DRENNETHILLE, GABLAINE]
   locs:
     label:
     - [0, 0]
@@ -475,7 +479,7 @@ DRENNETHILLE:
   ID: 30
   area: 6196
   edges:
-    army: [BONE_GROVE, CIRANMYNA, ELYNAILE, FAEHEART, FLOWER_GROVE]
+    army: [BONE GROVE, CIRANMYNA, ELYNAILE, FAEHEART, FLOWER GROVE]
   locs:
     label:
     - [0, 0]
@@ -493,7 +497,7 @@ IMYHAIN:
   ID: 31
   area: 3942
   edges:
-    army: [FAEHEART, FLOWER_GROVE, SHADOW_GROVE]
+    army: [FAEHEART, FLOWER GROVE, SHADOW GROVE]
   locs:
     label:
     - [0, 0]
@@ -507,7 +511,7 @@ IMYHAIN:
   sc: 1
   tiles: [31]
   type: land
-SHADOW_GROVE:
+SHADOW GROVE:
   ID: 32
   area: 2992
   edges:
@@ -519,15 +523,15 @@ SHADOW_GROVE:
     - [812.0, 4668.0]
     unit:
     - [810.0, 4712.0]
-  name: SHADOW_GROVE
+  name: SHADOW GROVE
   tiles: [32]
   type: land
 ASHAMADIAT:
   ID: 33
   area: 6341
   edges:
-    army: [KASHYZIR, MAROODIYA, NAZHNI, QASRI_UBAKHIYO]
-    fleet: [LESSER_LAMENT, MAROODIYA, NAZHNI]
+    army: [KASHYZIR, MAROODIYA, NAZHNI, QASRI UBAKHIYO]
+    fleet: [LESSER LAMENT, MAROODIYA, NAZHNI]
   locs:
     label:
     - [0, 0]
@@ -538,12 +542,12 @@ ASHAMADIAT:
   name: ASHAMADIAT
   tiles: [33]
   type: coast
-QASRI_UBAKHIYO:
+QASRI UBAKHIYO:
   ID: 34
   area: 9691
   edges:
     army: [ASHAMADIAT, KASHYZIR, MAROODIYA]
-    fleet: [KASHYZIR, KEDWALI_GULF, MAROODIYA]
+    fleet: [KASHYZIR, KEDWALI GULF, MAROODIYA]
   locs:
     label:
     - [0, 0]
@@ -553,7 +557,7 @@ QASRI_UBAKHIYO:
     - [2152.0, 5361.0]
     sc:
     - [2200.0, 5430.0]
-  name: QASRI_UBAKHIYO
+  name: QASRI UBAKHIYO
   sc: 1
   tiles: [34]
   type: coast
@@ -561,8 +565,8 @@ MAROODIYA:
   ID: 35
   area: 7232
   edges:
-    army: [ASHAMADIAT, MAGAALAD_QASR, QASRI_UBAKHIYO]
-    fleet: [ASHAMADIAT, KEDWALI_GULF, LESSER_LAMENT, MAGAALAD_QASR, QASRI_UBAKHIYO]
+    army: [ASHAMADIAT, MAGAALAD QASR, QASRI UBAKHIYO]
+    fleet: [ASHAMADIAT, KEDWALI GULF, LESSER LAMENT, MAGAALAD QASR, QASRI UBAKHIYO]
   locs:
     label:
     - [0, 0]
@@ -576,13 +580,13 @@ MAROODIYA:
   sc: 1
   tiles: [35]
   type: coast
-MAGAALAD_QASR:
+MAGAALAD QASR:
   ID: 36
   area: 18829
   edges:
-    army: [ARDIM_OARAST, ARDMIYAN_REPUBLIC, MAROODIYA]
-    fleet: [ARDIM_OARAST, ARDMIYAN_REPUBLIC, BIYOAQOON_SEA, KEDWALI_GULF, LESSER_LAMENT,
-      MAROODIYA, WORSTYEAR_SEA]
+    army: [ARDIM OARAST, ARDMIYAN REPUBLIC, MAROODIYA]
+    fleet: [ARDIM OARAST, ARDMIYAN REPUBLIC, BIYOAQOON SEA, KEDWALI GULF, LESSER LAMENT,
+      MAROODIYA, WORSTYEAR SEA]
   locs:
     label:
     - [0, 0]
@@ -592,15 +596,16 @@ MAGAALAD_QASR:
     - [2463.0, 5536.0]
     sc:
     - [2466.0, 5556.0]
-  name: MAGAALAD_QASR
+  name: MAGAALAD QASR
   sc: 1
   tiles: [36]
   type: coast
-FOG_ISLES:
+FOG ISLES:
   ID: 37
   area: 3216
   edges:
-    fleet: [CAYDHSADDE_SEA, COFFEE_COAST, LANUN_DEPTHS]
+    fleet: [CAYDHSADDE SEA, COFFEE COAST, LANUN DEPTHS]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -610,7 +615,7 @@ FOG_ISLES:
     - [1894.0, 5858.0]
     sc:
     - [1877.0, 5861.0]
-  name: FOG_ISLES
+  name: FOG ISLES
   sc: 1
   tiles: [37]
   type: coast
@@ -619,7 +624,7 @@ SORMAW:
   area: 19318
   edges:
     army: [SENAINE, SORFEN]
-    fleet: [LEECHDENS, SENAINE, SORFEN, VINE_CURRENT]
+    fleet: [LEECHDENS, SENAINE, SORFEN, VINE CURRENT]
   locs:
     label:
     - [0, 0]
@@ -637,8 +642,8 @@ SENAINE:
   ID: 39
   area: 17034
   edges:
-    army: [DALAINE, EAST_EFFELAI, SORFEN, SORMAW, THAVOI]
-    fleet: [DALAINE, SORMAW, VINE_CURRENT]
+    army: [DALAINE, EAST EFFELAI, SORFEN, SORMAW, THAVOI]
+    fleet: [DALAINE, SORMAW, VINE CURRENT]
   locs:
     label:
     - [0, 0]
@@ -656,7 +661,7 @@ SORFEN:
   ID: 40
   area: 19908
   edges:
-    army: [EAST_EFFELAI, SELPARURA, SENAINE, SORMAW]
+    army: [EAST EFFELAI, SELPARURA, SENAINE, SORMAW]
     fleet: [LEECHDENS, SELPARURA, SORMAW]
   locs:
     label:
@@ -676,7 +681,7 @@ DALAINE:
   area: 11474
   edges:
     army: [DRAKESGUARD, SENAINE, THAVOI]
-    fleet: [DRAKESGUARD, LAIS_APPREACH, SENAINE, VINE_CURRENT]
+    fleet: [DRAKESGUARD, LAIS APPREACH, SENAINE, VINE CURRENT]
   locs:
     label:
     - [0, 0]
@@ -694,8 +699,8 @@ ZUURZOI:
   ID: 42
   area: 66712
   edges:
-    army: [BAGDAGERIN, BULREKAYIG, GHAMILBULI_TERVALBI, KOKEVDAN, QARSHTULUU]
-    fleet: [HOKHOS_SEA, KOKEVDAN, QARSHTULUU-nc]
+    army: [BAGDAGERIN, BULREKAYIG, GHAMILBULI TERVALBI, KOKEVDAN, QARSHTULUU]
+    fleet: [HOKHOS SEA, KOKEVDAN, QARSHTULUU-nc]
   locs:
     label:
     - [0, 0]
@@ -711,9 +716,9 @@ QARSHTULUU:
   area: 34434
   edges:
     army: [BULREKAYIG, LANKINA, ZUURZOI]
-    fleet: 
-      nc: [BLUE_SEA, HOKHOS_SEA, LANKINA, ZUURZOI]
-      sc: [BULREKAYIG, HOKHOS_SEA, LANKINA, TRIUNIC_LAKES]
+    fleet:
+      nc: [BLUE SEA, HOKHOS SEA, LANKINA, ZUURZOI]
+      sc: [BULREKAYIG, HOKHOS SEA, LANKINA, TRIUNIC LAKES]
   locs:
     label:
     - [0, 0]
@@ -723,6 +728,11 @@ QARSHTULUU:
     - [471.0, 5577.0]
     sc:
     - [461.0, 5600.0]
+    coast-unit:
+      nc: 
+        - [451.0, 5577.0]
+      sc:
+        - [491.0, 5577.0]
   name: QARSHTULUU
   sc: 1
   tiles: [43]
@@ -731,8 +741,8 @@ BULREKAYIG:
   ID: 46
   area: 38328
   edges:
-    army: [APORLAEN, GHAMILBULI_TERVALBI, ORKECH, QARSHTULUU, ZUURZOI]
-    fleet: [ORKECH, QARSHTULUU-sc, TRIUNIC_LAKES]
+    army: [APORLAEN, GHAMILBULI TERVALBI, ORKECH, QARSHTULUU, ZUURZOI]
+    fleet: [ORKECH, QARSHTULUU-sc, TRIUNIC LAKES]
   locs:
     label:
     - [0, 0]
@@ -750,8 +760,8 @@ LANKINA:
   ID: 47
   area: 13997
   edges:
-    army: [ORKECH, QARSHTULUU]
-    fleet: [BLUE_SEA, KUKATODIC_BIGHT, ORKECH, QARSHTULUU-sc, QARSHTULUU-nc, TRIUNIC_LAKES]
+    army: [ORKECH, QARSHTULUU, SOCHULEAG]
+    fleet: [BLUE SEA, KUKATODIC BIGHT, ORKECH, QARSHTULUU-sc, QARSHTULUU-nc, TRIUNIC LAKES, SOCHULEAG]
   locs:
     label:
     - [0, 0]
@@ -765,12 +775,12 @@ LANKINA:
   sc: 1
   tiles: [47]
   type: coast
-NUUGEM:
+NUUGAM:
   ID: 48
   area: 32956
   edges:
-    army: [HYEONSEONG, KOKEVDAN, NOKSESEOM, OINIKHUDI, ULUKUNGU]
-    fleet: [HYEONSEONG, NOKSESEOM, ODHEONGU_SEA, ULUKUNGU]
+    army: [HYEONSEONG, KOKEVDAN, NAKSESEOM, OINIKHUDI, ULUKUNGU]
+    fleet: [HYEONSEONG, NAKSESEOM, ODHEONGU SEA, ULUKUNGU]
   locs:
     label:
     - [0, 0]
@@ -780,7 +790,7 @@ NUUGEM:
     - [574.0, 6475.0]
     sc:
     - [523.0, 6546.0]
-  name: NUUGEM
+  name: NUUGAM
   sc: 1
   tiles: [48]
   type: coast
@@ -788,8 +798,8 @@ HYEONSEONG:
   ID: 49
   area: 67271
   edges:
-    army: [HEYOOLGIN, JAENGUJAN, JIANTSANG, NUUGEM, OINIKHUDI]
-    fleet: [JAENGUJAN, NUUGEM, ODHEONGU_SEA]
+    army: [HEYOOLGIN, JAENGUJAN, JIANTSANG, NUUGAM, OINIKHUDI]
+    fleet: [JAENGUJAN, NUUGAM, ODHEONGU SEA]
   locs:
     label:
     - [0, 0]
@@ -807,7 +817,7 @@ HEYOOLGIN:
   ID: 50
   area: 32771
   edges:
-    army: [BAZUNEIZAR, HYEONSEONG, JIANTSANG, OINIKHUDI, ONI_HILLS]
+    army: [BAZUNEIZAR, HYEONSEONG, JIANTSANG, OINIKHUDI, ONI HILLS]
   locs:
     label:
     - [0, 0]
@@ -826,7 +836,7 @@ JAENGUJAN:
   area: 14146
   edges:
     army: [HYEONSEONG, JIANTSANG]
-    fleet: [HYEONSEONG, JIANTSANG, ODHEONGU_SEA, SEA_OF_SPEARS]
+    fleet: [HYEONSEONG, JIANTSANG, ODHEONGU SEA, SEA OF SPEARS]
   locs:
     label:
     - [0, 0]
@@ -844,8 +854,8 @@ KONUNGRHAVEN:
   ID: 52
   area: 67601
   edges:
-    army: [BAYVEK, OLAVLUND, TROLL_FORESTS]
-    fleet: [BAYVEK, GIANTS_GRAVE_SEA, NORTHERN_OCEAN, OLAVLUND, REAVERS_SEA]
+    army: [BAYVEK, OLAVLUND, TROLL FORESTS]
+    fleet: [BAYVEK, GIANTS GRAVE SEA, NORTHERN OCEAN, OLAVLUND, REAVERS SEA]
   locs:
     label:
     - [0, 0]
@@ -864,7 +874,7 @@ BAYVEK:
   area: 12115
   edges:
     army: [GAWETON, KONUNGRHAVEN, ROTTENSTEP, WESTMOORS]
-    fleet: [GIANTS_GRAVE_SEA, KONUNGRHAVEN, REAVERS_SEA, ROTTENSTEP, WESTMOORS]
+    fleet: [GIANTS GRAVE SEA, KONUNGRHAVEN, REAVERS SEA, ROTTENSTEP, WESTMOORS]
   locs:
     label:
     - [0, 0]
@@ -902,7 +912,7 @@ WESTMOORS:
   area: 9602
   edges:
     army: [BAYVEK, DRAGONSPINE, GAWETON]
-    fleet: [BAYVEK, DRAGONSPINE, REAVERS_SEA]
+    fleet: [BAYVEK, DRAGONSPINE, REAVERS SEA]
   locs:
     label:
     - [0, 0]
@@ -935,8 +945,8 @@ ROTTENSTEP:
   ID: 57
   area: 15415
   edges:
-    army: [ANCARD, ARBARAN, BAYVEK, GAWETON, MIDDLE_ALEN, WYVERNHART]
-    fleet: [BAYVEK, GIANTS_GRAVE_SEA, MIDDLE_ALEN]
+    army: [ANCARD, ARBARAN, BAYVEK, GAWETON, MIDDLE ALEN, WYVERNHART]
+    fleet: [BAYVEK, GIANTS GRAVE SEA, MIDDLE ALEN]
   locs:
     label:
     - [0, 0]
@@ -955,7 +965,7 @@ VERTESK:
   area: 4837
   edges:
     army: [ARBARAN, ELKMARCH, GAWETON]
-    fleet: [ARBARAN, BAY_OF_VERTESK, ELKMARCH]
+    fleet: [ARBARAN, BAY OF VERTESK, ELKMARCH]
   locs:
     label:
     - [0, 0]
@@ -973,7 +983,8 @@ EMULYON:
   ID: 59
   area: 4512
   edges:
-    fleet: [COAST_OF_BETRAYAL, COLDSWELLS, FAR_EXPANSE, REMNANT_SEA]
+    fleet: [COAST OF BETRAYAL, COLDSWELLS, FAR EXPANSE, REMNANT SEA]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -992,7 +1003,7 @@ OZTENCOST:
   area: 3212
   edges:
     army: [LOVERSIGHT, NURCANDAR, QUITL, TUMBATER]
-    fleet: [GULF_OF_HARAF, LOVERSIGHT, NURCANDAR]
+    fleet: [GULF OF HARAF, LOVERSIGHT, NURCANDAR]
   locs:
     label:
     - [0, 0]
@@ -1011,7 +1022,7 @@ WHITTINGTON:
   area: 1939
   edges:
     army: [CROVANSPIER, JENKO, NAKOWICH, SELCOST]
-    fleet: [CROVANSPIER, DAO_NAKO_COAST, SELCOST]
+    fleet: [CROVANSPIER, DAO NAKO COAST, SELCOST]
   locs:
     label:
     - [0, 0]
@@ -1030,7 +1041,7 @@ OK:
   area: 704
   edges:
     army: [AKR, DEGITHION]
-    fleet: [AKR, DEGITHION, KILA_TORAM]
+    fleet: [AKR, DEGITHION, KILA TORAM]
   locs:
     label:
     - [0, 0]
@@ -1048,8 +1059,8 @@ VOGKEYSA:
   ID: 63
   area: 28532
   edges:
-    army: [DESHAK, KHASA, KOROSHESH, WEST_SARHAL, YAIKOBIX]
-    fleet: [DESHAK, KOROSHESH, SEA_OF_ECHOES, TEFKORA_PASS]
+    army: [DESHAK, KHASA, KOROSHESH, WEST SARHAL, YAIKOBIX]
+    fleet: [DESHAK, KOROSHESH, SEA OF ECHOES, TEFKORA PASS]
   locs:
     label:
     - [0, 0]
@@ -1060,12 +1071,12 @@ VOGKEYSA:
   name: VOGKEYSA
   tiles: [63]
   type: coast
-AZKA_JEXIS:
+AZKA JEXIS:
   ID: 64
   area: 20928
   edges:
-    army: [BRASAN, KHATERAT, KOROSHESH, SHASOURA]
-    fleet: [BRASAN, KOROSHESH, SEA_OF_ECHOES, SEA_OF_ELIZNA]
+    army: [BRASAN, KHETERAT, KOROSHESH, SHASOURA]
+    fleet: [BRASAN, KOROSHESH, SEA OF ECHOES, SEA OF ELIZNA]
   locs:
     label:
     - [0, 0]
@@ -1075,7 +1086,7 @@ AZKA_JEXIS:
     - [1223.0, 4503.0]
     sc:
     - [1166.0, 4478.0]
-  name: AZKA_JEXIS
+  name: AZKA JEXIS
   sc: 1
   tiles: [64]
   type: coast
@@ -1083,8 +1094,8 @@ KOROSHESH:
   ID: 65
   area: 14936
   edges:
-    army: [AZKA_JEXIS, KHATERAT, VOGKEYSA, WEST_SARHAL]
-    fleet: [AZKA_JEXIS, SEA_OF_ECHOES, VOGKEYSA]
+    army: [AZKA JEXIS, KHETERAT, VOGKEYSA, WEST SARHAL]
+    fleet: [AZKA JEXIS, SEA OF ECHOES, VOGKEYSA]
   locs:
     label:
     - [0, 0]
@@ -1102,7 +1113,7 @@ SHASOURA:
   ID: 66
   area: 33467
   edges:
-    army: [ARDU, AZKA_JEXIS, BRASAN, KHATERAT, UPPER_SORROW]
+    army: [ARDU, AZKA JEXIS, BRASAN, KHETERAT, UPPER SORROW]
   locs:
     label:
     - [0, 0]
@@ -1113,11 +1124,11 @@ SHASOURA:
   name: SHASOURA
   tiles: [66]
   type: land
-KHATERAT:
+KHETERAT:
   ID: 67
   area: 37319
   edges:
-    army: [AZKA_JEXIS, GOLUTZARR, KOROSHESH, SHASOURA, UPPER_SORROW, WEST_SARHAL]
+    army: [AZKA JEXIS, GOLUTZARR, KOROSHESH, SHASOURA, UPPER SORROW, WEST SARHAL]
   locs:
     label:
     - [0, 0]
@@ -1127,15 +1138,15 @@ KHATERAT:
     - [1366.0, 4466.0]
     sc:
     - [1322.0, 4426.0]
-  name: KHATERAT
+  name: KHETERAT
   sc: 1
   tiles: [67]
   type: land
-UPPER_SORROW:
+UPPER SORROW:
   ID: 68
   area: 51365
   edges:
-    army: [ARGAZEEN, GOLUTZARR, JAGAB_FARU, KHATERAT, KHAWIT, KWATUBIS, SAMSUBAT,
+    army: [ARGAZEEN, GOLUTZARR, JAGAB FARU, KHETERAT, KHAWIT, KWATUBIS, SAMSUBAT,
       SHASOURA]
   locs:
     label:
@@ -1144,14 +1155,14 @@ UPPER_SORROW:
     - [1476.0, 4598.0]
     unit:
     - [1517.0, 4671.0]
-  name: UPPER_SORROW
+  name: UPPER SORROW
   tiles: [68]
   type: land
 ARGAZEEN:
   ID: 69
   area: 26047
   edges:
-    army: [DUWARKANI, MAZEXHAD, SAMSUBAT, UPPER_SORROW]
+    army: [DUWARKANI, MAZEXHAD, SAMSUBAT, UPPER SORROW]
   locs:
     label:
     - [0, 0]
@@ -1169,7 +1180,7 @@ KWATUBIS:
   ID: 70
   area: 12747
   edges:
-    army: [AMEZA, KHAWIT, MUZINGRAZI, SAMSUBAT, UPPER_SORROW, ZUVAVIM]
+    army: [AMEZA, KHAWIT, MUZINGRAZI, SAMSUBAT, UPPER SORROW, ZUVAVIM]
   locs:
     label:
     - [0, 0]
@@ -1187,7 +1198,7 @@ KHAWIT:
   ID: 71
   area: 7080
   edges:
-    army: [AMEZA, JAGAB_FARU, KUNOLO, KWATUBIS, UPPER_SORROW]
+    army: [AMEZA, JAGAB FARU, KUNOLO, KWATUBIS, UPPER SORROW]
   locs:
     label:
     - [0, 0]
@@ -1198,12 +1209,12 @@ KHAWIT:
   name: KHAWIT
   tiles: [71]
   type: land
-NOKSESEOM:
+NAKSESEOM:
   ID: 72
   area: 65454
   edges:
-    army: [NUUGEM, ULUKUNGU, ZONGBEIKGANG]
-    fleet: [NUUGEM, ODHEONGU_SEA, ULUKUNGU, WIDOWS_SEA, ZONGBEIKGANG]
+    army: [NUUGAM, ULUKUNGU, ZONGBEIKGANG]
+    fleet: [NUUGAM, ODHEONGU SEA, ULUKUNGU, WIDOWS SEA, ZONGBEIKGANG]
   locs:
     label:
     - [0, 0]
@@ -1211,15 +1222,15 @@ NOKSESEOM:
     - [367.0, 6575.0]
     unit:
     - [412.0, 6654.0]
-  name: NOKSESEOM
+  name: NAKSESEOM
   tiles: [72]
   type: coast
 TUNIN:
   ID: 73
   area: 14732
   edges:
-    army: [NEW_CESTAIRE, RED_COAST]
-    fleet: [BLOODGROVES_COAST, GRAXILZIN_SEA, NEW_CESTAIRE, RED_COAST]
+    army: [NEW CESTAIRE, RED COAST]
+    fleet: [BLOODGROVES COAST, GRAXILZIN SEA, NEW CESTAIRE, RED COAST]
   locs:
     label:
     - [0, 0]
@@ -1237,9 +1248,9 @@ PANHENAW:
   ID: 74
   area: 18083
   edges:
-    army: [CRESCENT_LINE, GINHYUT, GITINALAS, KIUBANG]
-    fleet: [CAYDHSADDE_SEA, CRESCENT_LINE, GINHYUT, GITINALAS, KIUBANG, LANUN_DEPTHS,
-      WHITEWATER_SEA]
+    army: [CRESCENT LINE, GINHYUT, GITINALAS, KIUBANG]
+    fleet: [CAYDHSADDE SEA, CRESCENT LINE, GINHYUT, GITINALAS, KIUBANG, LANUN DEPTHS,
+      WHITEWATER SEA]
   locs:
     label:
     - [0, 0]
@@ -1257,7 +1268,8 @@ ELSINECESTIR:
   ID: 75
   area: 13692
   edges:
-    fleet: [EAWUBA_KAYBA, KAUVABIYO_COAST, NORTH_ARDMIYAN_SEA, SHORES_OF_OLD_DJINNAKAH]
+    fleet: [EAWUBA KAYBA, KAUVABIYO COAST, NORTH ARDMIYAN SEA, SHORES OF OLD DJINNAKAH]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -1275,7 +1287,7 @@ ARVERYNN:
   ID: 76
   area: 10252
   edges:
-    army: [DRAGON_DOMINION, LOWER_YNN, NEW_HAVORAL, RANGER_REPUBLIC, YRNGARD]
+    army: [DRAGON DOMINION, LOWER YNN, NEW HAVORAL, RANGER REPUBLIC, YNNGARD]
   locs:
     label:
     - [0, 0]
@@ -1289,11 +1301,11 @@ ARVERYNN:
   sc: 1
   tiles: [76]
   type: land
-LOWER_YNN:
+LOWER YNN:
   ID: 77
   area: 15739
   edges:
-    army: [ARVERYNN, BLOODGROVES, BRAMBLEBANK, NEW_HAVORAL, VELS_DOMFAN, YRNGARD]
+    army: [ARVERYNN, BLOODGROVES, BRAMBLEBANK, NEW HAVORAL, VELS DOMFAN, YNNGARD]
   locs:
     label:
     - [0, 0]
@@ -1301,14 +1313,14 @@ LOWER_YNN:
     - [809.0, 1836.0]
     unit:
     - [777.0, 1794.0]
-  name: LOWER_YNN
+  name: LOWER YNN
   tiles: [77]
   type: land
-YRNGARD:
+YNNGARD:
   ID: 78
   area: 15330
   edges:
-    army: [ARVERYNN, EPEDNAR, LOWER_YNN, PLUMWELL, RANGER_REPUBLIC, VELS_DOMFAN]
+    army: [ARVERYNN, EPEDNAR, LOWER YNN, PLUMWELL, RANGER REPUBLIC, VELS DOMFAN]
   locs:
     label:
     - [0, 0]
@@ -1318,15 +1330,15 @@ YRNGARD:
     - [829.0, 1669.0]
     sc:
     - [874.0, 1570.0]
-  name: YRNGARD
+  name: YNNGARD
   sc: 1
   tiles: [78]
   type: land
-VELS_DOMFAN:
+VELS DOMFAN:
   ID: 79
   area: 6862
   edges:
-    army: [BRAMBLEBANK, LOWER_YNN, PLUMWELL, YNNSMOUTH, YRNGARD]
+    army: [BRAMBLEBANK, LOWER YNN, PLUMWELL, YNNSMOUTH, YNNGARD]
   locs:
     label:
     - [0, 0]
@@ -1336,7 +1348,7 @@ VELS_DOMFAN:
     - [890.0, 1711.0]
     sc:
     - [903.0, 1698.0]
-  name: VELS_DOMFAN
+  name: VELS DOMFAN
   sc: 1
   tiles: [79]
   type: land
@@ -1344,8 +1356,8 @@ YNNSMOUTH:
   ID: 80
   area: 2615
   edges:
-    army: [BRAMBLEBANK, DAXWELL, PLUMWELL, SOUTH_MARRLIANDE, VELS_DOMFAN]
-    fleet: [DAXWELL, SOUTH_MARRLIANDE, TROLLSBAY]
+    army: [BRAMBLEBANK, DAXWELL, PLUMWELL, SOUTH MARRLIANDE, VELS DOMFAN]
+    fleet: [DAXWELL, SOUTH MARRLIANDE, TROLLSBAY]
   locs:
     label:
     - [0, 0]
@@ -1363,7 +1375,7 @@ SIR:
   ID: 81
   area: 5717
   edges:
-    army: [BIANYUAN, NOZANYANBE, ONI_HILLS, SARILAVHAN, YODASHIKYU]
+    army: [BIANYUAN, NOZANYANBE, ONI HILLS, SARILAVHAN, YODASHIKYU]
   locs:
     label:
     - [0, 0]
@@ -1381,7 +1393,7 @@ YANZHONG:
   ID: 82
   area: 8416
   edges:
-    army: [BIANYUAN, HEHONG, LIUMINXIANG, NOZANYANBE, YANGCHEN, YUNGHUUN, ZYUJYUT]
+    army: [BIANYUAN, LIUMINXIANG, NOZANYANBE, YANGCHEN, YUNGHUUN, ZYUJYUT]
   locs:
     label:
     - [0, 0]
@@ -1399,7 +1411,7 @@ NOZANYANBE:
   ID: 83
   area: 7148
   edges:
-    army: [BIANYUAN, ONI_HILLS, SIR, YANZHONG, YUNGHUUN]
+    army: [BIANYUAN, ONI HILLS, SIR, YANZHONG, YUNGHUUN]
   locs:
     label:
     - [0, 0]
@@ -1417,7 +1429,7 @@ BIANYUAN:
   ID: 84
   area: 4767
   edges:
-    army: [NOZANYANBE, SIR, VERKAL_OZOVAR, AZKARE, YANZHONG, YODASHIKYU, ZYUJYUT]
+    army: [NOZANYANBE, SIR, VERKAL OZOVAR, AZKARE, YANZHONG, YODASHIKYU, ZYUJYUT]
   locs:
     label:
     - [0, 0]
@@ -1435,7 +1447,7 @@ ZERAT:
   ID: 85
   area: 14661
   edges:
-    army: [AKHANEKAS, AMIRI, DUWARKANI, HAKHEPRA, KARSHYR, RAYAZAS, YEZEL_MORA]
+    army: [AKHANEKAS, AMIRI, DUWARKANI, HAKHEPRA, KARSHYR, RAYAZAS, YEZEL MORA]
   locs:
     label:
     - [0, 0]
@@ -1453,7 +1465,7 @@ AKHANEKAS:
   ID: 86
   area: 16275
   edges:
-    army: [KAGDILGIR, KATARITSAYA, RAYAZAS, TAZAS, YEZEL_MORA, ZERAT]
+    army: [KAGDILGIR, KATARITSAYA, RAYAZAS, TAZAS, YEZEL MORA, ZERAT]
   locs:
     label:
     - [0, 0]
@@ -1471,7 +1483,7 @@ KAGDILGIR:
   ID: 87
   area: 9583
   edges:
-    army: [ADZALAN, AKHANEKAS, KVATHAGIS, TAZAS, YEZEL_MORA]
+    army: [ADZALAN, AKHANEKAS, KVATHAGIS, TAZAS, YEZEL MORA]
   locs:
     label:
     - [0, 0]
@@ -1487,7 +1499,7 @@ AMIRI:
   area: 13624
   edges:
     army: [HAKHEPRA, KARSHYR, MUZINGRAZI, ZENA, ZERAT]
-    fleet: [KARSHYR, SEA_OF_LEL, ZENA]
+    fleet: [KARSHYR, SEA OF LEL, ZENA]
   locs:
     label:
     - [0, 0]
@@ -1506,7 +1518,7 @@ ZENA:
   area: 2793
   edges:
     army: [AMIRI, MUZINGRAZI, ZUVAVIM]
-    fleet: [AMIRI, SAIKINOMAPASS, SEA_OF_LEL, ZUVAVIM]
+    fleet: [AMIRI, SAIKINOMAPASS, SEA OF LEL, ZUVAVIM]
   locs:
     label:
     - [0, 0]
@@ -1540,7 +1552,7 @@ NALENI:
   area: 8661
   edges:
     army: [SIMAHRIKA, TIPHIYA, YETMESIRA]
-    fleet: [HORN_OF_SARHAL, LANUN_DEPTHS, SIMAHRIKA, TIPHIYA, WHITEWATER_SEA, YETMESIRA]
+    fleet: [HORN OF SARHAL, LANUN DEPTHS, SIMAHRIKA, TIPHIYA, WHITEWATER SEA, YETMESIRA]
   locs:
     label:
     - [0, 0]
@@ -1558,8 +1570,8 @@ SIMAHRIKA:
   ID: 92
   area: 10757
   edges:
-    army: [BERPARWEDEB, FEDONI, HISOST_YAMOK, NALENI, YETMESIRA]
-    fleet: [BERPARWEDEB, HORN_OF_SARHAL, NALENI]
+    army: [BERPARWEDEB, FEDONI, HISOST YAMOK, NALENI, YETMESIRA]
+    fleet: [BERPARWEDEB, HORN OF SARHAL, NALENI]
   locs:
     label:
     - [0, 0]
@@ -1575,7 +1587,7 @@ YETMESIRA:
   area: 11786
   edges:
     army: [FEDONI, NALENI, SIMAHRIKA, ZEDAHRIKA]
-    fleet: [LANUN_DEPTHS, NALENI, ZEDAHRIKA]
+    fleet: [LANUN DEPTHS, NALENI, ZEDAHRIKA]
   locs:
     label:
     - [0, 0]
@@ -1593,8 +1605,8 @@ KVATHAGIS:
   ID: 94
   area: 37117
   edges:
-    army: [ADZALAN, FEDONI, HISOST_YAMOK, KAGDILGIR, KREKDEKEI, SKY_SOARING_EAGLE,
-      YEZEL_MORA]
+    army: [ADZALAN, FEDONI, HISOST YAMOK, KAGDILGIR, KREKDEKEI, SKY SOARING EAGLE,
+      YEZEL MORA]
   locs:
     label:
     - [0, 0]
@@ -1612,7 +1624,7 @@ FEDONI:
   ID: 95
   area: 18682
   edges:
-    army: [HISOST_YAMOK, KREKDEKEI, KVATHAGIS, SIMAHRIKA, YETMESIRA, ZEDAHRIKA]
+    army: [HISOST YAMOK, KREKDEKEI, KVATHAGIS, SIMAHRIKA, YETMESIRA, ZEDAHRIKA]
   locs:
     label:
     - [0, 0]
@@ -1627,8 +1639,8 @@ ZEDAHRIKA:
   ID: 96
   area: 17765
   edges:
-    army: [FEDONI, GOUFEINGONG, KREKDEKEI, THUNDER_WIELDING_BUFFALO, YETMESIRA]
-    fleet: [GOUFEINGONG, LANUN_DEPTHS, YETMESIRA]
+    army: [FEDONI, GOUFEINGONG, KREKDEKEI, THUNDER WIELDING BUFFALO, YETMESIRA]
+    fleet: [GOUFEINGONG, LANUN DEPTHS, YETMESIRA]
   locs:
     label:
     - [0, 0]
@@ -1643,7 +1655,7 @@ KREKDEKEI:
   ID: 97
   area: 22766
   edges:
-    army: [FEDONI, KVATHAGIS, SKY_SOARING_EAGLE, THUNDER_WIELDING_BUFFALO, ZEDAHRIKA]
+    army: [FEDONI, KVATHAGIS, SKY SOARING EAGLE, THUNDER WIELDING BUFFALO, ZEDAHRIKA]
   locs:
     label:
     - [0, 0]
@@ -1657,11 +1669,11 @@ KREKDEKEI:
   sc: 1
   tiles: [97]
   type: land
-SKY_SOARING_EAGLE:
+SKY SOARING EAGLE:
   ID: 98
   area: 11770
   edges:
-    army: [ADZALAN, KASHYZIR, KREKDEKEI, KVATHAGIS, THUNDER_WIELDING_BUFFALO]
+    army: [ADZALAN, KASHYZIR, KREKDEKEI, KVATHAGIS, THUNDER WIELDING BUFFALO]
   locs:
     label:
     - [0, 0]
@@ -1669,7 +1681,7 @@ SKY_SOARING_EAGLE:
     - [1906.0, 5449.0]
     unit:
     - [1906.0, 5400.0]
-  name: SKY_SOARING_EAGLE
+  name: SKY SOARING EAGLE
   tiles: [98]
   type: land
 BEIK:
@@ -1677,7 +1689,7 @@ BEIK:
   area: 1005
   edges:
     army: [LIUMINXIANG, TIANLOU]
-    fleet: [LIUMINXIANG-ec, TIANLOU, TIANLOU_BAY]
+    fleet: [LIUMINXIANG-ec, TIANLOU, TIANLOU BAY]
   locs:
     label:
     - [0, 0]
@@ -1691,13 +1703,13 @@ BEIK:
   sc: 1
   tiles: [99]
   type: coast
-VEMOD_ARKA:
+VEMOD ARKA:
   ID: 100
   area: 31390
   edges:
-    army: [BOKGUAN, GOMMOPORT, GREAT_HARAFIC_DESERT, MESTIKARDU, NIDI_BIKEHA, WORMWAY,
+    army: [BOKGUAN, GOMMOPORT, GREAT HARAFIC DESERT, MESTIKARDU, NIDI BIKEHA, WORMWAY,
       ZURZUMEXIA]
-    fleet: [BOKGUAN, GOMMOPORT, GULF_OF_NEANAANI, WORMWAY]
+    fleet: [BOKGUAN, GOMMOPORT, GULF OF NEANAANI, WORMWAY]
   locs:
     label:
     - [0, 0]
@@ -1707,7 +1719,7 @@ VEMOD_ARKA:
     - [1364.0, 944.0]
     sc:
     - [1460.0, 920.0]
-  name: VEMOD_ARKA
+  name: VEMOD ARKA
   sc: 1
   tiles: [100]
   type: coast
@@ -1715,8 +1727,8 @@ ZURZUMEXIA:
   ID: 101
   area: 28061
   edges:
-    army: [GADODCODD, MALLAZABO, MESTIKARDU, NIDI_BIKEHA, TZAYA, VEMOD_ARKA]
-    fleet: [ARTIFICER_COAST, GADODCODD, MALLAZABO, TZAYA]
+    army: [GADODCODD, MALLAZABO, MESTIKARDU, NIDI BIKEHA, TZAYA, VEMOD ARKA]
+    fleet: [ARTIFICER COAST, GADODCODD, MALLAZABO, TZAYA]
   locs:
     label:
     - [0, 0]
@@ -1734,8 +1746,8 @@ BOKGUAN:
   ID: 102
   area: 5356
   edges:
-    army: [GOMMOPORT, VEMOD_ARKA]
-    fleet: [GOMMOPORT, GULF_OF_NEANAANI, VEMOD_ARKA]
+    army: [GOMMOPORT, VEMOD ARKA]
+    fleet: [GOMMOPORT, GULF OF NEANAANI, VEMOD ARKA]
   locs:
     label:
     - [0, 0]
@@ -1750,8 +1762,8 @@ GOMMOPORT:
   ID: 103
   area: 16285
   edges:
-    army: [BOKGUAN, MESTIKARDU, VEMOD_ARKA]
-    fleet: [BOKGUAN, GULF_OF_NEANAANI, MESTIKARDU, SEA_OF_SILENCE, VEMOD_ARKA]
+    army: [BOKGUAN, MESTIKARDU, VEMOD ARKA]
+    fleet: [BOKGUAN, GULF OF NEANAANI, MESTIKARDU, SEA OF SILENCE, VEMOD ARKA]
   locs:
     label:
     - [0, 0]
@@ -1770,7 +1782,7 @@ MAI:
   area: 201
   edges:
     army: [BASAATELE, CAOBAN]
-    fleet: [BASAATELE, CAOBAN, PRA_BAY]
+    fleet: [BASAATELE, CAOBAN, PRA BAY]
   locs:
     label:
     - [0, 0]
@@ -1788,8 +1800,8 @@ MESTIKARDU:
   ID: 105
   area: 19689
   edges:
-    army: [GOMMOPORT, MALLAZABO, VEMOD_ARKA, ZURZUMEXIA]
-    fleet: [GOMMOPORT, MALLAZABO, SEA_OF_SILENCE, THENON_CURRENT, TORN_SEA]
+    army: [GOMMOPORT, MALLAZABO, VEMOD ARKA, ZURZUMEXIA]
+    fleet: [GOMMOPORT, MALLAZABO, SEA OF SILENCE, THENON CURRENT, TORN SEA]
   locs:
     label:
     - [0, 0]
@@ -1808,7 +1820,7 @@ MALLAZABO:
   area: 9050
   edges:
     army: [MESTIKARDU, ZURZUMEXIA]
-    fleet: [ARTIFICER_COAST, MESTIKARDU, TORN_SEA, ZURZUMEXIA]
+    fleet: [ARTIFICER COAST, MESTIKARDU, TORN SEA, ZURZUMEXIA]
   locs:
     label:
     - [0, 0]
@@ -1819,11 +1831,11 @@ MALLAZABO:
   name: MALLAZABO
   tiles: [106]
   type: coast
-TROLL_FORESTS:
+TROLL FORESTS:
   ID: 107
   area: 143094
   edges:
-    army: [KABARDA, KONUNGRHAVEN, OLAVLUND, PUAKOD, YYL_MOITSA]
+    army: [KABARDA, KONUNGRHAVEN, OLAVLUND, PUAKOD, YYL MOITSA]
   locs:
     label:
     - [0, 0]
@@ -1831,15 +1843,15 @@ TROLL_FORESTS:
     - [0.0, 4883.0]
     unit:
     - [98.0, 4704.0]
-  name: TROLL_FORESTS
+  name: TROLL FORESTS
   tiles: [107]
   type: land
-YYL_MOITSA:
+YYL MOITSA:
   ID: 108
   area: 96137
   edges:
-    army: [PUAKOD, TROLL_FORESTS]
-    fleet: [ALKHOGAADYN_EXPANSE, BLUE_SEA, KUKATODIC_BIGHT, PUAKOD]
+    army: [PUAKOD, TROLL FORESTS]
+    fleet: [ALKHOGAADYN EXPANSE, BLUE SEA, KUKATODIC BIGHT, PUAKOD]
   locs:
     label:
     - [0, 0]
@@ -1849,7 +1861,7 @@ YYL_MOITSA:
     - [120.0, 5239.0]
     sc:
     - [54.0, 5470.0]
-  name: YYL_MOITSA
+  name: YYL MOITSA
   sc: 1
   tiles: [108]
   type: coast
@@ -1857,8 +1869,8 @@ OLAVLUND:
   ID: 109
   area: 85826
   edges:
-    army: [ATHFORK, GAROK, KABARDA, KONUNGRHAVEN, TROLL_FORESTS]
-    fleet: [GAROK, GIANTS_GRAVE_SEA, KONUNGRHAVEN]
+    army: [ATHFORK, GAROK, KABARDA, KONUNGRHAVEN, TROLL FORESTS]
+    fleet: [GAROK, GIANTS GRAVE SEA, KONUNGRHAVEN]
   locs:
     label:
     - [0, 0]
@@ -1873,8 +1885,8 @@ PUAKOD:
   ID: 110
   area: 82181
   edges:
-    army: [KABARDA, SHEVROMRZGH, SOCHULEAG, TROLL_FORESTS, YYL_MOITSA]
-    fleet: [KUKATODIC_BIGHT, SOCHULEAG, YYL_MOITSA]
+    army: [KABARDA, SHEVROMRZGH, SOCHULEAG, TROLL FORESTS, YYL MOITSA]
+    fleet: [KUKATODIC BIGHT, SOCHULEAG, YYL MOITSA]
   locs:
     label:
     - [0, 0]
@@ -1892,7 +1904,7 @@ KABARDA:
   ID: 111
   area: 51615
   edges:
-    army: [ASSEMBLY_TERRACE, ATHFORK, OLAVLUND, PUAKOD, TROLL_FORESTS]
+    army: [ASSEMBLY TERRACE, ATHFORK, OLAVLUND, PUAKOD, TROLL FORESTS]
   locs:
     label:
     - [0, 0]
@@ -1910,7 +1922,7 @@ ATHFORK:
   ID: 112
   area: 17801
   edges:
-    army: [CASTONATH, GAROK, KABARDA, MIDDLE_ALEN, OLAVLUND, WYVERNHART]
+    army: [CASTONATH, GAROK, KABARDA, MIDDLE ALEN, OLAVLUND, WYVERNHART]
   locs:
     label:
     - [0, 0]
@@ -1928,8 +1940,8 @@ GAROK:
   ID: 113
   area: 7935
   edges:
-    army: [ATHFORK, MIDDLE_ALEN, OLAVLUND]
-    fleet: [GIANTS_GRAVE_SEA, MIDDLE_ALEN, OLAVLUND]
+    army: [ATHFORK, MIDDLE ALEN, OLAVLUND]
+    fleet: [GIANTS GRAVE SEA, MIDDLE ALEN, OLAVLUND]
   locs:
     label:
     - [0, 0]
@@ -1943,12 +1955,12 @@ GAROK:
   sc: 1
   tiles: [113]
   type: coast
-MIDDLE_ALEN:
+MIDDLE ALEN:
   ID: 114
   area: 4197
   edges:
     army: [ATHFORK, GAROK, ROTTENSTEP, WYVERNHART]
-    fleet: [GAROK, GIANTS_GRAVE_SEA, ROTTENSTEP]
+    fleet: [GAROK, GIANTS GRAVE SEA, ROTTENSTEP]
   locs:
     label:
     - [0, 0]
@@ -1956,14 +1968,14 @@ MIDDLE_ALEN:
     - [440.0, 4289.0]
     unit:
     - [434.0, 4255.0]
-  name: MIDDLE_ALEN
+  name: MIDDLE ALEN
   tiles: [114]
   type: coast
-ASSEMBLY_TERRACE:
+ASSEMBLY TERRACE:
   ID: 115
   area: 4828
   edges:
-    army: [GOBLIN_CAVES, KABARDA]
+    army: [GOBLIN CAVES, KABARDA]
   locs:
     label:
     - [0, 0]
@@ -1971,16 +1983,15 @@ ASSEMBLY_TERRACE:
     - [447.0, 4690.0]
     unit:
     - [481.0, 4657.0]
-  name: ASSEMBLY_TERRACE
+  name: ASSEMBLY TERRACE
   tiles: [115]
   type: land
 GADODCODD:
   ID: 118
   area: 6913
   edges:
-    army: [DAGGER_POINT, TZAYA, QUINTUPLETS, ZURZUMEXIA]
-    fleet: [ARTIFICER_COAST, DAGGER_POINT, GULF_OF_HARAF, TZAYA, QUINTUPLETS,
-      ZURZUMEXIA]
+    army: [DAGGER POINT, TZAYA, QUINTUPLETS, ZURZUMEXIA]
+    fleet: [ARTIFICER COAST, DAGGER POINT, GULF OF HARAF, TZAYA, QUINTUPLETS, ZURZUMEXIA]
   locs:
     label:
     - [0, 0]
@@ -1996,7 +2007,7 @@ GINHYUT:
   area: 10575
   edges:
     army: [GITINALAS, KIUBANG, PANHENAW]
-    fleet: [EAST_RINGLET_SEA, GITINALAS, KIUBANG, PANHENAW]
+    fleet: [EAST RINGLET SEA, GITINALAS, KIUBANG, PANHENAW]
   locs:
     label:
     - [0, 0]
@@ -2014,7 +2025,8 @@ PARAIDAR:
   ID: 120
   area: 7619
   edges:
-    fleet: [THEKVRYS_EDGE, THE_PASSAGE, YUSSAM_SEA]
+    fleet: [THEKVRYS EDGE, THE PASSAGE, VUSSAM SEA]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -2033,7 +2045,7 @@ DERANNE:
   area: 4844
   edges:
     army: [DAROMSFORT, LORENTAINE, MANERD, ORDING, REDGLADES, P, ROYSFORT]
-    fleet: [DAROMSFORT, MANERD, PORTNAMM_BAY, P, WESTCOAST]
+    fleet: [DAROMSFORT, MANERD, PORTNAMM BAY, P, WESTCOAST]
   locs:
     label:
     - [0, 0]
@@ -2083,7 +2095,7 @@ LORENTAINE:
   area: 5516
   edges:
     army: [DERANNE, ORDING, REDGLADES, ROILSARD, RUBYHOLD, SORNAIRE]
-    fleet: [BAY_OF_WINES, ROILSARD, SORNAIRE]
+    fleet: [BAY OF WINES, ROILSARD, SORNAIRE]
   locs:
     label:
     - [0, 0]
@@ -2102,7 +2114,7 @@ DAROMSFORT:
   area: 4331
   edges:
     army: [DERANNE, ORDING, SORNAIRE]
-    fleet: [COAST_OF_VENAIL, DERANNE, SORNAIRE, WESTCOAST]
+    fleet: [COAST OF VENAIL, DERANNE, SORNAIRE, WESTCOAST]
   locs:
     label:
     - [0, 0]
@@ -2136,7 +2148,7 @@ ROILSARD:
   area: 3795
   edges:
     army: [LORENTAINE, NECKCLIFFE, RUBYHOLD]
-    fleet: [BAY_OF_WINES, LORENTAINE, NECKCLIFFE]
+    fleet: [BAY OF WINES, LORENTAINE, NECKCLIFFE]
   locs:
     label:
     - [0, 0]
@@ -2152,7 +2164,7 @@ SORNAIRE:
   area: 7342
   edges:
     army: [DAROMSFORT, LORENTAINE, ORDING]
-    fleet: [BAY_OF_WINES, COAST_OF_VENAIL, DAROMSFORT, DIVENGATE, LORENTAINE]
+    fleet: [BAY OF WINES, COAST OF VENAIL, DAROMSFORT, DIVENGATE, LORENTAINE]
   locs:
     label:
     - [0, 0]
@@ -2170,8 +2182,8 @@ BLOODGROVES:
   ID: 129
   area: 25270
   edges:
-    army: [ABHENN, BRAMBLEBANK, KWINEHCOST, LOWER_YNN, NEW_CESTAIRE, NEW_HAVORAL,
-      RED_COAST]
+    army: [ABHENN, BRAMBLEBANK, KWINEHCOST, LOWER YNN, NEW CESTAIRE, NEW HAVORAL,
+      RED COAST]
   locs:
     label:
     - [0, 0]
@@ -2187,7 +2199,7 @@ KWINEHCOST:
   area: 11645
   edges:
     army: [ABHENN, BLOODGROVES]
-    fleet: [ABHENN, COAST_OF_BETRAYAL, SILSENSALD_SEA]
+    fleet: [ABHENN, COAST OF BETRAYAL, SILSENSALD SEA]
   locs:
     label:
     - [0, 0]
@@ -2205,8 +2217,8 @@ ABHENN:
   ID: 131
   area: 7274
   edges:
-    army: [BLOODGROVES, KWINEHCOST, RED_COAST]
-    fleet: [GRAXILZIN_SEA, KWINEHCOST, RED_COAST, SILSENSALD_SEA]
+    army: [BLOODGROVES, KWINEHCOST, RED COAST]
+    fleet: [GRAXILZIN SEA, KWINEHCOST, RED COAST, SILSENSALD SEA]
   locs:
     label:
     - [0, 0]
@@ -2220,12 +2232,12 @@ ABHENN:
   sc: 1
   tiles: [131]
   type: coast
-RED_COAST:
+RED COAST:
   ID: 132
   area: 7158
   edges:
-    army: [ABHENN, BLOODGROVES, NEW_CESTAIRE, TUNIN]
-    fleet: [ABHENN, GRAXILZIN_SEA, NEW_CESTAIRE, TUNIN]
+    army: [ABHENN, BLOODGROVES, NEW CESTAIRE, TUNIN]
+    fleet: [ABHENN, GRAXILZIN SEA, NEW CESTAIRE, TUNIN]
   locs:
     label:
     - [0, 0]
@@ -2233,15 +2245,15 @@ RED_COAST:
     - [957.0, 2110.0]
     unit:
     - [959.0, 2070.0]
-  name: RED_COAST
+  name: RED COAST
   tiles: [132]
   type: coast
-NORTH_ENDRALLIANDE:
+NORTH ENDRALLIANDE:
   ID: 133
   area: 24991
   edges:
     army: [CRIODHEEL, JERCEL]
-    fleet: [CRIODHEEL, FAR_EXPANSE, JERCEL, REMNANT_SEA, SILSENSALD_SEA]
+    fleet: [CRIODHEEL, FAR EXPANSE, JERCEL, REMNANT SEA, SILSENSALD SEA]
   locs:
     label:
     - [0, 0]
@@ -2249,16 +2261,16 @@ NORTH_ENDRALLIANDE:
     - [1105.0, 2555.0]
     unit:
     - [1106.0, 2625.0]
-  name: NORTH_ENDRALLIANDE
+  name: NORTH ENDRALLIANDE
   tiles: [133]
   type: coast
 JERCEL:
   ID: 134
   area: 24353
   edges:
-    army: [CRIODHEEL, NORTH_ENDRALLIANDE]
-    fleet: [CRIODHEEL, GATE_SEA, GRAXILZIN_SEA, NORTH_ENDRALLIANDE, SILSENSALD_SEA,
-      WANDERERS_SEA]
+    army: [CRIODHEEL, NORTH ENDRALLIANDE]
+    fleet: [CRIODHEEL, GATE SEA, GRAXILZIN SEA, NORTH ENDRALLIANDE, SILSENSALD SEA,
+      WANDERERS SEA]
   locs:
     label:
     - [0, 0]
@@ -2273,8 +2285,8 @@ CRIODHEEL:
   ID: 135
   area: 34127
   edges:
-    army: [JERCEL, NORTH_ENDRALLIANDE]
-    fleet: [CALAMITY_PASS, GATE_SEA, JERCEL, NORTH_ENDRALLIANDE, REMNANT_SEA]
+    army: [JERCEL, NORTH ENDRALLIANDE]
+    fleet: [CALAMITY PASS, GATE SEA, JERCEL, NORTH ENDRALLIANDE, REMNANT SEA]
   locs:
     label:
     - [0, 0]
@@ -2292,8 +2304,8 @@ SHOFASHOK:
   ID: 136
   area: 16003
   edges:
-    army: [DAXWELL, GRAVEROADS, TIRU_MOINE, VALORPOINT]
-    fleet: [CHARMED_SEA, GRAVEROADS, VALORPOINT]
+    army: [DAXWELL, GRAVEROADS, TIRU MOINE, VALORPOINT]
+    fleet: [CHARMED SEA, GRAVEROADS, VALORPOINT]
   locs:
     label:
     - [0, 0]
@@ -2311,7 +2323,7 @@ TAIVER:
   ID: 137
   area: 7223
   edges:
-    army: [BASAATELE, BIENG_PHANG, DUGAJIR, SKARKAOPHE, AZKARE, YODASHIKYU]
+    army: [BASAATELE, BIENG PHANG, DUGAJIR, SKARKAOPHE, AZKARE, YODASHIKYU]
   locs:
     label:
     - [0, 0]
@@ -2322,12 +2334,12 @@ TAIVER:
   name: TAIVER
   tiles: [137]
   type: land
-BIENG_PHANG:
+BIENG PHANG:
   ID: 138
   area: 11773
   edges:
-    army: [DUGAJIR, NAHANA_JADD, SKARKAOPHE, TAIVER, VANRAHAR]
-    fleet: [GULF_OF_RAHEN, SKARKAOPHE, VANRAHAR]
+    army: [DUGAJIR, NAHANA JADD, SKARKAOPHE, TAIVER, VANRAHAR]
+    fleet: [GULF OF RAHEN, SKARKAOPHE, VANRAHAR]
   locs:
     label:
     - [0, 0]
@@ -2337,7 +2349,7 @@ BIENG_PHANG:
     - [1310.0, 5841.0]
     sc:
     - [1348.0, 5825.0]
-  name: BIENG_PHANG
+  name: BIENG PHANG
   sc: 1
   tiles: [138]
   type: coast
@@ -2345,8 +2357,8 @@ SKARKAOPHE:
   ID: 139
   area: 5029
   edges:
-    army: [BASAATELE, BIENG_PHANG, TAIVER]
-    fleet: [BASAATELE, BIENG_PHANG, GULF_OF_GON, GULF_OF_RAHEN]
+    army: [BASAATELE, BIENG PHANG, TAIVER]
+    fleet: [BASAATELE, BIENG PHANG, GULF OF GON, GULF OF RAHEN]
   locs:
     label:
     - [0, 0]
@@ -2365,7 +2377,7 @@ EADOHAS:
   area: 23582
   edges:
     army: [OCHCHUSCOST]
-    fleet: [GATE_SEA, OCHCHUSCOST, SILVERTEN_PASS, WANDERERS_SEA]
+    fleet: [GATE SEA, OCHCHUSCOST, SILVERTEN PASS, WANDERERS SEA]
   locs:
     label:
     - [0, 0]
@@ -2381,7 +2393,7 @@ OCHCHUSCOST:
   area: 28067
   edges:
     army: [EADOHAS]
-    fleet: [CALAMITY_PASS, EADOHAS, GATE_SEA, OCHHUS_SEA, SILVERTEN_PASS]
+    fleet: [CALAMITY PASS, EADOHAS, GATE SEA, OCHHUS SEA, SILVERTEN PASS]
   locs:
     label:
     - [0, 0]
@@ -2399,8 +2411,8 @@ KUNOLO:
   ID: 142
   area: 4266
   edges:
-    army: [AMEZA, JAGAB_FARU, KHAWIT, PORT_NARAWEN]
-    fleet: [AMEZA, KUNOLO_BAY, PORT_NARAWEN]
+    army: [AMEZA, JAGAB FARU, KHAWIT, PORT NARAWEN]
+    fleet: [AMEZA, KUNOLO BAY, PORT NARAWEN]
   locs:
     label:
     - [0, 0]
@@ -2419,7 +2431,7 @@ CROVANSPIER:
   area: 2185
   edges:
     army: [GEMTREE, NAKOWICH, WHITTINGTON]
-    fleet: [DAO_NAKO_COAST, GEMTREE, WHITTINGTON]
+    fleet: [DAO NAKO COAST, GEMTREE, WHITTINGTON]
   locs:
     label:
     - [0, 0]
@@ -2438,7 +2450,7 @@ VUMBKAUVA:
   area: 5444
   edges:
     army: [HORTOSARE, TAGTO]
-    fleet: [EAWUBA_KAYBA, HORTOSARE, SHORES_OF_OLD_DJINNAKAH, TAGTO]
+    fleet: [EAWUBA KAYBA, HORTOSARE, SHORES OF OLD DJINNAKAH, TAGTO]
   locs:
     label:
     - [0, 0]
@@ -2457,7 +2469,7 @@ TAGTO:
   area: 2058
   edges:
     army: [ARMANHAL, HORTOSARE, VUMBKAUVA]
-    fleet: [ARMANHAL, EAWUBA_KAYBA, VUMBKAUVA]
+    fleet: [ARMANHAL, EAWUBA KAYBA, VUMBKAUVA]
   locs:
     label:
     - [0, 0]
@@ -2473,7 +2485,7 @@ IPPAROGA:
   area: 5189
   edges:
     army: [AMEION, CAERGARAEN, KLERECHEND]
-    fleet: [AMEION, KLERECHEND, YUSSAM_SEA]
+    fleet: [AMEION, KLERECHEND, VUSSAM SEA]
   locs:
     label:
     - [0, 0]
@@ -2491,8 +2503,8 @@ SOTEREION:
   ID: 147
   area: 3280
   edges:
-    army: [AKR, DEGITHION, EASTERN_TAYCHEND, KLERECHEND]
-    fleet: [AKR, KLERECHEND, YUSSAM_SEA]
+    army: [AKR, DEGITHION, EASTERN TAYCHEND, KLERECHEND]
+    fleet: [AKR, KLERECHEND, VUSSAM SEA]
   locs:
     label:
     - [0, 0]
@@ -2510,8 +2522,8 @@ AMEION:
   ID: 148
   area: 7879
   edges:
-    army: [CAERGARAEN, DEYEION, IPPAROGA, MTEIBHARA, UPPER_CHENDYA]
-    fleet: [DEYEION, IPPAROGA, THE_PASSAGE, YUSSAM_SEA]
+    army: [CAERGARAEN, DEYEION, IPPAROGA, MTEIBHARA, UPPER CHENDYA]
+    fleet: [DEYEION, IPPAROGA, THE PASSAGE, VUSSAM SEA]
   locs:
     label:
     - [0, 0]
@@ -2530,7 +2542,7 @@ AKR:
   area: 626
   edges:
     army: [DEGITHION, OK, SOTEREION]
-    fleet: [DEGITHION, KILA_TORAM, OK, SOTEREION, YUSSAM_SEA]
+    fleet: [DEGITHION, KILA TORAM, OK, SOTEREION, VUSSAM SEA]
   locs:
     label:
     - [0, 0]
@@ -2582,8 +2594,8 @@ SOLDARCAM:
   ID: 152
   area: 9751
   edges:
-    army: [GREAT_HARAFIC_DESERT, TRIMTHIR, WORMWAY]
-    fleet: [GULF_OF_NEANAANI, SARMADFAR, TRIMTHIR, WORMWAY]
+    army: [GREAT HARAFIC DESERT, TRIMTHIR, WORMWAY]
+    fleet: [GULF OF NEANAANI, SARMADFAR, TRIMTHIR, WORMWAY]
   locs:
     label:
     - [0, 0]
@@ -2601,8 +2613,8 @@ WORMWAY:
   ID: 153
   area: 3356
   edges:
-    army: [GREAT_HARAFIC_DESERT, SOLDARCAM, VEMOD_ARKA]
-    fleet: [GULF_OF_NEANAANI, SOLDARCAM, VEMOD_ARKA]
+    army: [GREAT HARAFIC DESERT, SOLDARCAM, VEMOD ARKA]
+    fleet: [GULF OF NEANAANI, SOLDARCAM, VEMOD ARKA]
   locs:
     label:
     - [0, 0]
@@ -2618,7 +2630,7 @@ QUINTUPLETS:
   area: 2500
   edges:
     army: [GADODCODD, TZAYA, NURCANDAR, TUMBATER]
-    fleet: [GADODCODD, GULF_OF_HARAF, TZAYA, NURCANDAR]
+    fleet: [GADODCODD, GULF OF HARAF, TZAYA, NURCANDAR]
   locs:
     label:
     - [0, 0]
@@ -2637,7 +2649,7 @@ TRISTANTON:
   area: 8315
   edges:
     army: [RICARDSPORT]
-    fleet: [AMADIAN_PASS, LOVERS_PASS, RICARDSPORT]
+    fleet: [AMADIAN PASS, LOVERS PASS, RICARDSPORT]
   locs:
     label:
     - [0, 0]
@@ -2655,8 +2667,8 @@ RICARDSPORT:
   ID: 156
   area: 7697
   edges:
-    army: [TRISTANTON]
-    fleet: [AMADIAN_PASS, LOVERS_PASS, SHATTERED_ISLANDS, TRISTANTON]
+    army: [TRISTANTON, SHATTERED ISLANDS]
+    fleet: [AMADIAN PASS, LOVERS PASS, SHATTERED ISLANDS, TRISTANTON]
   locs:
     label:
     - [0, 0]
@@ -2674,8 +2686,8 @@ PITHION:
   ID: 157
   area: 10492
   edges:
-    army: [ANISKHEION, CLEMATAR, ENEION, ENPKEIOS, MTEIBHARA, UPPER_CHENDYA]
-    fleet: [ANISKHEION, ENEION, ENPKEIOS]
+    army: [ANISKHEION, CLEMATAR, ENEION, EMPKEIOS, MTEIBHARA, UPPER CHENDYA]
+    fleet: [ANISKHEION, ENEION, EMPKEIOS]
   locs:
     label:
     - [0, 0]
@@ -2689,7 +2701,7 @@ PITHION:
   sc: 1
   tiles: [157]
   type: land
-ENPKEIOS:
+EMPKEIOS:
   ID: 158
   area: 5222
   edges:
@@ -2704,16 +2716,16 @@ ENPKEIOS:
     - [2577.0, 1597.0]
     sc:
     - [2593.0, 1648.0]
-  name: ENPKEIOS
+  name: EMPKEIOS
   sc: 1
   tiles: [158]
-  type: land
+  type: coast
 TIPHIYA:
   ID: 159
   area: 15116
   edges:
     army: [BHARABAGHA, NALENI, SARK]
-    fleet: [BHARABAGHA, GULF_OF_RAHEN, HORN_OF_SARHAL, JADD_SEA, NALENI, SARK, WHITEWATER_SEA]
+    fleet: [BHARABAGHA, GULF OF RAHEN, HORN OF SARHAL, JADD SEA, NALENI, SARK, WHITEWATER SEA]
   locs:
     label:
     - [0, 0]
@@ -2724,11 +2736,12 @@ TIPHIYA:
   name: TIPHIYA
   tiles: [159]
   type: coast
-WANDERERS_ISLES:
+WANDERERS ISLES:
   ID: 160
   area: 25535
   edges:
-    fleet: [FADHOBAITH, MARIDS_SEA, POINTSIGHT, SEA_OF_WRECKAGES]
+    fleet: [FADHOBAITH, MARIDS SEA, POINTSIGHT, SEA OF WRECKAGES]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -2738,16 +2751,16 @@ WANDERERS_ISLES:
     - [1672.0, 3624.0]
     sc:
     - [1698.0, 3641.0]
-  name: WANDERERS_ISLES
+  name: WANDERERS ISLES
   sc: 1
   tiles: [160]
   type: coast
-BROKEN_SEA:
+BROKEN SEA:
   ID: 161
   area: 242474
   edges:
-    fleet: [EIGRAS, FJORDWASH, HEHADEDPAR, NOO_CODORRAN, NORTHERN_OCEAN, NYHOFN, OOL1, OOL2, OOL3, OOL4,
-      SJAVARRUST, TRITHEMAR]
+    fleet: [EIGRAS, FJORDWASH, HEHADEDPAR, NOO CODORRAN, NORTHERN OCEAN, NYHOFN, OOL1,
+      OOL2, OOL3, OOL4, SJAVARRUST, TRITHEMAR]
   locs:
     label:
     - [0, 0]
@@ -2755,15 +2768,15 @@ BROKEN_SEA:
     - [0.0, 2369.0]
     unit:
     - [241.0, 1476.0]
-  name: BROKEN_SEA
+  name: BROKEN SEA
   tiles: [161]
   type: sea
-NORTHERN_OCEAN:
+NORTHERN OCEAN:
   ID: 162
   area: 319255
   edges:
-    fleet: [BROKEN_SEA, KONUNGRHAVEN, LONELY_ISLE, NIMSCODD_SEA, NORTHERN_THAW, NYHOFN,
-      REAVERS_SEA]
+    fleet: [BROKEN SEA, KONUNGRHAVEN, LONELY ISLE, NIMSCODD SEA, NORTHERN THAW, NYHOFN,
+      REAVERS SEA]
   locs:
     label:
     - [0, 0]
@@ -2771,14 +2784,14 @@ NORTHERN_OCEAN:
     - [0.0, 3081.0]
     unit:
     - [172.0, 3286.0]
-  name: NORTHERN_OCEAN
+  name: NORTHERN OCEAN
   tiles: [162]
   type: sea
-ALKHOGAADYN_EXPANSE:
+ALKHOGAADYN EXPANSE:
   ID: 163
   area: 175821
   edges:
-    fleet: [BLUE_SEA, HOKHOS_SEA, JERKHAZUURA, WIDOWS_SEA, YYL_MOITSA]
+    fleet: [BLUE SEA, HOKHOS SEA, JERKHAZUURA, WIDOWS SEA, YYL MOITSA]
   locs:
     label:
     - [0, 0]
@@ -2786,15 +2799,15 @@ ALKHOGAADYN_EXPANSE:
     - [0.0, 5906.0]
     unit:
     - [101.0, 6065.0]
-  name: ALKHOGAADYN_EXPANSE
+  name: ALKHOGAADYN EXPANSE
   tiles: [163]
   type: sea
-WIDOWS_SEA:
+WIDOWS SEA:
   ID: 164
   area: 79670
   edges:
-    fleet: [ALKHOGAADYN_EXPANSE, HOKHOS_SEA, JERKHAZUURA, NOKSESEOM, OOL1, OOL2, OOL3, OOL4,
-      ODHEONGU_SEA, ZONGBEIKGANG]
+    fleet: [ALKHOGAADYN EXPANSE, HOKHOS SEA, JERKHAZUURA, NAKSESEOM, OOL1, OOL2, OOL3,
+      OOL4, ODHEONGU SEA, ZONGBEIKGANG]
   locs:
     label:
     - [0, 0]
@@ -2802,15 +2815,15 @@ WIDOWS_SEA:
     - [208.0, 6575.0]
     unit:
     - [194.0, 6688.0]
-  name: WIDOWS_SEA
+  name: WIDOWS SEA
   tiles: [164]
   type: sea
-BLUE_SEA:
+BLUE SEA:
   ID: 165
   area: 82022
   edges:
-    fleet: [ALKHOGAADYN_EXPANSE, HOKHOS_SEA, KUKATODIC_BIGHT, LANKINA, QARSHTULUU-nc,
-      YYL_MOITSA]
+    fleet: [ALKHOGAADYN EXPANSE, HOKHOS SEA, KUKATODIC BIGHT, LANKINA, QARSHTULUU-nc,
+      YYL MOITSA]
   locs:
     label:
     - [0, 0]
@@ -2818,15 +2831,15 @@ BLUE_SEA:
     - [291.0, 5449.0]
     unit:
     - [224.0, 5549.0]
-  name: BLUE_SEA
+  name: BLUE SEA
   tiles: [165]
   type: sea
 FJORDWASH:
   ID: 166
   area: 26676
   edges:
-    fleet: [BROKEN_SEA, DERHILDIA-sc, DERHILDIA-nc, ICEBERG_ALLEY, NORTHERN_THAW, NYHOFN, SJAVARRUST,
-      VOTSEND]
+    fleet: [BROKEN SEA, DERHILDIA-sc, DERHILDIA-nc, ICEBERG ALLEY, NORTHERN THAW,
+      NYHOFN, SJAVARRUST, VOTSEND]
   locs:
     label:
     - [0, 0]
@@ -2841,8 +2854,8 @@ EIGRAS:
   ID: 167
   area: 137369
   edges:
-    fleet: [BROKEN_SEA, FOGHARABH, GEMRADCURT, MARATHMAS, NOO_CODORRAN, SLEGCAL,
-      OOL1, OOL2, OOL3, OOL4, SNECHOLLE]
+    fleet: [BROKEN SEA, FOGHARABH, GEMRADCURT, MARATHMAS, NOO CODORRAN, SLEGCAL, OOL1,
+      OOL2, OOL3, OOL4, SNECHOLLE]
   locs:
     label:
     - [0, 0]
@@ -2853,11 +2866,11 @@ EIGRAS:
   name: EIGRAS
   tiles: [167]
   type: sea
-HOKHOS_SEA:
+HOKHOS SEA:
   ID: 168
   area: 91165
   edges:
-    fleet: [ALKHOGAADYN_EXPANSE, BLUE_SEA, KOKEVDAN, QARSHTULUU-nc, WIDOWS_SEA, ZONGBEIKGANG,
+    fleet: [ALKHOGAADYN EXPANSE, BLUE SEA, KOKEVDAN, QARSHTULUU-nc, WIDOWS SEA, ZONGBEIKGANG,
       ZUURZOI]
   locs:
     label:
@@ -2866,14 +2879,14 @@ HOKHOS_SEA:
     - [245.0, 5997.0]
     unit:
     - [226.0, 5748.0]
-  name: HOKHOS_SEA
+  name: HOKHOS SEA
   tiles: [168]
   type: sea
-NORTHERN_THAW:
+NORTHERN THAW:
   ID: 169
   area: 132840
   edges:
-    fleet: [FJORDWASH, ICEBERG_ALLEY, LONELY_FAR_LANE, LONELY_ISLE, NORTHERN_OCEAN,
+    fleet: [FJORDWASH, ICEBERG ALLEY, LONELY FAR LANE, LONELY ISLE, NORTHERN OCEAN,
       NYHOFN]
   locs:
     label:
@@ -2882,15 +2895,15 @@ NORTHERN_THAW:
     - [297.0, 2808.0]
     unit:
     - [292.0, 2683.0]
-  name: NORTHERN_THAW
+  name: NORTHERN THAW
   tiles: [169]
   type: sea
-REAVERS_SEA:
+REAVERS SEA:
   ID: 170
   area: 82205
   edges:
-    fleet: [BAYVEK, DRAGONSPINE, KONUNGRHAVEN, NIMSCODD_SEA, NORTHERN_OCEAN, ODDANSBAY,
-      WESTMOORS]
+    fleet: [BAYVEK, DRAGONSPINE, KONUNGRHAVEN, NIMSCODD SEA, NORTHERN OCEAN, ODDANSBAY,
+      WESTMOORS, GIANTS GRAVE SEA]
   locs:
     label:
     - [0, 0]
@@ -2898,14 +2911,14 @@ REAVERS_SEA:
     - [274.0, 3848.0]
     unit:
     - [335.0, 3673.0]
-  name: REAVERS_SEA
+  name: REAVERS SEA
   tiles: [170]
   type: sea
-GIANTS_GRAVE_SEA:
+GIANTS GRAVE SEA:
   ID: 171
   area: 28003
   edges:
-    fleet: [BAYVEK, GAROK, KONUNGRHAVEN, MIDDLE_ALEN, OLAVLUND, ROTTENSTEP]
+    fleet: [BAYVEK, GAROK, KONUNGRHAVEN, MIDDLE ALEN, OLAVLUND, ROTTENSTEP, REAVERS SEA]
   locs:
     label:
     - [0, 0]
@@ -2913,15 +2926,15 @@ GIANTS_GRAVE_SEA:
     - [282.0, 4113.0]
     unit:
     - [292.0, 4218.0]
-  name: GIANTS_GRAVE_SEA
+  name: GIANTS GRAVE SEA
   tiles: [171]
   type: sea
-NIMSCODD_SEA:
+NIMSCODD SEA:
   ID: 172
   area: 73282
   edges:
-    fleet: [LONELY_FAR_LANE, LONELY_ISLE, MANERD, NORTHERN_OCEAN, ODDANSBAY, PORTNAMM_BAY,
-      REAVERS_SEA, ROYVIBOBB]
+    fleet: [LONELY FAR LANE, LONELY ISLE, MANERD, NORTHERN OCEAN, ODDANSBAY, PORTNAMM BAY,
+      REAVERS SEA, ROYVIBOBB]
   locs:
     label:
     - [0, 0]
@@ -2929,15 +2942,15 @@ NIMSCODD_SEA:
     - [472.0, 3537.0]
     unit:
     - [404.0, 3458.0]
-  name: NIMSCODD_SEA
+  name: NIMSCODD SEA
   tiles: [172]
   type: sea
-ICEBERG_ALLEY:
+ICEBERG ALLEY:
   ID: 173
   area: 53323
   edges:
-    fleet: [COAST_OF_BETRAYAL, COLDSWELLS, DERHILDIA-sc, FJELSTRON, FJORDWASH, FORLORN_ISLE,
-      LONELY_FAR_LANE, NOO_ODDANSBAY, NORTHERN_THAW]
+    fleet: [COAST OF BETRAYAL, COLDSWELLS, DERHILDIA-sc, FJELSTRON, FJORDWASH, FORLORN ISLE,
+      LONELY FAR LANE, NOO ODDANSBAY, NORTHERN THAW]
   locs:
     label:
     - [0, 0]
@@ -2945,15 +2958,15 @@ ICEBERG_ALLEY:
     - [519.0, 2466.0]
     unit:
     - [433.0, 2536.0]
-  name: ICEBERG_ALLEY
+  name: ICEBERG ALLEY
   tiles: [173]
   type: sea
-ODHEONGU_SEA:
+ODHEONGU SEA:
   ID: 174
   area: 173910
   edges:
-    fleet: [HYEONSEONG, JAENGUJAN, NOKSESEOM, NUUGEM, OOL1, OOL2, OOL3, OOL4, SEA_OF_SPEARS,
-      THE_BRIDGE, TIANLOU_BAY, WIDOWS_SEA]
+    fleet: [HYEONSEONG, JAENGUJAN, NAKSESEOM, NUUGAM, OOL1, OOL2, OOL3, OOL4, SEA OF SPEARS,
+      THE BRIDGE, TIANLOU BAY, WIDOWS SEA]
   locs:
     label:
     - [0, 0]
@@ -2961,14 +2974,14 @@ ODHEONGU_SEA:
     - [617.0, 6841.0]
     unit:
     - [770.0, 6856.0]
-  name: ODHEONGU_SEA
+  name: ODHEONGU SEA
   tiles: [174]
   type: sea
-KUKATODIC_BIGHT:
+KUKATODIC BIGHT:
   ID: 175
   area: 39529
   edges:
-    fleet: [BLUE_SEA, DOMCHARUTH, LANKINA, ORKECH, PUAKOD, SOCHULEAG, YYL_MOITSA]
+    fleet: [BLUE SEA, DOMCHARUTH, LANKINA, ORKECH, PUAKOD, SOCHULEAG, YYL MOITSA]
   locs:
     label:
     - [0, 0]
@@ -2976,15 +2989,15 @@ KUKATODIC_BIGHT:
     - [403.0, 5251.0]
     unit:
     - [439.0, 5313.0]
-  name: KUKATODIC_BIGHT
+  name: KUKATODIC BIGHT
   tiles: [175]
   type: sea
-LONELY_FAR_LANE:
+LONELY FAR LANE:
   ID: 176
   area: 209027
   edges:
-    fleet: [COLDSWELLS, EXPANSE_SEA, FAR_ISLE, FORLORN_ISLE, ICEBERG_ALLEY, LONELY_ISLE,
-      NIMSCODD_SEA, NORTHERN_THAW, PORTNAMM_BAY, WESTCOAST]
+    fleet: [COLDSWELLS, EXPANSE SEA, FAR ISLE, FORLORN ISLE, ICEBERG ALLEY, LONELY ISLE,
+      NIMSCODD SEA, NORTHERN THAW, PORTNAMM BAY, WESTCOAST]
   locs:
     label:
     - [0, 0]
@@ -2992,14 +3005,15 @@ LONELY_FAR_LANE:
     - [502.0, 3053.0]
     unit:
     - [535.0, 2800.0]
-  name: LONELY_FAR_LANE
+  name: LONELY FAR LANE
   tiles: [176]
   type: sea
 FOGHARABH:
   ID: 177
   area: 60301
   edges:
-    fleet: [CLAFAIDH, EIGHARD, EIGRAS, EINNSAG, MARATHMAS, OOL1, OOL2, OOL3, OOL4, SARMADFAR]
+    fleet: [CLAFAIDH, EIGHARD, EIGRAS, EINNSAG, MARATHMAS, OOL1, OOL2, OOL3, OOL4,
+      SARMADFAR]
   locs:
     label:
     - [0, 0]
@@ -3010,12 +3024,12 @@ FOGHARABH:
   name: FOGHARABH
   tiles: [177]
   type: sea
-COAST_OF_BETRAYAL:
+COAST OF BETRAYAL:
   ID: 178
   area: 64319
   edges:
-    fleet: [COLDSWELLS, EMULYON, FAR_EXPANSE, ICEBERG_ALLEY, KWINEHCOST, NOO_ODDANSBAY,
-      SILSENSALD_SEA]
+    fleet: [COLDSWELLS, EMULYON, FAR EXPANSE, ICEBERG ALLEY, KWINEHCOST, NOO ODDANSBAY,
+      SILSENSALD SEA]
   locs:
     label:
     - [0, 0]
@@ -3023,10 +3037,10 @@ COAST_OF_BETRAYAL:
     - [583.0, 2318.0]
     unit:
     - [738.0, 2368.0]
-  name: COAST_OF_BETRAYAL
+  name: COAST OF BETRAYAL
   tiles: [178]
   type: sea
-TRIUNIC_LAKES:
+TRIUNIC LAKES:
   ID: 179
   area: 25224
   edges:
@@ -3038,15 +3052,15 @@ TRIUNIC_LAKES:
     - [660.0, 5499.0]
     unit:
     - [581.0, 5566.0]
-  name: TRIUNIC_LAKES
+  name: TRIUNIC LAKES
   tiles: [179]
   type: sea
 COLDSWELLS:
   ID: 180
   area: 38856
   edges:
-    fleet: [COAST_OF_BETRAYAL, EMULYON, EXPANSE_SEA, FORLORN_ISLE, ICEBERG_ALLEY,
-      LONELY_FAR_LANE, REMNANT_SEA]
+    fleet: [COAST OF BETRAYAL, EMULYON, EXPANSE SEA, FORLORN ISLE, ICEBERG ALLEY,
+      LONELY FAR LANE, REMNANT SEA]
   locs:
     label:
     - [0, 0]
@@ -3057,7 +3071,7 @@ COLDSWELLS:
   name: COLDSWELLS
   tiles: [180]
   type: sea
-BAY_OF_VERTESK:
+BAY OF VERTESK:
   ID: 181
   area: 2856
   edges:
@@ -3069,14 +3083,14 @@ BAY_OF_VERTESK:
     - [599.0, 4053.0]
     unit:
     - [586.0, 4021.0]
-  name: BAY_OF_VERTESK
+  name: BAY OF VERTESK
   tiles: [181]
   type: sea
-PORTNAMM_BAY:
+PORTNAMM BAY:
   ID: 182
   area: 4250
   edges:
-    fleet: [DERANNE, LONELY_FAR_LANE, MANERD, NIMSCODD_SEA, P, WESTCOAST]
+    fleet: [DERANNE, LONELY FAR LANE, MANERD, NIMSCODD SEA, P, WESTCOAST]
   locs:
     label:
     - [0, 0]
@@ -3084,14 +3098,14 @@ PORTNAMM_BAY:
     - [605.0, 3723.0]
     unit:
     - [636.0, 3702.0]
-  name: PORTNAMM_BAY
+  name: PORTNAMM BAY
   tiles: [182]
   type: sea
 DAMESHEAD:
   ID: 183
   area: 9329
   edges:
-    fleet: [ANBENNCOST, BAY_OF_VERTESK, BEEPECK, DAMESCROWN, ELKMARCH, EXWES, KONWELL]
+    fleet: [ANBENNCOST, BAY OF VERTESK, BEEPECK, DAMESCROWN, ELKMARCH, EXWES, KONWELL]
   locs:
     label:
     - [0, 0]
@@ -3102,12 +3116,12 @@ DAMESHEAD:
   name: DAMESHEAD
   tiles: [183]
   type: sea
-EXPANSE_SEA:
+EXPANSE SEA:
   ID: 184
   area: 200810
   edges:
-    fleet: [COAST_OF_VENAIL, COLDSWELLS, EDILLIONS_RELIEF, FAR_ISLE, LASTSIGHT, LONELY_FAR_LANE,
-      REMNANT_SEA, WESTCOAST]
+    fleet: [COAST OF VENAIL, COLDSWELLS, EDILLIONS RELIEF, FAR ISLE, LASTSIGHT, LONELY FAR LANE,
+      REMNANT SEA, WESTCOAST]
   locs:
     label:
     - [0, 0]
@@ -3115,15 +3129,15 @@ EXPANSE_SEA:
     - [801.0, 3276.0]
     unit:
     - [794.0, 3111.0]
-  name: EXPANSE_SEA
+  name: EXPANSE SEA
   tiles: [184]
   type: sea
 WESTCOAST:
   ID: 185
   area: 20872
   edges:
-    fleet: [COAST_OF_VENAIL, DAROMSFORT, DERANNE, EXPANSE_SEA, FAR_ISLE, LONELY_FAR_LANE,
-      PORTNAMM_BAY]
+    fleet: [COAST OF VENAIL, DAROMSFORT, DERANNE, EXPANSE SEA, FAR ISLE, LONELY FAR LANE,
+      PORTNAMM BAY]
   locs:
     label:
     - [0, 0]
@@ -3138,8 +3152,8 @@ SARMADFAR:
   ID: 186
   area: 113845
   edges:
-    fleet: [ARAKEPRUN, BAYCOAST, CLAFAIDH, DEARKTIR, EINNSAG, EOR_ISLANDS, FOGHARABH,
-      GULF_OF_NEANAANI, MURDKATHER, OOL1, OOL2, OOL3, OOL4, SOLDARCAM, TRIMTHIR]
+    fleet: [ARAKEPRUN, BAYCOAST, CLAFAIDH, DEARKTIR, EINNSAG, EOR ISLANDS, FOGHARABH,
+      GULF OF NEANAANI, MURDKATHER, OOL1, OOL2, OOL3, OOL4, SOLDARCAM, TRIMTHIR]
   locs:
     label:
     - [0, 0]
@@ -3154,9 +3168,10 @@ OOL1:
   ID: 227
   area: 3403
   edges:
-    fleet: [ARDMIYAN_REPUBLIC, BINHRUNG_COAST, EAST_RINGLET_SEA, JERKHAZUURA, KAUVABIYO_COAST,
-      NORTH_ARDMIYAN_SEA, ODHEONGU_SEA, OOL2, OOL3, OOL1, OOL4, THAWS_END, THE_BRIDGE,
-      WIDOWS_SEA, BROKEN_SEA, CANTISH_SEA, EIGRAS, EINNSAG, EOR_ISLANDS, FOGHARABH, SARMADFAR, SEA_OF_SILENCE, THENON_CURRENT, URARTOLA]
+    fleet: [ARDMIYAN REPUBLIC, BINHRUNG COAST, EAST RINGLET SEA, JERKHAZUURA, KAUVABIYO COAST,
+      NORTH ARDMIYAN SEA, ODHEONGU SEA, OOL2, OOL3, OOL1, OOL4, THAWS END, THE BRIDGE,
+      WIDOWS SEA, BROKEN SEA, CANTISH SEA, EIGRAS, EINNSAG, EOR ISLANDS, FOGHARABH,
+      SARMADFAR, SEA OF SILENCE, THENON CURRENT, URARTOLA]
   locs:
     label:
     - [0, 0]
@@ -3174,9 +3189,10 @@ OOL2:
   ID: 228
   area: 3405
   edges:
-    fleet: [ARDMIYAN_REPUBLIC, BINHRUNG_COAST, EAST_RINGLET_SEA, JERKHAZUURA, KAUVABIYO_COAST,
-      NORTH_ARDMIYAN_SEA, ODHEONGU_SEA, OOL1, OOL3, OOL4, OOL2, THAWS_END, THE_BRIDGE,
-      WIDOWS_SEA, BROKEN_SEA, CANTISH_SEA, EIGRAS, EINNSAG, EOR_ISLANDS, FOGHARABH, SARMADFAR, SEA_OF_SILENCE, THENON_CURRENT, URARTOLA]
+    fleet: [ARDMIYAN REPUBLIC, BINHRUNG COAST, EAST RINGLET SEA, JERKHAZUURA, KAUVABIYO COAST,
+      NORTH ARDMIYAN SEA, ODHEONGU SEA, OOL1, OOL3, OOL4, OOL2, THAWS END, THE BRIDGE,
+      WIDOWS SEA, BROKEN SEA, CANTISH SEA, EIGRAS, EINNSAG, EOR ISLANDS, FOGHARABH,
+      SARMADFAR, SEA OF SILENCE, THENON CURRENT, URARTOLA]
   locs:
     label:
     - [0, 0]
@@ -3190,12 +3206,12 @@ OOL2:
   name: OOL2
   tiles: [118, 228]
   type: sea
-REMNANT_SEA:
+REMNANT SEA:
   ID: 189
   area: 146162
   edges:
-    fleet: [BANISHED_SEA, CALAMITY_PASS, COLDSWELLS, CRIODHEEL, DEVILS_TRIDENT_SEA,
-      EMULYON, EXPANSE_SEA, FAR_EXPANSE, LASTSIGHT, NORTH_ENDRALLIANDE]
+    fleet: [BANISHED SEA, CALAMITY PASS, COLDSWELLS, CRIODHEEL, DEVILS TRIDENT SEA,
+      EMULYON, EXPANSE SEA, FAR EXPANSE, LASTSIGHT, NORTH ENDRALLIANDE]
   locs:
     label:
     - [0, 0]
@@ -3203,14 +3219,14 @@ REMNANT_SEA:
     - [864.0, 2704.0]
     unit:
     - [945.0, 2787.0]
-  name: REMNANT_SEA
+  name: REMNANT SEA
   tiles: [189]
   type: sea
-BAY_OF_WINES:
+BAY OF WINES:
   ID: 190
   area: 20157
   edges:
-    fleet: [ANBENNCOST, DIVENGATE, DOG_COAST, LORENTAINE, MOONHAVEN, NECKCLIFFE, ROILSARD,
+    fleet: [ANBENNCOST, DIVENGATE, DOG COAST, LORENTAINE, MOONHAVEN, NECKCLIFFE, ROILSARD,
       SORNAIRE, VERNE]
   locs:
     label:
@@ -3219,15 +3235,15 @@ BAY_OF_WINES:
     - [910.0, 3994.0]
     unit:
     - [884.0, 3952.0]
-  name: BAY_OF_WINES
+  name: BAY OF WINES
   tiles: [190]
   type: sea
-FAR_EXPANSE:
+FAR EXPANSE:
   ID: 191
   area: 53763
   edges:
-    fleet: [COAST_OF_BETRAYAL, EMULYON, NORTH_ENDRALLIANDE, REMNANT_SEA, SILSENAIRE,
-      SILSENSALD_SEA]
+    fleet: [COAST OF BETRAYAL, EMULYON, NORTH ENDRALLIANDE, REMNANT SEA, SILSENAIRE,
+      SILSENSALD SEA]
   locs:
     label:
     - [0, 0]
@@ -3235,14 +3251,14 @@ FAR_EXPANSE:
     - [927.0, 2561.0]
     unit:
     - [898.0, 2489.0]
-  name: FAR_EXPANSE
+  name: FAR EXPANSE
   tiles: [191]
   type: sea
-COAST_OF_VENAIL:
+COAST OF VENAIL:
   ID: 192
   area: 4607
   edges:
-    fleet: [DAROMSFORT, DIVENGATE, EDILLIONS_RELIEF, EXPANSE_SEA, SORNAIRE, VENAIL,
+    fleet: [DAROMSFORT, DIVENGATE, EDILLIONS RELIEF, EXPANSE SEA, SORNAIRE, VENAIL,
       WESTCOAST]
   locs:
     label:
@@ -3251,14 +3267,14 @@ COAST_OF_VENAIL:
     - [836.0, 3711.0]
     unit:
     - [813.0, 3650.0]
-  name: COAST_OF_VENAIL
+  name: COAST OF VENAIL
   tiles: [192]
   type: sea
-GEMISLE_SEA:
+GEMISLE SEA:
   ID: 193
   area: 13488
   edges:
-    fleet: [DOVESWALL, EBORTHIL, HAPAINE, LIONCOST, RE_UYEL, TEFKORA_PASS, DOG_COAST]
+    fleet: [DOVESWALL, EBORTHIL, HAPAINE, LIONCOST, RE UYEL, TEFKORA PASS, DOG COAST]
   locs:
     label:
     - [0, 0]
@@ -3266,15 +3282,15 @@ GEMISLE_SEA:
     - [879.0, 4234.0]
     unit:
     - [921.0, 4238.0]
-  name: GEMISLE_SEA
+  name: GEMISLE SEA
   tiles: [193]
   type: sea
-EDILLIONS_RELIEF:
+EDILLIONS RELIEF:
   ID: 194
   area: 94095
   edges:
-    fleet: [COAST_OF_VENAIL, CORSAIR_REACHES, DEVILS_TRIDENT_SEA, DIVENGATE, EKHA,
-      EXPANSE_SEA, LASTSIGHT, VENAIL]
+    fleet: [COAST OF VENAIL, EKHANI TIP, DEVILS TRIDENT SEA, DIVENGATE, EKHA,
+      EXPANSE SEA, LASTSIGHT, VENAIL]
   locs:
     label:
     - [0, 0]
@@ -3282,15 +3298,15 @@ EDILLIONS_RELIEF:
     - [1001.0, 3487.0]
     unit:
     - [959.0, 3591.0]
-  name: EDILLIONS_RELIEF
+  name: EDILLIONS RELIEF
   tiles: [194]
   type: sea
-SILSENSALD_SEA:
+SILSENSALD SEA:
   ID: 195
   area: 30374
   edges:
-    fleet: [ABHENN, COAST_OF_BETRAYAL, FAR_EXPANSE, GRAXILZIN_SEA, JERCEL, KWINEHCOST,
-      NORTH_ENDRALLIANDE, SILSENAIRE]
+    fleet: [ABHENN, COAST OF BETRAYAL, FAR EXPANSE, GRAXILZIN SEA, JERCEL, KWINEHCOST,
+      NORTH ENDRALLIANDE, SILSENAIRE]
   locs:
     label:
     - [0, 0]
@@ -3298,14 +3314,14 @@ SILSENSALD_SEA:
     - [992.0, 2374.0]
     unit:
     - [1019.0, 2324.0]
-  name: SILSENSALD_SEA
+  name: SILSENSALD SEA
   tiles: [195]
   type: sea
 DIVENGATE:
   ID: 196
   area: 19221
   edges:
-    fleet: [BAY_OF_WINES, COAST_OF_VENAIL, DOG_COAST, EDILLIONS_RELIEF, EKHA, SORNAIRE]
+    fleet: [BAY OF WINES, COAST OF VENAIL, DOG COAST, EDILLIONS RELIEF, EKHA, SORNAIRE]
   locs:
     label:
     - [0, 0]
@@ -3316,11 +3332,11 @@ DIVENGATE:
   name: DIVENGATE
   tiles: [196]
   type: sea
-SEA_OF_SPEARS:
+SEA OF SPEARS:
   ID: 197
   area: 13548
   edges:
-    fleet: [DAMAOGONG, JAENGUJAN, JIANTSANG, LIUMINXIANG-wc, ODHEONGU_SEA, TIANLOU_BAY]
+    fleet: [DAMAOGONG, JAENGUJAN, JIANTSANG, LIUMINXIANG-wc, ODHEONGU SEA, TIANLOU BAY]
   locs:
     label:
     - [0, 0]
@@ -3328,16 +3344,17 @@ SEA_OF_SPEARS:
     - [960.0, 6500.0]
     unit:
     - [934.0, 6456.0]
-  name: SEA_OF_SPEARS
+  name: SEA OF SPEARS
   tiles: [197]
   type: sea
 OOL3:
   ID: 244
   area: 3405
   edges:
-    fleet: [ARDMIYAN_REPUBLIC, BINHRUNG_COAST, EAST_RINGLET_SEA, JERKHAZUURA, KAUVABIYO_COAST,
-      NORTH_ARDMIYAN_SEA, ODHEONGU_SEA, OOL1, OOL2, OOL3, OOL4, THAWS_END, THE_BRIDGE,
-      WIDOWS_SEA, BROKEN_SEA, CANTISH_SEA, EIGRAS, EINNSAG, EOR_ISLANDS, FOGHARABH, SARMADFAR, SEA_OF_SILENCE, THENON_CURRENT, URARTOLA]
+    fleet: [ARDMIYAN REPUBLIC, BINHRUNG COAST, EAST RINGLET SEA, JERKHAZUURA, KAUVABIYO COAST,
+      NORTH ARDMIYAN SEA, ODHEONGU SEA, OOL1, OOL2, OOL3, OOL4, THAWS END, THE BRIDGE,
+      WIDOWS SEA, BROKEN SEA, CANTISH SEA, EIGRAS, EINNSAG, EOR ISLANDS, FOGHARABH,
+      SARMADFAR, SEA OF SILENCE, THENON CURRENT, URARTOLA]
   locs:
     label:
     - [0, 0]
@@ -3350,11 +3367,11 @@ OOL3:
   name: OOL3
   tiles: [244, 198]
   type: sea
-THE_BRIDGE:
+THE BRIDGE:
   ID: 199
   area: 230601
   edges:
-    fleet: [BINHRUNG_COAST, OOL1, OOL2, OOL3, OOL4, ODHEONGU_SEA, PHOKAO_PASS, TIANLOU_BAY]
+    fleet: [BINHRUNG COAST, OOL1, OOL2, OOL3, OOL4, ODHEONGU SEA, PHOKAO PASS, TIANLOU BAY]
   locs:
     label:
     - [0, 0]
@@ -3362,15 +3379,15 @@ THE_BRIDGE:
     - [1140.0, 6820.0]
     unit:
     - [1299.0, 6758.0]
-  name: THE_BRIDGE
+  name: THE BRIDGE
   tiles: [199]
   type: sea
-DOG_COAST:
+DOG COAST:
   ID: 200
   area: 15489
   edges:
-    fleet: [BAY_OF_WINES, DESHAK, DIVENGATE, EBORTHIL, EKHA, KHASA, LIONCOST, TEFKORA_PASS,
-      VERNE, GEMISLE_SEA]
+    fleet: [BAY OF WINES, DESHAK, DIVENGATE, EBORTHIL, EKHA, KHASA, LIONCOST, TEFKORA PASS,
+      VERNE, GEMISLE SEA]
   locs:
     label:
     - [0, 0]
@@ -3378,15 +3395,15 @@ DOG_COAST:
     - [960.0, 4073.0]
     unit:
     - [983.0, 4027.0]
-  name: DOG_COAST
+  name: DOG COAST
   tiles: [200]
   type: sea
-SEA_OF_ECHOES:
+SEA OF ECHOES:
   ID: 201
   area: 26228
   edges:
-    fleet: [AQATBAR, AZKA_JEXIS, GULF_OF_GLASS, KOROSHESH, RE_UYEL, SEA_OF_ELIZNA,
-      TEFKORA_PASS, TUNGR, VOGKEYSA]
+    fleet: [AQATBAR, AZKA JEXIS, GULF OF GLASS, KOROSHESH, RE UYEL, SEA OF ELIZNA,
+      TEFKORA PASS, TUNGR, VOGKEYSA]
   locs:
     label:
     - [0, 0]
@@ -3394,14 +3411,14 @@ SEA_OF_ECHOES:
     - [1024.0, 4402.0]
     unit:
     - [1087.0, 4373.0]
-  name: SEA_OF_ECHOES
+  name: SEA OF ECHOES
   tiles: [201]
   type: sea
-TEFKORA_PASS:
+TEFKORA PASS:
   ID: 202
   area: 22838
   edges:
-    fleet: [DESHAK, DOG_COAST, EBORTHIL, GEMISLE_SEA, RE_UYEL, SEA_OF_ECHOES, VOGKEYSA]
+    fleet: [DESHAK, DOG COAST, EBORTHIL, GEMISLE SEA, RE UYEL, SEA OF ECHOES, VOGKEYSA]
   locs:
     label:
     - [0, 0]
@@ -3409,14 +3426,14 @@ TEFKORA_PASS:
     - [985.0, 4302.0]
     unit:
     - [1026.0, 4252.0]
-  name: TEFKORA_PASS
+  name: TEFKORA PASS
   tiles: [202]
   type: sea
-GULF_OF_GLASS:
+GULF OF GLASS:
   ID: 203
   area: 9931
   edges:
-    fleet: [AQATBAR, BRASAN, BULWAR, SEA_OF_ECHOES, SEA_OF_ELIZNA]
+    fleet: [AQATBAR, BRASAN, BULWAR, SEA OF ECHOES, SEA OF ELIZNA]
   locs:
     label:
     - [0, 0]
@@ -3424,15 +3441,15 @@ GULF_OF_GLASS:
     - [1060.0, 4582.0]
     unit:
     - [1004.0, 4507.0]
-  name: GULF_OF_GLASS
+  name: GULF OF GLASS
   tiles: [203]
   type: sea
-TIANLOU_BAY:
+TIANLOU BAY:
   ID: 204
   area: 54995
   edges:
-    fleet: [BEIK, DAMAOGONG, IONGSIM, LIUMINXIANG-ec, ODHEONGU_SEA, PHOKAO_PASS, SEA_OF_SPEARS,
-      THE_BRIDGE, TIANLOU]
+    fleet: [BEIK, DAMAOGONG, IONGSIM, LIUMINXIANG-ec, ODHEONGU SEA, PHOKAO PASS, SEA OF SPEARS,
+      THE BRIDGE, TIANLOU]
   locs:
     label:
     - [0, 0]
@@ -3440,14 +3457,14 @@ TIANLOU_BAY:
     - [1017.0, 6616.0]
     unit:
     - [1088.0, 6557.0]
-  name: TIANLOU_BAY
+  name: TIANLOU BAY
   tiles: [204]
   type: sea
 TROLLSBAY:
   ID: 205
   area: 9528
   edges:
-    fleet: [CONCORD_POINT, DAXWELL, SOUTH_MARRLIANDE, VALORPOINT, YNNSMOUTH]
+    fleet: [CONCORD POINT, DAXWELL, SOUTH MARRLIANDE, VALORPOINT, YNNSMOUTH]
   locs:
     label:
     - [0, 0]
@@ -3458,11 +3475,11 @@ TROLLSBAY:
   name: TROLLSBAY
   tiles: [205]
   type: sea
-BLOODGROVES_COAST:
+BLOODGROVES COAST:
   ID: 206
   area: 6381
   edges:
-    fleet: [BRIDGEWAY, CONCORD_POINT, GRAXILZIN_SEA, NEW_CESTAIRE, TUNIN]
+    fleet: [BRIDGEWAY, CONCORD POINT, GRAXILZIN SEA, NEW CESTAIRE, TUNIN]
   locs:
     label:
     - [0, 0]
@@ -3470,15 +3487,15 @@ BLOODGROVES_COAST:
     - [1029.0, 1965.0]
     unit:
     - [1054.0, 1929.0]
-  name: BLOODGROVES_COAST
+  name: BLOODGROVES COAST
   tiles: [206]
   type: sea
-GRAXILZIN_SEA:
+GRAXILZIN SEA:
   ID: 207
   area: 62989
   edges:
-    fleet: [ABHENN, BLOODGROVES_COAST, CHARMED_SEA, CONCORD_POINT, JERCEL, NUR_TEL,
-      RED_COAST, SILSENSALD_SEA, TUNIN, WANDERERS_SEA]
+    fleet: [ABHENN, BLOODGROVES COAST, CHARMED SEA, CONCORD POINT, JERCEL, NUR TEL,
+      RED COAST, SILSENSALD SEA, TUNIN, WANDERERS SEA]
   locs:
     label:
     - [0, 0]
@@ -3486,14 +3503,14 @@ GRAXILZIN_SEA:
     - [1173.0, 2281.0]
     unit:
     - [1121.0, 2215.0]
-  name: GRAXILZIN_SEA
+  name: GRAXILZIN SEA
   tiles: [207]
   type: sea
-SEA_OF_ELIZNA:
+SEA OF ELIZNA:
   ID: 208
   area: 17144
   edges:
-    fleet: [AZKA_JEXIS, BRASAN, GULF_OF_GLASS, SEA_OF_ECHOES]
+    fleet: [AZKA JEXIS, BRASAN, GULF OF GLASS, SEA OF ECHOES]
   locs:
     label:
     - [0, 0]
@@ -3501,15 +3518,15 @@ SEA_OF_ELIZNA:
     - [1152.0, 4548.0]
     unit:
     - [1078.0, 4480.0]
-  name: SEA_OF_ELIZNA
+  name: SEA OF ELIZNA
   tiles: [208]
   type: sea
-CORSAIR_REACHES:
+EKHANI TIP:
   ID: 209
   area: 104484
   edges:
-    fleet: [DEVILS_TRIDENT_SEA, EDILLIONS_RELIEF, EKHA, NORTH_WANDERER, PAWPRINT,
-      POINTSIGHT, SANDSPITE_GULF, YAIKOBIX]
+    fleet: [DEVILS TRIDENT SEA, EDILLIONS RELIEF, EKHA, NORTH WANDERER, PAWPRINT,
+      POINTSIGHT, SANDSPITE GULF, YAIKOBIX]
   locs:
     label:
     - [0, 0]
@@ -3517,15 +3534,15 @@ CORSAIR_REACHES:
     - [1328.0, 3652.0]
     unit:
     - [1141.0, 3767.0]
-  name: CORSAIR_REACHES
+  name: EKHANI TIP
   tiles: [209]
   type: sea
-DEVILS_TRIDENT_SEA:
+DEVILS TRIDENT SEA:
   ID: 210
   area: 100942
   edges:
-    fleet: [BANISHED_SEA, CORSAIR_REACHES, EDILLIONS_RELIEF, FADHOBAITH, LASTSIGHT,
-      NORTH_WANDERER, REMNANT_SEA]
+    fleet: [BANISHED SEA, EKHANI TIP, EDILLIONS RELIEF, FADHOBAITH, LASTSIGHT,
+      NORTH WANDERER, REMNANT SEA]
   locs:
     label:
     - [0, 0]
@@ -3533,15 +3550,15 @@ DEVILS_TRIDENT_SEA:
     - [1179.0, 3516.0]
     unit:
     - [1206.0, 3395.0]
-  name: DEVILS_TRIDENT_SEA
+  name: DEVILS TRIDENT SEA
   tiles: [210]
   type: sea
-GULF_OF_NEANAANI:
+GULF OF NEANAANI:
   ID: 211
   area: 83147
   edges:
-    fleet: [BOKGUAN, EOR_ISLANDS, GOMMOPORT, SARMADFAR, SEA_OF_SILENCE, SOLDARCAM,
-      VEMOD_ARKA, WORMWAY]
+    fleet: [BOKGUAN, EOR ISLANDS, GOMMOPORT, SARMADFAR, SEA OF SILENCE, SOLDARCAM,
+      VEMOD ARKA, WORMWAY]
   locs:
     label:
     - [0, 0]
@@ -3549,15 +3566,15 @@ GULF_OF_NEANAANI:
     - [1283.0, 825.0]
     unit:
     - [1335.0, 677.0]
-  name: GULF_OF_NEANAANI
+  name: GULF OF NEANAANI
   tiles: [211]
   type: sea
-BANISHED_SEA:
+BANISHED SEA:
   ID: 212
   area: 43914
   edges:
-    fleet: [CALAMITY_PASS, DEVILS_TRIDENT_SEA, FADHOBAITH, NEW_UANCED, ORRIC_CHEID,
-      REMNANT_SEA]
+    fleet: [CALAMITY PASS, DEVILS TRIDENT SEA, FADHOBAITH, NEW UANCED, ORRIC CHEID,
+      REMNANT SEA]
   locs:
     label:
     - [0, 0]
@@ -3565,17 +3582,17 @@ BANISHED_SEA:
     - [1257.0, 3186.0]
     unit:
     - [1203.0, 3131.0]
-  name: BANISHED_SEA
+  name: BANISHED SEA
   tiles: [212]
   type: sea
 OOL4:
   ID: 243
   area: 3405
   edges:
-    fleet: [ARDMIYAN_REPUBLIC, BINHRUNG_COAST, EAST_RINGLET_SEA, JERKHAZUURA, KAUVABIYO_COAST,
-      NORTH_ARDMIYAN_SEA, ODHEONGU_SEA, OOL1, OOL2, OOL3, OOL4, THAWS_END, THE_BRIDGE,
-      WIDOWS_SEA, BROKEN_SEA, CANTISH_SEA, EIGRAS, EINNSAG, EOR_ISLANDS, FOGHARABH,
-      SARMADFAR, SEA_OF_SILENCE, THENON_CURRENT, URARTOLA]
+    fleet: [ARDMIYAN REPUBLIC, BINHRUNG COAST, EAST RINGLET SEA, JERKHAZUURA, KAUVABIYO COAST,
+      NORTH ARDMIYAN SEA, ODHEONGU SEA, OOL1, OOL2, OOL3, OOL4, THAWS END, THE BRIDGE,
+      WIDOWS SEA, BROKEN SEA, CANTISH SEA, EIGRAS, EINNSAG, EOR ISLANDS, FOGHARABH,
+      SARMADFAR, SEA OF SILENCE, THENON CURRENT, URARTOLA]
   locs:
     label:
     - [0, 0]
@@ -3589,12 +3606,12 @@ OOL4:
   name: OOL4
   tiles: [213, 243]
   type: sea
-CHARMED_SEA:
+CHARMED SEA:
   ID: 214
   area: 68838
   edges:
-    fleet: [CONCORD_POINT, DEVINAIRE, GRAVEROADS, GRAXILZIN_SEA, ISLES_OF_PLENTY,
-      NUR_TEL, REAPERS_COAST, SHOFASHOK, TROPAICOST, VALORPOINT]
+    fleet: [CONCORD POINT, DEVINAIRE, GRAVEROADS, GRAXILZIN SEA, ISLES OF PLENTY,
+      NUR TEL, REAPERS COAST, SHOFASHOK, TROPAICOST, VALORPOINT]
   locs:
     label:
     - [0, 0]
@@ -3602,14 +3619,14 @@ CHARMED_SEA:
     - [1313.0, 1833.0]
     unit:
     - [1234.0, 1889.0]
-  name: CHARMED_SEA
+  name: CHARMED SEA
   tiles: [214]
   type: sea
-PHOKAO_PASS:
+PHOKAO PASS:
   ID: 215
   area: 20780
   edges:
-    fleet: [BINHRUNG_COAST, HEHONG, IONGSIM, KUDET_KAI, THE_BRIDGE, TIANLOU_BAY, UPPER_KEOADEN,
+    fleet: [BINHRUNG COAST, HEHONG, IONGSIM, KUDET KAI, THE BRIDGE, TIANLOU BAY, UPPER KEOADEN,
       ZYUGONG]
   locs:
     label:
@@ -3618,15 +3635,15 @@ PHOKAO_PASS:
     - [1264.0, 6369.0]
     unit:
     - [1309.0, 6322.0]
-  name: PHOKAO_PASS
+  name: PHOKAO PASS
   tiles: [215]
   type: sea
-CALAMITY_PASS:
+CALAMITY PASS:
   ID: 216
   area: 68882
   edges:
-    fleet: [BANISHED_SEA, CRIODHEEL, FADHOBAITH, GATE_SEA, NEW_UANCED, OCHCHUSCOST,
-      OCHHUS_SEA, ORRIC_CHEID, REMNANT_SEA]
+    fleet: [BANISHED SEA, CRIODHEEL, FADHOBAITH, GATE SEA, NEW UANCED, OCHCHUSCOST,
+      OCHHUS SEA, ORRIC CHEID, REMNANT SEA]
   locs:
     label:
     - [0, 0]
@@ -3634,14 +3651,14 @@ CALAMITY_PASS:
     - [1399.0, 2782.0]
     unit:
     - [1348.0, 2861.0]
-  name: CALAMITY_PASS
+  name: CALAMITY PASS
   tiles: [216]
   type: sea
-WANDERERS_SEA:
+WANDERERS SEA:
   ID: 217
   area: 63501
   edges:
-    fleet: [ASRA, CRATERDEEP, EADOHAS, GATE_SEA, GRAXILZIN_SEA, JERCEL, NUR_TEL, SILVERTEN_PASS]
+    fleet: [ASRA, CRATERDEEP, EADOHAS, GATE SEA, GRAXILZIN SEA, JERCEL, NUR TEL, SILVERTEN PASS]
   locs:
     label:
     - [0, 0]
@@ -3649,14 +3666,14 @@ WANDERERS_SEA:
     - [1466.0, 2319.0]
     unit:
     - [1341.0, 2339.0]
-  name: WANDERERS_SEA
+  name: WANDERERS SEA
   tiles: [217]
   type: sea
-GATE_SEA:
+GATE SEA:
   ID: 218
   area: 61169
   edges:
-    fleet: [ASRA, CALAMITY_PASS, CRIODHEEL, EADOHAS, JERCEL, OCHCHUSCOST, WANDERERS_SEA]
+    fleet: [ASRA, CALAMITY PASS, CRIODHEEL, EADOHAS, JERCEL, OCHCHUSCOST, WANDERERS SEA]
   locs:
     label:
     - [0, 0]
@@ -3664,14 +3681,14 @@ GATE_SEA:
     - [1345.0, 2661.0]
     unit:
     - [1434.0, 2537.0]
-  name: GATE_SEA
+  name: GATE SEA
   tiles: [218]
   type: sea
-SANDSPITE_GULF:
+SANDSPITE GULF:
   ID: 219
   area: 30361
   edges:
-    fleet: [CORSAIR_REACHES, PAWPRINT, POINTSIGHT, SIGILAN, WEST_SARHAL, YAIKOBIX,
+    fleet: [EKHANI TIP, PAWPRINT, POINTSIGHT, SIGILAN, WEST SARHAL, YAIKOBIX,
       YZHEDVREN]
   locs:
     label:
@@ -3680,14 +3697,14 @@ SANDSPITE_GULF:
     - [1457.0, 3897.0]
     unit:
     - [1383.0, 3913.0]
-  name: SANDSPITE_GULF
+  name: SANDSPITE GULF
   tiles: [219]
   type: sea
-JADD_SEA:
+JADD SEA:
   ID: 220
   area: 55498
   edges:
-    fleet: [AVHAUBHIYA, BERPARWEDEB, HORN_OF_SARHAL, ILZIN_ZOKKA, KOGGRAFFA, SARK,
+    fleet: [AVHAUBHIYA, BERPARWEDEB, HORN OF SARHAL, ILZIN ZOKKA, KOGGRAFFA, SARK,
       TIPHIYA]
   locs:
     label:
@@ -3696,15 +3713,15 @@ JADD_SEA:
     - [1405.0, 5427.0]
     unit:
     - [1382.0, 5560.0]
-  name: JADD_SEA
+  name: JADD SEA
   tiles: [220]
   type: sea
-SEA_OF_SILENCE:
+SEA OF SILENCE:
   ID: 221
   area: 124303
   edges:
-    fleet: [EOR_ISLANDS, GOMMOPORT, GULF_OF_NEANAANI, MESTIKARDU, OOL1, OOL2, OOL3, OOL4,
-      THENON_CURRENT]
+    fleet: [EOR ISLANDS, GOMMOPORT, GULF OF NEANAANI, MESTIKARDU, OOL1, OOL2, OOL3,
+      OOL4, THENON CURRENT]
   locs:
     label:
     - [0, 0]
@@ -3712,15 +3729,15 @@ SEA_OF_SILENCE:
     - [1492.0, 549.0]
     unit:
     - [1611.0, 596.0]
-  name: SEA_OF_SILENCE
+  name: SEA OF SILENCE
   tiles: [221]
   type: sea
 FADHOBAITH:
   ID: 222
   area: 88921
   edges:
-    fleet: [BANISHED_SEA, CALAMITY_PASS, DEVILS_TRIDENT_SEA, NEW_UANCED, NORTH_WANDERER,
-      OCHHUS_SEA, POINTSIGHT, SEA_OF_WRECKAGES, WANDERERS_ISLES]
+    fleet: [BANISHED SEA, CALAMITY PASS, DEVILS TRIDENT SEA, NEW UANCED, NORTH WANDERER,
+      OCHHUS SEA, POINTSIGHT, SEA OF WRECKAGES, WANDERERS ISLES]
   locs:
     label:
     - [0, 0]
@@ -3731,11 +3748,11 @@ FADHOBAITH:
   name: FADHOBAITH
   tiles: [222]
   type: sea
-REAPERS_COAST:
+REAPERS COAST:
   ID: 223
   area: 29446
   edges:
-    fleet: [ARCA_ONYX, BAY_OF_RESPITE, CHARMED_SEA, DEVINAIRE, GRAVEROADS, LOVERS_PASS]
+    fleet: [ARCA ONYX, BAY OF RESPITE, CHARMED SEA, DEVINAIRE, GRAVEROADS, LOVERS PASS]
   locs:
     label:
     - [0, 0]
@@ -3743,14 +3760,14 @@ REAPERS_COAST:
     - [1433.0, 1653.0]
     unit:
     - [1539.0, 1682.0]
-  name: REAPERS_COAST
+  name: REAPERS COAST
   tiles: [223]
   type: sea
-GULF_OF_RAHEN:
+GULF OF RAHEN:
   ID: 224
   area: 8115
   edges:
-    fleet: [BHARABAGHA, BIENG_PHANG, GULF_OF_GON, SKARKAOPHE, TIPHIYA, VANRAHAR, WHITEWATER_SEA]
+    fleet: [BHARABAGHA, BIENG PHANG, GULF OF GON, SKARKAOPHE, TIPHIYA, VANRAHAR, WHITEWATER SEA]
   locs:
     label:
     - [0, 0]
@@ -3758,15 +3775,15 @@ GULF_OF_RAHEN:
     - [1380.0, 5802.0]
     unit:
     - [1416.0, 5826.0]
-  name: GULF_OF_RAHEN
+  name: GULF OF RAHEN
   tiles: [224]
   type: sea
-BINHRUNG_COAST:
+BINHRUNG COAST:
   ID: 225
   area: 167524
   edges:
-    fleet: [EAST_RINGLET_SEA, KIUBANG, NON_CHIEN, OOL1, OOL2, OOL3, OOL4, PHOKAO_PASS,
-      THE_BRIDGE, UPPER_KEOADEN]
+    fleet: [EAST RINGLET SEA, KIUBANG, NON CHIEN, OOL1, OOL2, OOL3, OOL4, PHOKAO PASS,
+      THE BRIDGE, UPPER KEOADEN]
   locs:
     label:
     - [0, 0]
@@ -3774,15 +3791,15 @@ BINHRUNG_COAST:
     - [1521.0, 6356.0]
     unit:
     - [1623.0, 6688.0]
-  name: BINHRUNG_COAST
+  name: BINHRUNG COAST
   tiles: [225]
   type: sea
 POINTSIGHT:
   ID: 226
   area: 72784
   edges:
-    fleet: [CORSAIR_REACHES, FADHOBAITH, MARIDS_SEA, NORTH_WANDERER, PAWPRINT, SANDSPITE_GULF,
-      SIGILAN, WANDERERS_ISLES]
+    fleet: [EKHANI TIP, FADHOBAITH, MARIDS SEA, NORTH WANDERER, PAWPRINT, SANDSPITE GULF,
+      SIGILAN, WANDERERS ISLES]
   locs:
     label:
     - [0, 0]
@@ -3793,12 +3810,12 @@ POINTSIGHT:
   name: POINTSIGHT
   tiles: [226]
   type: sea
-GULF_OF_HARAF:
+GULF OF HARAF:
   ID: 229
   area: 10677
   edges:
-    fleet: [CROOKED, DAGGER_POINT, GADODCODD, LOVERS_PASS, LOVERSIGHT, MINAR_YOLLI,
-      NURCANDAR, OZTENCOST, QUINTUPLETS, SHATTERED_ISLANDS]
+    fleet: [CROOKED, DAGGER POINT, GADODCODD, LOVERS PASS, LOVERSIGHT, MINAR YOLLI,
+      NURCANDAR, OZTENCOST, QUINTUPLETS, SHATTERED ISLANDS]
   locs:
     label:
     - [0, 0]
@@ -3806,14 +3823,14 @@ GULF_OF_HARAF:
     - [1479.0, 1305.0]
     unit:
     - [1520.0, 1392.0]
-  name: GULF_OF_HARAF
+  name: GULF OF HARAF
   tiles: [229]
   type: sea
-PRA_BAY:
+PRA BAY:
   ID: 230
   area: 1371
   edges:
-    fleet: [BAIHON-nc, BASAATELE, GULF_OF_GON, KHOM_SEA, CAOBAN, MAI]
+    fleet: [BAIHON-nc, BASAATELE, GULF OF GON, KHOM SEA, CAOBAN, MAI]
   locs:
     label:
     - [0, 0]
@@ -3821,14 +3838,14 @@ PRA_BAY:
     - [1422.0, 5952.0]
     unit:
     - [1444.0, 5965.0]
-  name: PRA_BAY
+  name: PRA BAY
   tiles: [230]
   type: sea
-GULF_OF_GON:
+GULF OF GON:
   ID: 231
   area: 8307
   edges:
-    fleet: [BASAATELE, GULF_OF_RAHEN, KHOM_SEA, PRA_BAY, SKARKAOPHE, WHITEWATER_SEA]
+    fleet: [BASAATELE, GULF OF RAHEN, KHOM SEA, PRA BAY, SKARKAOPHE, WHITEWATER SEA]
   locs:
     label:
     - [0, 0]
@@ -3836,15 +3853,15 @@ GULF_OF_GON:
     - [1452.0, 5921.0]
     unit:
     - [1485.0, 5893.0]
-  name: GULF_OF_GON
+  name: GULF OF GON
   tiles: [231]
   type: sea
-OCHHUS_SEA:
+OCHHUS SEA:
   ID: 232
   area: 158035
   edges:
-    fleet: [CALAMITY_PASS, FADHOBAITH, OCHCHUSCOST, SEA_OF_WRECKAGES, SILVERTEN_PASS,
-      VINE_CURRENT]
+    fleet: [CALAMITY PASS, FADHOBAITH, OCHCHUSCOST, SEA OF WRECKAGES, SILVERTEN PASS,
+      VINE CURRENT]
   locs:
     label:
     - [0, 0]
@@ -3852,15 +3869,15 @@ OCHHUS_SEA:
     - [1692.0, 2753.0]
     unit:
     - [1653.0, 2886.0]
-  name: OCHHUS_SEA
+  name: OCHHUS SEA
   tiles: [232]
   type: sea
 CRATERDEEP:
   ID: 233
   area: 62644
   edges:
-    fleet: [FAR_PLENTY, ISLES_OF_PLENTY, NUR_TEL, OZGAR, SILVERTEN_PASS, TROPAICOST,
-      WANDERERS_SEA]
+    fleet: [FAR PLENTY, ISLES OF PLENTY, NUR TEL, OZGAR, SILVERTEN PASS, TROPAICOST,
+      WANDERERS SEA]
   locs:
     label:
     - [0, 0]
@@ -3871,11 +3888,11 @@ CRATERDEEP:
   name: CRATERDEEP
   tiles: [233]
   type: sea
-HORN_OF_SARHAL:
+HORN OF SARHAL:
   ID: 234
   area: 23533
   edges:
-    fleet: [BERPARWEDEB, JADD_SEA, NALENI, SIMAHRIKA, TIPHIYA]
+    fleet: [BERPARWEDEB, JADD SEA, NALENI, SIMAHRIKA, TIPHIYA]
   locs:
     label:
     - [0, 0]
@@ -3883,14 +3900,14 @@ HORN_OF_SARHAL:
     - [1489.0, 5546.0]
     unit:
     - [1517.0, 5600.0]
-  name: HORN_OF_SARHAL
+  name: HORN OF SARHAL
   tiles: [234]
   type: sea
-ARTIFICER_COAST:
+ARTIFICER COAST:
   ID: 235
   area: 9882
   edges:
-    fleet: [DAGGER_POINT, GADODCODD, MALLAZABO, SHATTERED_ISLANDS, TORN_SEA, ZURZUMEXIA]
+    fleet: [DAGGER POINT, GADODCODD, MALLAZABO, SHATTERED ISLANDS, TORN SEA, ZURZUMEXIA]
   locs:
     label:
     - [0, 0]
@@ -3898,14 +3915,14 @@ ARTIFICER_COAST:
     - [1600.0, 1066.0]
     unit:
     - [1579.0, 1131.0]
-  name: ARTIFICER_COAST
+  name: ARTIFICER COAST
   tiles: [235]
   type: sea
-KHOM_SEA:
+KHOM SEA:
   ID: 236
   area: 9409
   edges:
-    fleet: [ARAWKELIN, BAIHON-sc, BAIHON-nc, GULF_OF_GON, PRA_BAY, HEBA, WHITEWATER_SEA]
+    fleet: [ARAWKELIN, BAIHON-sc, BAIHON-nc, GULF OF GON, PRA BAY, HEBA, WHITEWATER SEA]
   locs:
     label:
     - [0, 0]
@@ -3913,14 +3930,14 @@ KHOM_SEA:
     - [1500.0, 5956.0]
     unit:
     - [1541.0, 5959.0]
-  name: KHOM_SEA
+  name: KHOM SEA
   tiles: [236]
   type: sea
-WHITEWATER_SEA:
+WHITEWATER SEA:
   ID: 237
   area: 43811
   edges:
-    fleet: [ARAWKELIN, GULF_OF_GON, GULF_OF_RAHEN, KHOM_SEA, KIUBANG, LANUN_DEPTHS,
+    fleet: [ARAWKELIN, GULF OF GON, GULF OF RAHEN, KHOM SEA, KIUBANG, LANUN DEPTHS,
       NALENI, PANHENAW, TIPHIYA]
   locs:
     label:
@@ -3929,15 +3946,15 @@ WHITEWATER_SEA:
     - [1698.0, 5957.0]
     unit:
     - [1607.0, 5869.0]
-  name: WHITEWATER_SEA
+  name: WHITEWATER SEA
   tiles: [237]
   type: sea
-SEA_OF_WRECKAGES:
+SEA OF WRECKAGES:
   ID: 238
   area: 340083
   edges:
-    fleet: [FADHOBAITH, ISLANDERS_ROUTE, MARIDS_SEA, OCHHUS_SEA, SINGERS_COAST,
-      THAMUSAND, VINE_CURRENT, WANDERERS_ISLES, WEST_TURTLEBACK]
+    fleet: [FADHOBAITH, ISLANDERS ROUTE, MARIDS SEA, OCHHUS SEA, SINGERS COAST, THAMUSAND,
+      VINE CURRENT, WANDERERS ISLES, WEST TURTLEBACK]
   locs:
     label:
     - [0, 0]
@@ -3945,15 +3962,16 @@ SEA_OF_WRECKAGES:
     - [1921.0, 3160.0]
     unit:
     - [1861.0, 3351.0]
-  name: SEA_OF_WRECKAGES
+  name: SEA OF WRECKAGES
   tiles: [238]
   type: sea
-SHATTERED_ISLANDS:
+SHATTERED ISLANDS:
   ID: 239
   area: 44432
   edges:
-    fleet: [AMADIAN_PASS, ARTIFICER_COAST, BRISTAILEAN, CROOKED, DAGGER_POINT, GULF_OF_HARAF,
-      LOVERS_PASS, MATNI_SEA, RICARDSPORT, TORN_SEA]
+    army: [BRISTAILEAN, CROOKED, DAGGER POINT, RICARDSPORT]
+    fleet: [AMADIAN PASS, ARTIFICER COAST, BRISTAILEAN, CROOKED, DAGGER POINT, GULF OF HARAF,
+      LOVERS PASS, MATNI SEA, RICARDSPORT, TORN SEA]
   locs:
     label:
     - [0, 0]
@@ -3961,15 +3979,15 @@ SHATTERED_ISLANDS:
     - [1665.0, 1396.0]
     unit:
     - [1724.0, 1371.0]
-  name: SHATTERED_ISLANDS
+  name: SHATTERED ISLANDS
   tiles: [239]
-  type: sea
-LOVERS_PASS:
+  type: coast
+LOVERS PASS:
   ID: 240
   area: 40083
   edges:
-    fleet: [AMADIAN_PASS, ARCA_ONYX, BAY_OF_RESPITE, CROOKED, GULF_OF_HARAF, MINAR_YOLLI,
-      REAPERS_COAST, RICARDSPORT, SHATTERED_ISLANDS, TRISTANTON]
+    fleet: [AMADIAN PASS, ARCA ONYX, BAY OF RESPITE, CROOKED, GULF OF HARAF, MINAR YOLLI,
+      REAPERS COAST, RICARDSPORT, SHATTERED ISLANDS, TRISTANTON]
   locs:
     label:
     - [0, 0]
@@ -3977,15 +3995,15 @@ LOVERS_PASS:
     - [1665.0, 1552.0]
     unit:
     - [1669.0, 1620.0]
-  name: LOVERS_PASS
+  name: LOVERS PASS
   tiles: [240]
   type: sea
-BAY_OF_RESPITE:
+BAY OF RESPITE:
   ID: 241
   area: 35545
   edges:
-    fleet: [AMADIAN_PASS, DEVINAIRE, FAR_PLENTY, ISLES_OF_PLENTY, LOVERS_PASS, OZGAR,
-      REAPERS_COAST, YARUHOL]
+    fleet: [AMADIAN PASS, DEVINAIRE, FAR PLENTY, ISLES OF PLENTY, LOVERS PASS, OZGAR,
+      REAPERS COAST, YARUHOL]
   locs:
     label:
     - [0, 0]
@@ -3993,15 +4011,15 @@ BAY_OF_RESPITE:
     - [1622.0, 1751.0]
     unit:
     - [1690.0, 1774.0]
-  name: BAY_OF_RESPITE
+  name: BAY OF RESPITE
   tiles: [241]
   type: sea
-SILVERTEN_PASS:
+SILVERTEN PASS:
   ID: 242
   area: 58366
   edges:
-    fleet: [CRATERDEEP, EADOHAS, JIBIRAEN, LEECHDENS, MARUKHAN, OCHCHUSCOST, OCHHUS_SEA,
-      OZGAR, VINE_CURRENT, WANDERERS_SEA]
+    fleet: [CRATERDEEP, EADOHAS, JIBIRAEN, LEECHDENS, MARUKHAN, OCHCHUSCOST, OCHHUS SEA,
+      OZGAR, VINE CURRENT, WANDERERS SEA]
   locs:
     label:
     - [0, 0]
@@ -4009,15 +4027,15 @@ SILVERTEN_PASS:
     - [1764.0, 2453.0]
     unit:
     - [1614.0, 2273.0]
-  name: SILVERTEN_PASS
+  name: SILVERTEN PASS
   tiles: [242]
   type: sea
-TORN_SEA:
+TORN SEA:
   ID: 245
   area: 61550
   edges:
-    fleet: [ARTIFICER_COAST, BRISTAILEAN, MALLAZABO, MATNI_SEA, MESTIKARDU, SHATTERED_ISLANDS,
-      THENON_CURRENT]
+    fleet: [ARTIFICER COAST, BRISTAILEAN, MALLAZABO, MATNI SEA, MESTIKARDU, SHATTERED ISLANDS,
+      THENON CURRENT]
   locs:
     label:
     - [0, 0]
@@ -4025,15 +4043,15 @@ TORN_SEA:
     - [1703.0, 1003.0]
     unit:
     - [1738.0, 1088.0]
-  name: TORN_SEA
+  name: TORN SEA
   tiles: [245]
   type: sea
-MARIDS_SEA:
+MARIDS SEA:
   ID: 246
   area: 58796
   edges:
-    fleet: [DAO_NAKO_COAST, GANIMEOR, GEMTREE, ISLANDERS_ROUTE, POINTSIGHT, SANT_BERNAL,
-      SEA_OF_WRECKAGES, SIGILAN, WANDERERS_ISLES]
+    fleet: [DAO NAKO COAST, GANIMEOR, GEMTREE, ISLANDERS ROUTE, POINTSIGHT, SANT BERNAL,
+      SEA OF WRECKAGES, SIGILAN, WANDERERS ISLES]
   locs:
     label:
     - [0, 0]
@@ -4041,15 +4059,15 @@ MARIDS_SEA:
     - [1793.0, 3891.0]
     unit:
     - [1740.0, 3815.0]
-  name: MARIDS_SEA
+  name: MARIDS SEA
   tiles: [246]
   type: sea
-LANUN_DEPTHS:
+LANUN DEPTHS:
   ID: 247
   area: 35406
   edges:
-    fleet: [CAYDHSADDE_SEA, COFFEE_COAST, FOG_ISLES, GOUFEINGONG, NALENI, PANHENAW,
-      WHITEWATER_SEA, YETMESIRA, ZEDAHRIKA]
+    fleet: [CAYDHSADDE SEA, COFFEE COAST, FOG ISLES, GOUFEINGONG, NALENI, PANHENAW,
+      WHITEWATER SEA, YETMESIRA, ZEDAHRIKA]
   locs:
     label:
     - [0, 0]
@@ -4057,15 +4075,15 @@ LANUN_DEPTHS:
     - [1782.0, 5802.0]
     unit:
     - [1805.0, 5915.0]
-  name: LANUN_DEPTHS
+  name: LANUN DEPTHS
   tiles: [247]
   type: sea
-THENON_CURRENT:
+THENON CURRENT:
   ID: 248
   area: 421645
   edges:
-    fleet: [AMADIA, CLEAVED_SEAS_DEPARTURE, MATNI_SEA, MESTIKARDU, IKAN,
-      OOL1, OOL2, OOL3, OOL4, SEA_OF_SILENCE, TORN_SEA, URARTOLA]
+    fleet: [AMADIA, CLEAVED SEAS DEPARTURE, MATNI SEA, MESTIKARDU, IKAN, OOL1, OOL2,
+      OOL3, OOL4, SEA OF SILENCE, TORN SEA, URARTOLA]
   locs:
     label:
     - [0, 0]
@@ -4073,14 +4091,15 @@ THENON_CURRENT:
     - [2048.0, 790.0]
     unit:
     - [2171.0, 954.0]
-  name: THENON_CURRENT
+  name: THENON CURRENT
   tiles: [248]
   type: sea
-EAST_RINGLET_SEA:
+EAST RINGLET SEA:
   ID: 249
   area: 235594
   edges:
-    fleet: [BINHRUNG_COAST, GINHYUT, GITINALAS, KIUBANG, NORTH_ARDMIYAN_SEA, OOL1, OOL2, OOL3, OOL4]
+    fleet: [BINHRUNG COAST, GINHYUT, GITINALAS, KIUBANG, NORTH ARDMIYAN SEA, OOL1,
+      OOL2, OOL3, OOL4]
   locs:
     label:
     - [0, 0]
@@ -4088,14 +4107,14 @@ EAST_RINGLET_SEA:
     - [1893.0, 6591.0]
     unit:
     - [1996.0, 6460.0]
-  name: EAST_RINGLET_SEA
+  name: EAST RINGLET SEA
   tiles: [249]
   type: sea
-KUNOLO_BAY:
+KUNOLO BAY:
   ID: 250
   area: 13557
   edges:
-    fleet: [AMEZA, KUNOLO, MAPONOSY-nc, PORT_NARAWEN, SAHANAFO, SAIKINOMAPASS, TIBOKYUYE_POINT,
+    fleet: [AMEZA, KUNOLO, MAPONOSY-nc, PORT NARAWEN, SAHANAFO, SAIKINOMAPASS, TIBOKYUYE POINT,
       ZUVAVIM]
   locs:
     label:
@@ -4104,14 +4123,14 @@ KUNOLO_BAY:
     - [1806.0, 4514.0]
     unit:
     - [1809.0, 4461.0]
-  name: KUNOLO_BAY
+  name: KUNOLO BAY
   tiles: [250]
   type: sea
-AMADIAN_PASS:
+AMADIAN PASS:
   ID: 251
   area: 58367
   edges:
-    fleet: [AMADIA, BAY_OF_RESPITE, LOVERS_PASS, MATNI_SEA, RICARDSPORT, SHATTERED_ISLANDS,
+    fleet: [AMADIA, BAY OF RESPITE, LOVERS PASS, MATNI SEA, RICARDSPORT, SHATTERED ISLANDS,
       TRISTANTON, URANCESTIR, YARUHOL]
   locs:
     label:
@@ -4120,15 +4139,15 @@ AMADIAN_PASS:
     - [1854.0, 1497.0]
     unit:
     - [1916.0, 1462.0]
-  name: AMADIAN_PASS
+  name: AMADIAN PASS
   tiles: [251]
   type: sea
-MATNI_SEA:
+MATNI SEA:
   ID: 252
   area: 51739
   edges:
-    fleet: [AMADIA, AMADIAN_PASS, BRISTAILEAN, CLEAVED_SEAS_DEPARTURE, SHATTERED_ISLANDS,
-      THENON_CURRENT, TORN_SEA]
+    fleet: [AMADIA, AMADIAN PASS, BRISTAILEAN, CLEAVED SEAS DEPARTURE, SHATTERED ISLANDS,
+      THENON CURRENT, TORN SEA]
   locs:
     label:
     - [0, 0]
@@ -4136,15 +4155,15 @@ MATNI_SEA:
     - [1957.0, 1253.0]
     unit:
     - [1881.0, 1257.0]
-  name: MATNI_SEA
+  name: MATNI SEA
   tiles: [252]
   type: sea
 LATRAN:
   ID: 253
   area: 7461
   edges:
-    fleet: [DAO_NAKO_COAST, MARIDS_DELTA, NINAK, REVERS, SARHALY_APPROACH, SELCOST,
-      TIBOKYUYE_POINT]
+    fleet: [DAO NAKO COAST, MARIDS DELTA, NINAK, REVERS, SARHALY APPROACH, SELCOST,
+      TIBOKYUYE POINT]
   locs:
     label:
     - [0, 0]
@@ -4155,11 +4174,11 @@ LATRAN:
   name: LATRAN
   tiles: [253]
   type: sea
-TIBOKYUYE_POINT:
+TIBOKYUYE POINT:
   ID: 254
   area: 9107
   edges:
-    fleet: [KUNOLO_BAY, LATRAN, MARIDS_DELTA, PORT_NARAWEN, SAHANAFO, SARHALY_APPROACH]
+    fleet: [KUNOLO BAY, LATRAN, MARIDS DELTA, PORT NARAWEN, SAHANAFO, SARHALY APPROACH]
   locs:
     label:
     - [0, 0]
@@ -4167,15 +4186,15 @@ TIBOKYUYE_POINT:
     - [1856.0, 4334.0]
     unit:
     - [1848.0, 4382.0]
-  name: TIBOKYUYE_POINT
+  name: TIBOKYUYE POINT
   tiles: [254]
   type: sea
-VINE_CURRENT:
+VINE CURRENT:
   ID: 255
   area: 82137
   edges:
-    fleet: [DALAINE, LAIS_APPREACH, LEECHDENS, OCHHUS_SEA, SEA_OF_WRECKAGES, SENAINE,
-      SILVERTEN_PASS, SORMAW, THAMUSAND]
+    fleet: [DALAINE, LAIS APPREACH, LEECHDENS, OCHHUS SEA, SEA OF WRECKAGES, SENAINE,
+      SILVERTEN PASS, SORMAW, THAMUSAND]
   locs:
     label:
     - [0, 0]
@@ -4183,14 +4202,14 @@ VINE_CURRENT:
     - [1886.0, 2662.0]
     unit:
     - [1919.0, 2793.0]
-  name: VINE_CURRENT
+  name: VINE CURRENT
   tiles: [255]
   type: sea
-COFFEE_COAST:
+COFFEE COAST:
   ID: 256
   area: 4760
   edges:
-    fleet: [CAYDHSADDE_SEA, FOG_ISLES, GOUFEINGONG, JOENGHOENGGONG, LANUN_DEPTHS]
+    fleet: [CAYDHSADDE SEA, FOG ISLES, GOUFEINGONG, JOENGHOENGGONG, LANUN DEPTHS]
   locs:
     label:
     - [0, 0]
@@ -4198,14 +4217,14 @@ COFFEE_COAST:
     - [1845.0, 5778.0]
     unit:
     - [1863.0, 5811.0]
-  name: COFFEE_COAST
+  name: COFFEE COAST
   tiles: [256]
   type: sea
-DAO_NAKO_COAST:
+DAO NAKO COAST:
   ID: 257
   area: 10106
   edges:
-    fleet: [CROVANSPIER, GEMTREE, ISLANDERS_ROUTE, LATRAN, MARIDS_SEA, SARHALY_APPROACH,
+    fleet: [CROVANSPIER, GEMTREE, ISLANDERS ROUTE, LATRAN, MARIDS SEA, SARHALY APPROACH,
       SELCOST, WHITTINGTON]
   locs:
     label:
@@ -4214,14 +4233,14 @@ DAO_NAKO_COAST:
     - [1882.0, 4043.0]
     unit:
     - [1881.0, 4159.0]
-  name: DAO_NAKO_COAST
+  name: DAO NAKO COAST
   tiles: [257]
   type: sea
 LEECHDENS:
   ID: 258
   area: 14532
   edges:
-    fleet: [MARUKHAN, SELPARURA, SILVERTEN_PASS, SORFEN, SORMAW, VINE_CURRENT]
+    fleet: [MARUKHAN, SELPARURA, SILVERTEN PASS, SORFEN, SORMAW, VINE CURRENT]
   locs:
     label:
     - [0, 0]
@@ -4236,7 +4255,7 @@ SAIKINOMAPASS:
   ID: 259
   area: 7452
   edges:
-    fleet: [IBIDINTELY-nc, KUNOLO_BAY, MAPONOSY-nc, SEA_OF_LEL, ZENA, ZUVAVIM]
+    fleet: [IBIDINTELY-nc, KUNOLO BAY, MAPONOSY-nc, SEA OF LEL, ZENA, ZUVAVIM]
   locs:
     label:
     - [0, 0]
@@ -4247,12 +4266,12 @@ SAIKINOMAPASS:
   name: SAIKINOMAPASS
   tiles: [259]
   type: sea
-CAYDHSADDE_SEA:
+CAYDHSADDE SEA:
   ID: 260
   area: 31623
   edges:
-    fleet: [COFFEE_COAST, CRESCENT_LINE, FOG_ISLES, JOENGHOENGGONG, LANUN_DEPTHS,
-      PANHENAW, SHORES_OF_OLD_DJINNAKAH, THUNDER_WIELDING_BUFFALO]
+    fleet: [COFFEE COAST, CRESCENT LINE, FOG ISLES, JOENGHOENGGONG, LANUN DEPTHS,
+      PANHENAW, SHORES OF OLD DJINNAKAH, THUNDER WIELDING BUFFALO]
   locs:
     label:
     - [0, 0]
@@ -4260,15 +4279,15 @@ CAYDHSADDE_SEA:
     - [1975.0, 5891.0]
     unit:
     - [1971.0, 5808.0]
-  name: CAYDHSADDE_SEA
+  name: CAYDHSADDE SEA
   tiles: [260]
   type: sea
-ISLANDERS_ROUTE:
+ISLANDERS ROUTE:
   ID: 261
   area: 208448
   edges:
-    fleet: [DAO_NAKO_COAST, MARIDS_SEA, SARHALY_APPROACH, SEA_OF_STEAM, SEA_OF_WRECKAGES,
-      SIL_BERKHEN_LAND, WEST_TURTLEBACK]
+    fleet: [DAO NAKO COAST, MARIDS SEA, SARHALY APPROACH, SEA OF STEAM, SEA OF WRECKAGES,
+      SIL BERKHEN LAND, WEST TURTLEBACK]
   locs:
     label:
     - [0, 0]
@@ -4276,15 +4295,15 @@ ISLANDERS_ROUTE:
     - [2139.0, 3714.0]
     unit:
     - [2076.0, 3865.0]
-  name: ISLANDERS_ROUTE
+  name: ISLANDERS ROUTE
   tiles: [261]
   type: sea
-SARHALY_APPROACH:
+SARHALY APPROACH:
   ID: 262
   area: 125414
   edges:
-    fleet: [DAO_NAKO_COAST, IBIDINTELY-sc, ISLANDERS_ROUTE, LATRAN, MAPONOSY-sc, SAHANAFO,
-      SIL_BERKHEN_LAND, TIBOKYUYE_POINT, VOYAGERS_PATH, WET_DOG_SEA]
+    fleet: [DAO NAKO COAST, IBIDINTELY-sc, ISLANDERS ROUTE, LATRAN, MAPONOSY-sc, SAHANAFO,
+      SIL BERKHEN LAND, TIBOKYUYE POINT, VOYAGERS PATH, WET DOG SEA]
   locs:
     label:
     - [0, 0]
@@ -4292,14 +4311,14 @@ SARHALY_APPROACH:
     - [2055.0, 4367.0]
     unit:
     - [2067.0, 4247.0]
-  name: SARHALY_APPROACH
+  name: SARHALY APPROACH
   tiles: [262]
   type: sea
-SEA_OF_LEL:
+SEA OF LEL:
   ID: 263
   area: 17870
   edges:
-    fleet: [AMIRI, ANAQNILTRA, IBIDINTELY-nc, KARSHYR, KATESH_WATERS, SAIKINOMAPASS,
+    fleet: [AMIRI, ANAQNILTRA, IBIDINTELY-nc, KARSHYR, KATESH WATERS, SAIKINOMAPASS,
       ZENA]
   locs:
     label:
@@ -4308,15 +4327,15 @@ SEA_OF_LEL:
     - [1980.0, 4713.0]
     unit:
     - [1966.0, 4660.0]
-  name: SEA_OF_LEL
+  name: SEA OF LEL
   tiles: [263]
   type: sea
-KEDWALI_GULF:
+KEDWALI GULF:
   ID: 264
   area: 51591
   edges:
-    fleet: [BIYOAQOON_SEA, KASHYZIR, MAGAALAD_QASR, MAROODIYA, QASRI_UBAKHIYO, SHORES_OF_OLD_DJINNAKAH,
-      THUNDER_WIELDING_BUFFALO]
+    fleet: [BIYOAQOON SEA, KASHYZIR, MAGAALAD QASR, MAROODIYA, QASRI UBAKHIYO, SHORES OF OLD DJINNAKAH,
+      THUNDER WIELDING BUFFALO]
   locs:
     label:
     - [0, 0]
@@ -4324,14 +4343,14 @@ KEDWALI_GULF:
     - [2166.0, 5510.0]
     unit:
     - [2094.0, 5542.0]
-  name: KEDWALI_GULF
+  name: KEDWALI GULF
   tiles: [264]
   type: sea
-KATESH_WATERS:
+KATESH WATERS:
   ID: 265
   area: 51378
   edges:
-    fleet: [ANAQNILTRA, KARSHYR, KATARITSAYA, LESSER_LAMENT, NAZHNI, SEA_OF_LEL, TERAMZADAI]
+    fleet: [ANAQNILTRA, KARSHYR, KATARITSAYA, LESSER LAMENT, NAZHNI, SEA OF LEL, TERAMZADAI]
   locs:
     label:
     - [0, 0]
@@ -4339,14 +4358,14 @@ KATESH_WATERS:
     - [2102.0, 5037.0]
     unit:
     - [2109.0, 4929.0]
-  name: KATESH_WATERS
+  name: KATESH WATERS
   tiles: [265]
   type: sea
-WET_DOG_SEA:
+WET DOG SEA:
   ID: 266
   area: 29210
   edges:
-    fleet: [ANAQNILTRA, IBIDINTELY-sc, SARHALY_APPROACH, TERAMZADAI, VOYAGERS_PATH]
+    fleet: [ANAQNILTRA, IBIDINTELY-sc, SARHALY APPROACH, TERAMZADAI, VOYAGERS PATH]
   locs:
     label:
     - [0, 0]
@@ -4354,15 +4373,15 @@ WET_DOG_SEA:
     - [2161.0, 4483.0]
     unit:
     - [2124.0, 4536.0]
-  name: WET_DOG_SEA
+  name: WET DOG SEA
   tiles: [266]
   type: sea
-SHORES_OF_OLD_DJINNAKAH:
+SHORES OF OLD DJINNAKAH:
   ID: 267
   area: 66193
   edges:
-    fleet: [ARDIM_OARAST, BIYOAQOON_SEA, CAYDHSADDE_SEA, CRESCENT_LINE, EAWUBA_KAYBA,
-      ELSINECESTIR, HORTOSARE, KEDWALI_GULF, NORTH_ARDMIYAN_SEA, THUNDER_WIELDING_BUFFALO,
+    fleet: [ARDIM OARAST, BIYOAQOON SEA, CAYDHSADDE SEA, CRESCENT LINE, EAWUBA KAYBA,
+      ELSINECESTIR, HORTOSARE, KEDWALI GULF, NORTH ARDMIYAN SEA, THUNDER WIELDING BUFFALO,
       VUMBKAUVA]
   locs:
     label:
@@ -4371,14 +4390,14 @@ SHORES_OF_OLD_DJINNAKAH:
     - [2170.0, 5724.0]
     unit:
     - [2087.0, 5730.0]
-  name: SHORES_OF_OLD_DJINNAKAH
+  name: SHORES OF OLD DJINNAKAH
   tiles: [267]
   type: sea
-LAIS_APPREACH:
+LAIS APPREACH:
   ID: 268
   area: 5951
   edges:
-    fleet: [DALAINE, DRAKESGUARD, THAMUSAND, VINE_CURRENT]
+    fleet: [DALAINE, DRAKESGUARD, THAMUSAND, VINE CURRENT]
   locs:
     label:
     - [0, 0]
@@ -4386,15 +4405,14 @@ LAIS_APPREACH:
     - [2052.0, 2783.0]
     unit:
     - [2046.0, 2822.0]
-  name: LAIS_APPREACH
+  name: LAIS APPREACH
   tiles: [268]
   type: sea
-CLEAVED_SEAS_DEPARTURE:
+CLEAVED SEAS DEPARTURE:
   ID: 269
   area: 147974
   edges:
-    fleet: [AMADIA, ANISIGO, KAYDHANO_GULF, MATNI_SEA, IKAN, OKTIKHEION,
-      THENON_CURRENT]
+    fleet: [AMADIA, ANISIGO, KAYDHANO GULF, MATNI SEA, IKAN, OKTIKHEION, THENON CURRENT]
   locs:
     label:
     - [0, 0]
@@ -4402,15 +4420,15 @@ CLEAVED_SEAS_DEPARTURE:
     - [2303.0, 1450.0]
     unit:
     - [2312.0, 1315.0]
-  name: CLEAVED_SEAS_DEPARTURE
+  name: CLEAVED SEAS DEPARTURE
   tiles: [269]
   type: sea
-LESSER_LAMENT:
+LESSER LAMENT:
   ID: 270
   area: 90675
   edges:
-    fleet: [ASHAMADIAT, KATESH_WATERS, MAGAALAD_QASR, MAROODIYA, NAZHNI, TERAMZADAI,
-      WORSTYEAR_SEA]
+    fleet: [ASHAMADIAT, KATESH WATERS, MAGAALAD QASR, MAROODIYA, NAZHNI, TERAMZADAI,
+      WORSTYEAR SEA]
   locs:
     label:
     - [0, 0]
@@ -4418,15 +4436,15 @@ LESSER_LAMENT:
     - [2242.0, 5204.0]
     unit:
     - [2230.0, 5120.0]
-  name: LESSER_LAMENT
+  name: LESSER LAMENT
   tiles: [270]
   type: sea
-SINGERS_COAST:
+SINGERS COAST:
   ID: 271
   area: 70861
   edges:
-    fleet: [CURMARKET, DRAKESGUARD, KIOHALEN, SEA_OF_WRECKAGES, TAILSIGHT, THAMUSAND,
-      WEST_TURTLEBACK]
+    fleet: [CURMARKET, DRAKESGUARD, KIOHALEN, SEA OF WRECKAGES, TAILSIGHT, THAMUSAND,
+      WEST TURTLEBACK]
   locs:
     label:
     - [0, 0]
@@ -4434,15 +4452,15 @@ SINGERS_COAST:
     - [2193.0, 3174.0]
     unit:
     - [2208.0, 3072.0]
-  name: SINGERS_COAST
+  name: SINGERS COAST
   tiles: [271]
   type: sea
-NORTH_ARDMIYAN_SEA:
+NORTH ARDMIYAN SEA:
   ID: 272
   area: 83295
   edges:
-    fleet: [CRESCENT_LINE, EAST_RINGLET_SEA, ELSINECESTIR, GITINALAS, KAUVABIYO_COAST,
-      OOL1, OOL2, OOL3, OOL4, SHORES_OF_OLD_DJINNAKAH]
+    fleet: [CRESCENT LINE, EAST RINGLET SEA, ELSINECESTIR, GITINALAS, KAUVABIYO COAST,
+      OOL1, OOL2, OOL3, OOL4, SHORES OF OLD DJINNAKAH]
   locs:
     label:
     - [0, 0]
@@ -4450,14 +4468,14 @@ NORTH_ARDMIYAN_SEA:
     - [2166.0, 6194.0]
     unit:
     - [2263.0, 6232.0]
-  name: NORTH_ARDMIYAN_SEA
+  name: NORTH ARDMIYAN SEA
   tiles: [272]
   type: sea
-BIYOAQOON_SEA:
+BIYOAQOON SEA:
   ID: 273
   area: 20374
   edges:
-    fleet: [ARDIM_OARAST, KEDWALI_GULF, MAGAALAD_QASR, SHORES_OF_OLD_DJINNAKAH]
+    fleet: [ARDIM OARAST, KEDWALI GULF, MAGAALAD QASR, SHORES OF OLD DJINNAKAH]
   locs:
     label:
     - [0, 0]
@@ -4465,15 +4483,15 @@ BIYOAQOON_SEA:
     - [2332.0, 5565.0]
     unit:
     - [2286.0, 5587.0]
-  name: BIYOAQOON_SEA
+  name: BIYOAQOON SEA
   tiles: [273]
   type: sea
-VOYAGERS_PATH:
+VOYAGERS PATH:
   ID: 274
   area: 206615
   edges:
-    fleet: [SARHALY_APPROACH, SEA_OF_STEAM, SIL_BERKHEN_LAND, TERAMZADAI, THAWS_END,
-      WET_DOG_SEA, WORSTYEAR_SEA]
+    fleet: [SARHALY APPROACH, SEA OF STEAM, SIL BERKHEN LAND, TERAMZADAI, THAWS END,
+      WET DOG SEA, WORSTYEAR SEA]
   locs:
     label:
     - [0, 0]
@@ -4481,14 +4499,14 @@ VOYAGERS_PATH:
     - [2447.0, 4636.0]
     unit:
     - [2387.0, 4505.0]
-  name: VOYAGERS_PATH
+  name: VOYAGERS PATH
   tiles: [274]
   type: sea
-KAYDHANO_GULF:
+KAYDHANO GULF:
   ID: 275
   area: 35722
   edges:
-    fleet: [AMADIA, ANISIGO, CLEAVED_SEAS_DEPARTURE, CYMBEAHN]
+    fleet: [AMADIA, ANISIGO, CLEAVED SEAS DEPARTURE, CYMBEAHN]
   locs:
     label:
     - [0, 0]
@@ -4496,14 +4514,14 @@ KAYDHANO_GULF:
     - [2406.0, 1696.0]
     unit:
     - [2401.0, 1624.0]
-  name: KAYDHANO_GULF
+  name: KAYDHANO GULF
   tiles: [275]
   type: sea
-EAWUBA_KAYBA:
+EAWUBA KAYBA:
   ID: 276
   area: 4822
   edges:
-    fleet: [ARMANHAL, ELSINECESTIR, KAUVABIYO_COAST, SHORES_OF_OLD_DJINNAKAH, TAGTO,
+    fleet: [ARMANHAL, ELSINECESTIR, KAUVABIYO COAST, SHORES OF OLD DJINNAKAH, TAGTO,
       VUMBKAUVA]
   locs:
     label:
@@ -4512,15 +4530,15 @@ EAWUBA_KAYBA:
     - [2280.0, 5948.0]
     unit:
     - [2341.0, 5927.0]
-  name: EAWUBA_KAYBA
+  name: EAWUBA KAYBA
   tiles: [276]
   type: sea
-SEA_OF_STEAM:
+SEA OF STEAM:
   ID: 277
   area: 278292
   edges:
-    fleet: [ISLANDERS_ROUTE, RADIANT_STRAITS, SIL_BERKHEN_LAND, TAILSIGHT, THAWS_END,
-      VOYAGERS_PATH, WEST_TURTLEBACK]
+    fleet: [ISLANDERS ROUTE, RADIANT STRAITS, SIL BERKHEN LAND, TAILSIGHT, THAWS END,
+      VOYAGERS PATH, WEST TURTLEBACK]
   locs:
     label:
     - [0, 0]
@@ -4528,14 +4546,14 @@ SEA_OF_STEAM:
     - [2470.0, 3854.0]
     unit:
     - [2478.0, 3665.0]
-  name: SEA_OF_STEAM
+  name: SEA OF STEAM
   tiles: [277]
   type: sea
 TAILSIGHT:
   ID: 278
   area: 71078
   edges:
-    fleet: [CURMARKET, KIOHALEN, RADIANT_STRAITS, SEA_OF_STEAM, SINGERS_COAST, WEST_TURTLEBACK]
+    fleet: [CURMARKET, KIOHALEN, RADIANT STRAITS, SEA OF STEAM, SINGERS COAST, WEST TURTLEBACK]
   locs:
     label:
     - [0, 0]
@@ -4546,12 +4564,12 @@ TAILSIGHT:
   name: TAILSIGHT
   tiles: [278]
   type: sea
-WORSTYEAR_SEA:
+WORSTYEAR SEA:
   ID: 279
   area: 202217
   edges:
-    fleet: [ARDMIYAN_REPUBLIC, LESSER_LAMENT, MAGAALAD_QASR, TERAMZADAI, THAWS_END,
-      VOYAGERS_PATH]
+    fleet: [ARDMIYAN REPUBLIC, LESSER LAMENT, MAGAALAD QASR, TERAMZADAI, THAWS END,
+      VOYAGERS PATH]
   locs:
     label:
     - [0, 0]
@@ -4559,14 +4577,14 @@ WORSTYEAR_SEA:
     - [2524.0, 5333.0]
     unit:
     - [2513.0, 4999.0]
-  name: WORSTYEAR_SEA
+  name: WORSTYEAR SEA
   tiles: [279]
   type: sea
-KAUVABIYO_COAST:
+KAUVABIYO COAST:
   ID: 280
   area: 39242
   edges:
-    fleet: [ARDMIYAN_REPUBLIC, ARMANHAL, EAWUBA_KAYBA, ELSINECESTIR, NORTH_ARDMIYAN_SEA,
+    fleet: [ARDMIYAN REPUBLIC, ARMANHAL, EAWUBA KAYBA, ELSINECESTIR, NORTH ARDMIYAN SEA,
       OOL1, OOL2, OOL3, OOL4]
   locs:
     label:
@@ -4575,14 +4593,14 @@ KAUVABIYO_COAST:
     - [2428.0, 6012.0]
     unit:
     - [2441.0, 6090.0]
-  name: KAUVABIYO_COAST
+  name: KAUVABIYO COAST
   tiles: [280]
   type: sea
-SURAELS_RESPITE:
+SURAELS RESPITE:
   ID: 281
   area: 61811
   edges:
-    fleet: [COAST_OF_TIMBER, DARMAZ, EASTERN_TAYCHEND, KILA_TORAM, KIOHALEN, RADIANT_STRAITS,
+    fleet: [COAST OF TIMBER, DARMAZ, EASTERN TAYCHEND, KILA TORAM, KIOHALEN, RADIANT STRAITS,
       REZANKAZ, VRENDIN]
   locs:
     label:
@@ -4591,15 +4609,15 @@ SURAELS_RESPITE:
     - [2503.0, 2557.0]
     unit:
     - [2480.0, 2766.0]
-  name: SURAELS_RESPITE
+  name: SURAELS RESPITE
   tiles: [281]
   type: sea
-RADIANT_STRAITS:
+RADIANT STRAITS:
   ID: 282
   area: 40111
   edges:
-    fleet: [COAST_OF_TIMBER, GREENCREST, KIINDTIR, KIOHALEN, SEA_OF_STEAM, SUNSHADE_BAY,
-      SURAELS_RESPITE, TAILSIGHT, THAWS_END]
+    fleet: [COAST OF TIMBER, GREENCREST, KIINDTIR, KIOHALEN, SEA OF STEAM, SUNSHADE BAY,
+      SURAELS RESPITE, TAILSIGHT, THAWS END]
   locs:
     label:
     - [0, 0]
@@ -4607,15 +4625,15 @@ RADIANT_STRAITS:
     - [2596.0, 3127.0]
     unit:
     - [2612.0, 3190.0]
-  name: RADIANT_STRAITS
+  name: RADIANT STRAITS
   tiles: [282]
   type: sea
-THAWS_END:
+THAWS END:
   ID: 283
   area: 745641
   edges:
-    fleet: [ARDMIYAN_REPUBLIC, KIINDTIR, OOL1, OOL2, OOL3, OOL4, RADIANT_STRAITS, SEA_OF_STEAM,
-      SUNSHADE_BAY, VOYAGERS_PATH, WORSTYEAR_SEA]
+    fleet: [ARDMIYAN REPUBLIC, KIINDTIR, OOL1, OOL2, OOL3, OOL4, RADIANT STRAITS,
+      SEA OF STEAM, SUNSHADE BAY, VOYAGERS PATH, WORSTYEAR SEA]
   locs:
     label:
     - [0, 0]
@@ -4623,14 +4641,14 @@ THAWS_END:
     - [2889.0, 4535.0]
     unit:
     - [2693.0, 4249.0]
-  name: THAWS_END
+  name: THAWS END
   tiles: [283]
   type: sea
-COAST_OF_TIMBER:
+COAST OF TIMBER:
   ID: 284
   area: 18443
   edges:
-    fleet: [GREENCREST, KILA_TORAM, RADIANT_STRAITS, SURAELS_RESPITE, TIMBERNECK,
+    fleet: [GREENCREST, KILA TORAM, RADIANT STRAITS, SURAELS RESPITE, TIMBERNECK,
       VRENDIN]
   locs:
     label:
@@ -4639,15 +4657,15 @@ COAST_OF_TIMBER:
     - [2654.0, 2766.0]
     unit:
     - [2606.0, 2792.0]
-  name: COAST_OF_TIMBER
+  name: COAST OF TIMBER
   tiles: [284]
   type: sea
-KILA_TORAM:
+KILA TORAM:
   ID: 285
   area: 47221
   edges:
-    fleet: [AKR, COAST_OF_TIMBER, DEGITHION, EASTERN_TAYCHEND, OK, SURAELS_RESPITE,
-      THEKVRYS_EDGE, TIMBERNECK, VRENDIN, YUSSAM_SEA]
+    fleet: [AKR, COAST OF TIMBER, DEGITHION, EASTERN TAYCHEND, OK, SURAELS RESPITE,
+      THEKVRYS EDGE, TIMBERNECK, VRENDIN, VUSSAM SEA]
   locs:
     label:
     - [0, 0]
@@ -4655,15 +4673,15 @@ KILA_TORAM:
     - [2672.0, 2460.0]
     unit:
     - [2640.0, 2557.0]
-  name: KILA_TORAM
+  name: KILA TORAM
   tiles: [285]
   type: sea
-YUSSAM_SEA:
+VUSSAM SEA:
   ID: 286
   area: 45885
   edges:
-    fleet: [AKR, AMEION, IPPAROGA, KILA_TORAM, KLERECHEND, PARAIDAR, SOTEREION, THEKVRYS_EDGE,
-      THE_PASSAGE]
+    fleet: [AKR, AMEION, IPPAROGA, KILA TORAM, KLERECHEND, PARAIDAR, SOTEREION, THEKVRYS EDGE,
+      THE PASSAGE]
   locs:
     label:
     - [0, 0]
@@ -4671,14 +4689,14 @@ YUSSAM_SEA:
     - [2688.0, 2099.0]
     unit:
     - [2707.0, 2230.0]
-  name: YUSSAM_SEA
+  name: VUSSAM SEA
   tiles: [286]
   type: sea
-SUNSHADE_BAY:
+SUNSHADE BAY:
   ID: 287
   area: 84110
   edges:
-    fleet: [GREENCREST, KIINDTIR, RADIANT_STRAITS, THAWS_END, THEKVRYS_EDGE, TIMBERNECK]
+    fleet: [GREENCREST, KIINDTIR, RADIANT STRAITS, THAWS END, THEKVRYS EDGE, TIMBERNECK]
   locs:
     label:
     - [0, 0]
@@ -4686,14 +4704,14 @@ SUNSHADE_BAY:
     - [2888.0, 3101.0]
     unit:
     - [2777.0, 2970.0]
-  name: SUNSHADE_BAY
+  name: SUNSHADE BAY
   tiles: [287]
   type: sea
-THEKVRYS_EDGE:
+THEKVRYS EDGE:
   ID: 288
   area: 66704
   edges:
-    fleet: [KILA_TORAM, PARAIDAR, SUNSHADE_BAY, THE_PASSAGE, TIMBERNECK, YUSSAM_SEA]
+    fleet: [KILA TORAM, PARAIDAR, SUNSHADE BAY, THE PASSAGE, TIMBERNECK, VUSSAM SEA]
   locs:
     label:
     - [0, 0]
@@ -4701,14 +4719,15 @@ THEKVRYS_EDGE:
     - [2888.0, 2505.0]
     unit:
     - [2802.0, 2641.0]
-  name: THEKVRYS_EDGE
+  name: THEKVRYS EDGE
   tiles: [288]
   type: sea
-CANTISH_SEA:
+CANTISH SEA:
   ID: 289
   area: 56945
   edges:
-    fleet: [ANISKHEION, DEGAKHEION, DEYEION, ENEION, OOL1, OOL2, OOL3, OOL4, URARTOLA, THE_PASSAGE]
+    fleet: [ANISKHEION, DEGAKHEION, DEYEION, ENEION, OOL1, OOL2, OOL3, OOL4, URARTOLA,
+      THE PASSAGE]
   locs:
     label:
     - [0, 0]
@@ -4716,14 +4735,14 @@ CANTISH_SEA:
     - [2888.0, 1357.0]
     unit:
     - [2813.0, 1272.0]
-  name: CANTISH_SEA
+  name: CANTISH SEA
   tiles: [289]
   type: sea
-THE_PASSAGE:
+THE PASSAGE:
   ID: 290
   area: 57018
   edges:
-    fleet: [AMEION, DEYEION, PARAIDAR, THEKVRYS_EDGE, YUSSAM_SEA, CANTISH_SEA]
+    fleet: [AMEION, DEYEION, PARAIDAR, THEKVRYS EDGE, VUSSAM SEA, CANTISH SEA]
   locs:
     label:
     - [0, 0]
@@ -4731,7 +4750,7 @@ THE_PASSAGE:
     - [2888.0, 2124.0]
     unit:
     - [2813.0, 2008.0]
-  name: THE_PASSAGE
+  name: THE PASSAGE
   tiles: [290]
   type: sea
 LIONCOST:
@@ -4739,7 +4758,7 @@ LIONCOST:
   area: 4461
   edges:
     army: [EBORTHIL, HAPAINE, MAGDALAIRE, VERNE]
-    fleet: [DOG_COAST, EBORTHIL, GEMISLE_SEA, HAPAINE, VERNE]
+    fleet: [DOG COAST, EBORTHIL, GEMISLE SEA, HAPAINE, VERNE]
   locs:
     label:
     - [0, 0]
@@ -4755,7 +4774,7 @@ HAPAINE:
   area: 4128
   edges:
     army: [DOVESWALL, LIONCOST, MAGDALAIRE]
-    fleet: [DOVESWALL, GEMISLE_SEA, LIONCOST]
+    fleet: [DOVESWALL, GEMISLE SEA, LIONCOST]
   locs:
     label:
     - [0, 0]
@@ -4774,7 +4793,7 @@ EBORTHIL:
   area: 2036
   edges:
     army: [LIONCOST]
-    fleet: [DOG_COAST, GEMISLE_SEA, LIONCOST, TEFKORA_PASS]
+    fleet: [DOG COAST, GEMISLE SEA, LIONCOST, TEFKORA PASS]
   locs:
     label:
     - [0, 0]
@@ -4793,7 +4812,7 @@ EKHA:
   area: 4025
   edges:
     army: [KHASA, YAIKOBIX]
-    fleet: [CORSAIR_REACHES, DIVENGATE, DOG_COAST, EDILLIONS_RELIEF, KHASA, YAIKOBIX]
+    fleet: [EKHANI TIP, DIVENGATE, DOG COAST, EDILLIONS RELIEF, KHASA, YAIKOBIX]
   locs:
     label:
     - [0, 0]
@@ -4812,7 +4831,7 @@ DESHAK:
   area: 1909
   edges:
     army: [KHASA, VOGKEYSA]
-    fleet: [DOG_COAST, KHASA, TEFKORA_PASS, VOGKEYSA]
+    fleet: [DOG COAST, KHASA, TEFKORA PASS, VOGKEYSA]
   locs:
     label:
     - [0, 0]
@@ -4826,12 +4845,12 @@ DESHAK:
   sc: 1
   tiles: [295]
   type: coast
-KUDET_KAI:
+KUDET KAI:
   ID: 296
   area: 4077
   edges:
-    army: [UPPER_KEOADEN, VERKAL_OZOVAR, ZYUGONG]
-    fleet: [PHOKAO_PASS, UPPER_KEOADEN, ZYUGONG]
+    army: [UPPER KEOADEN, VERKAL OZOVAR, ZYUGONG]
+    fleet: [PHOKAO PASS, UPPER KEOADEN, ZYUGONG]
   locs:
     label:
     - [0, 0]
@@ -4839,15 +4858,15 @@ KUDET_KAI:
     - [1304.0, 6190.0]
     unit:
     - [1316.0, 6222.0]
-  name: KUDET_KAI
+  name: KUDET KAI
   tiles: [296]
   type: coast
-UPPER_KEOADEN:
+UPPER KEOADEN:
   ID: 297
   area: 7207
   edges:
-    army: [KUDET_KAI, NON_CHIEN, SIRTAN, VERKAL_OZOVAR]
-    fleet: [BINHRUNG_COAST, KUDET_KAI, NON_CHIEN, PHOKAO_PASS]
+    army: [KUDET KAI, NON CHIEN, SIRTAN, VERKAL OZOVAR]
+    fleet: [BINHRUNG COAST, KUDET KAI, NON CHIEN, PHOKAO PASS]
   locs:
     label:
     - [0, 0]
@@ -4857,16 +4876,16 @@ UPPER_KEOADEN:
     - [1347.0, 6169.0]
     sc:
     - [1403.0, 6215.0]
-  name: UPPER_KEOADEN
+  name: UPPER KEOADEN
   sc: 1
   tiles: [297]
   type: coast
-NON_CHIEN:
+NON CHIEN:
   ID: 298
   area: 5253
   edges:
-    army: [ARAWKELIN, JAYA_RAYA, KIUBANG, SIRTAN, UPPER_KEOADEN]
-    fleet: [ARAWKELIN, BINHRUNG_COAST, KIUBANG, UPPER_KEOADEN]
+    army: [ARAWKELIN, JAYA RAYA, KIUBANG, SIRTAN, UPPER KEOADEN]
+    fleet: [ARAWKELIN, BINHRUNG COAST, KIUBANG, UPPER KEOADEN]
   locs:
     label:
     - [0, 0]
@@ -4874,15 +4893,15 @@ NON_CHIEN:
     - [1583.0, 6172.0]
     unit:
     - [1441.0, 6189.0]
-  name: NON_CHIEN
+  name: NON CHIEN
   tiles: [298]
   type: coast
-DAGGER_POINT:
+DAGGER POINT:
   ID: 299
   area: 6795
   edges:
-    army: [GADODCODD]
-    fleet: [ARTIFICER_COAST, GADODCODD, GULF_OF_HARAF, SHATTERED_ISLANDS]
+    army: [GADODCODD, SHATTERED ISLANDS]
+    fleet: [ARTIFICER COAST, GADODCODD, GULF OF HARAF, SHATTERED ISLANDS]
   locs:
     label:
     - [0, 0]
@@ -4892,7 +4911,7 @@ DAGGER_POINT:
     - [1480.0, 1223.0]
     sc:
     - [1501.0, 1228.0]
-  name: DAGGER_POINT
+  name: DAGGER POINT
   sc: 1
   tiles: [299]
   type: coast
@@ -4901,7 +4920,7 @@ HEBA:
   area: 606
   edges:
     army: [BAIHON]
-    fleet: [BAIHON-sc, BAIHON-nc, KHOM_SEA]
+    fleet: [BAIHON-sc, BAIHON-nc, KHOM SEA]
   locs:
     label:
     - [0, 0]
@@ -4919,8 +4938,8 @@ SIGILAN:
   ID: 301
   area: 11741
   edges:
-    army: [JANAMA, JORRIKARR, SANT_BERNAL, YZHEDVREN]
-    fleet: [MARIDS_SEA, POINTSIGHT, SANDSPITE_GULF, SANT_BERNAL, YZHEDVREN]
+    army: [JANAMA, JORRIKARR, SANT BERNAL, YZHEDVREN]
+    fleet: [MARIDS SEA, POINTSIGHT, SANDSPITE GULF, SANT BERNAL, YZHEDVREN]
   locs:
     label:
     - [0, 0]
@@ -4938,7 +4957,8 @@ CROOKED:
   ID: 302
   area: 3359
   edges:
-    fleet: [GULF_OF_HARAF, LOVERS_PASS, SHATTERED_ISLANDS]
+    army: [SHATTERED ISLANDS]
+    fleet: [GULF OF HARAF, LOVERS PASS, SHATTERED ISLANDS]
   locs:
     label:
     - [0, 0]
@@ -4953,7 +4973,7 @@ JANAMA:
   ID: 303
   area: 8449
   edges:
-    army: [GANIMEOR, JORRIKARR, KAINO_FEDERATION, SANT_BERNAL, SIGILAN, TAMASADA]
+    army: [GANIMEOR, JORRIKARR, KAINO FEDERATION, SANT BERNAL, SIGILAN, TAMASADA]
   locs:
     label:
     - [0, 0]
@@ -4964,12 +4984,12 @@ JANAMA:
   name: JANAMA
   tiles: [303]
   type: land
-SANT_BERNAL:
+SANT BERNAL:
   ID: 304
   area: 6993
   edges:
     army: [GANIMEOR, JANAMA, SIGILAN]
-    fleet: [GANIMEOR, MARIDS_SEA, SIGILAN]
+    fleet: [GANIMEOR, MARIDS SEA, SIGILAN]
   locs:
     label:
     - [0, 0]
@@ -4977,15 +4997,15 @@ SANT_BERNAL:
     - [1727.0, 3976.0]
     unit:
     - [1696.0, 3999.0]
-  name: SANT_BERNAL
+  name: SANT BERNAL
   tiles: [304]
   type: coast
 GANIMEOR:
   ID: 305
   area: 5387
   edges:
-    army: [GEMTREE, JANAMA, SANT_BERNAL, TAMASADA]
-    fleet: [GEMTREE, MARIDS_SEA, SANT_BERNAL]
+    army: [GEMTREE, JANAMA, SANT BERNAL, TAMASADA]
+    fleet: [GEMTREE, MARIDS SEA, SANT BERNAL]
   locs:
     label:
     - [0, 0]
@@ -5004,7 +5024,7 @@ GEMTREE:
   area: 2614
   edges:
     army: [CROVANSPIER, GANIMEOR, NAKOWICH, TAMASADA]
-    fleet: [CROVANSPIER, DAO_NAKO_COAST, GANIMEOR, MARIDS_SEA]
+    fleet: [CROVANSPIER, DAO NAKO COAST, GANIMEOR, MARIDS SEA]
   locs:
     label:
     - [0, 0]
@@ -5020,7 +5040,7 @@ SAHANAFO:
   area: 3439
   edges:
     army: [MAPONOSY]
-    fleet: [KUNOLO_BAY, MAPONOSY-sc, MAPONOSY-nc, SARHALY_APPROACH, TIBOKYUYE_POINT]
+    fleet: [KUNOLO BAY, MAPONOSY-sc, MAPONOSY-nc, SARHALY APPROACH, TIBOKYUYE POINT]
   locs:
     label:
     - [0, 0]
@@ -5038,8 +5058,8 @@ CURMARKET:
   ID: 308
   area: 11279
   edges:
-    army: [WEST_TURTLEBACK]
-    fleet: [SINGERS_COAST, TAILSIGHT, WEST_TURTLEBACK]
+    army: [WEST TURTLEBACK]
+    fleet: [SINGERS COAST, TAILSIGHT, WEST TURTLEBACK]
   locs:
     label:
     - [0, 0]
@@ -5053,12 +5073,12 @@ CURMARKET:
   sc: 1
   tiles: [308]
   type: coast
-WEST_TURTLEBACK:
+WEST TURTLEBACK:
   ID: 309
   area: 13487
   edges:
     army: [CURMARKET]
-    fleet: [CURMARKET, ISLANDERS_ROUTE, SEA_OF_STEAM, SEA_OF_WRECKAGES, SINGERS_COAST,
+    fleet: [CURMARKET, ISLANDERS ROUTE, SEA OF STEAM, SEA OF WRECKAGES, SINGERS COAST,
       TAILSIGHT]
   locs:
     label:
@@ -5069,7 +5089,7 @@ WEST_TURTLEBACK:
     - [2251.0, 3413.0]
     sc:
     - [2317.0, 3488.0]
-  name: WEST_TURTLEBACK
+  name: WEST TURTLEBACK
   sc: 1
   tiles: [309]
   type: coast
@@ -5077,8 +5097,8 @@ ARMANHAL:
   ID: 310
   area: 14582
   edges:
-    army: [ARDIM_OARAST, ARDMIYAN_REPUBLIC, HORTOSARE, TAGTO]
-    fleet: [ARDMIYAN_REPUBLIC, EAWUBA_KAYBA, KAUVABIYO_COAST, TAGTO]
+    army: [ARDIM OARAST, ARDMIYAN REPUBLIC, HORTOSARE, TAGTO]
+    fleet: [ARDMIYAN REPUBLIC, EAWUBA KAYBA, KAUVABIYO COAST, TAGTO]
   locs:
     label:
     - [0, 0]
@@ -5097,7 +5117,7 @@ TRITHEMAR:
   area: 116358
   edges:
     army: [HEHADEDPAR, SJAVARRUST]
-    fleet: [BROKEN_SEA, HEHADEDPAR, SJAVARRUST]
+    fleet: [BROKEN SEA, HEHADEDPAR, SJAVARRUST]
   locs:
     label:
     - [0, 0]
@@ -5115,8 +5135,8 @@ ZONGBEIKGANG:
   ID: 312
   area: 18162
   edges:
-    army: [KOKEVDAN, NOKSESEOM, ULUKUNGU]
-    fleet: [HOKHOS_SEA, KOKEVDAN, NOKSESEOM, ULUKUNGU, WIDOWS_SEA]
+    army: [KOKEVDAN, NAKSESEOM, ULUKUNGU]
+    fleet: [HOKHOS SEA, KOKEVDAN, NAKSESEOM, ULUKUNGU, WIDOWS SEA]
   locs:
     label:
     - [0, 0]
@@ -5134,8 +5154,8 @@ KOKEVDAN:
   ID: 313
   area: 84381
   edges:
-    army: [BAGDAGERIN, NUUGEM, OINIKHUDI, ULUKUNGU, ZONGBEIKGANG, ZUURZOI]
-    fleet: [HOKHOS_SEA, ZONGBEIKGANG, ZUURZOI]
+    army: [BAGDAGERIN, NUUGAM, OINIKHUDI, ULUKUNGU, ZONGBEIKGANG, ZUURZOI]
+    fleet: [HOKHOS SEA, ZONGBEIKGANG, ZUURZOI]
   locs:
     label:
     - [0, 0]
@@ -5150,8 +5170,8 @@ ULUKUNGU:
   ID: 314
   area: 19608
   edges:
-    army: [KOKEVDAN, NOKSESEOM, NUUGEM, ZONGBEIKGANG]
-    fleet: [NOKSESEOM, NUUGEM, ZONGBEIKGANG]
+    army: [KOKEVDAN, NAKSESEOM, NUUGAM, ZONGBEIKGANG]
+    fleet: [NAKSESEOM, NUUGAM, ZONGBEIKGANG]
   locs:
     label:
     - [0, 0]
@@ -5161,12 +5181,12 @@ ULUKUNGU:
     - [445.0, 6445.0]
   name: ULUKUNGU
   tiles: [314]
-  type: land
-BURNT_THICKET:
+  type: coast
+BURNT THICKET:
   ID: 315
   area: 38590
   edges:
-    army: [HEHADEDPAR, NEW_HAVORAL, OLLORLAND, SJAVARRUST]
+    army: [HEHADEDPAR, NEW HAVORAL, OLLORLAND, SJAVARRUST]
   locs:
     label:
     - [0, 0]
@@ -5176,7 +5196,7 @@ BURNT_THICKET:
     - [462.0, 1956.0]
     sc:
     - [482.0, 1924.0]
-  name: BURNT_THICKET
+  name: BURNT THICKET
   sc: 1
   tiles: [315]
   type: land
@@ -5195,11 +5215,11 @@ SHEVROMRZGH:
   name: SHEVROMRZGH
   tiles: [316]
   type: land
-DRAGON_DOMINION:
+DRAGON DOMINION:
   ID: 317
   area: 123741
   edges:
-    army: [ARVERYNN, HEHADEDPAR, NEW_HAVORAL, NOO_CODORRAN, RANGER_REPUBLIC]
+    army: [ARVERYNN, HEHADEDPAR, NEW HAVORAL, NOO CODORRAN, RANGER REPUBLIC]
   locs:
     label:
     - [0, 0]
@@ -5207,15 +5227,15 @@ DRAGON_DOMINION:
     - [495.0, 1460.0]
     unit:
     - [528.0, 1638.0]
-  name: DRAGON_DOMINION
+  name: DRAGON DOMINION
   tiles: [317]
   type: land
 SOCHULEAG:
   ID: 318
   area: 16562
   edges:
-    army: [DOMCHARUTH, PUAKOD, SHEVROMRZGH]
-    fleet: [DOMCHARUTH, KUKATODIC_BIGHT, PUAKOD]
+    army: [LANKINA, DOMCHARUTH, PUAKOD, SHEVROMRZGH]
+    fleet: [LANKINA, DOMCHARUTH, KUKATODIC BIGHT, PUAKOD]
   locs:
     label:
     - [0, 0]
@@ -5249,7 +5269,7 @@ WYVERNHART:
   ID: 320
   area: 2872
   edges:
-    army: [ANCARD, ATHFORK, CASTONATH, MIDDLE_ALEN, ROTTENSTEP]
+    army: [ANCARD, ATHFORK, CASTONATH, MIDDLE ALEN, ROTTENSTEP]
   locs:
     label:
     - [0, 0]
@@ -5264,7 +5284,7 @@ BAGDAGERIN:
   ID: 321
   area: 44570
   edges:
-    army: [BAZUNEIZAR, GHAMILBULI_TERVALBI, KOKEVDAN, OINIKHUDI, ZUURZOI]
+    army: [BAZUNEIZAR, GHAMILBULI TERVALBI, KOKEVDAN, OINIKHUDI, ZUURZOI]
   locs:
     label:
     - [0, 0]
@@ -5291,11 +5311,11 @@ EIGHARD:
   name: EIGHARD
   tiles: [322]
   type: coast
-GOBLIN_CAVES:
+GOBLIN CAVES:
   ID: 323
   area: 2357
   edges:
-    army: [ASSEMBLY_TERRACE, OSDAR]
+    army: [ASSEMBLY TERRACE, OSDAR]
   locs:
     label:
     - [0, 0]
@@ -5303,14 +5323,14 @@ GOBLIN_CAVES:
     - [496.0, 4623.0]
     unit:
     - [520.0, 4605.0]
-  name: GOBLIN_CAVES
+  name: GOBLIN CAVES
   tiles: [323]
   type: land
 OSDAR:
   ID: 324
   area: 7079
   edges:
-    army: [CASTONATH, GOBLIN_CAVES, MARRHOLD, STEELHYL]
+    army: [CASTONATH, GOBLIN CAVES, MARRHOLD, STEELHYL]
   locs:
     label:
     - [0, 0]
@@ -5328,7 +5348,7 @@ OINIKHUDI:
   ID: 325
   area: 56944
   edges:
-    army: [BAGDAGERIN, BAZUNEIZAR, HEYOOLGIN, HYEONSEONG, KOKEVDAN, NUUGEM]
+    army: [BAGDAGERIN, BAZUNEIZAR, HEYOOLGIN, HYEONSEONG, KOKEVDAN, NUUGAM]
   locs:
     label:
     - [0, 0]
@@ -5339,11 +5359,11 @@ OINIKHUDI:
   name: OINIKHUDI
   tiles: [325]
   type: land
-NEW_HAVORAL:
+NEW HAVORAL:
   ID: 326
   area: 34606
   edges:
-    army: [ARVERYNN, BLOODGROVES, BURNT_THICKET, DRAGON_DOMINION, HEHADEDPAR, LOWER_YNN]
+    army: [ARVERYNN, BLOODGROVES, BURNT THICKET, DRAGON DOMINION, HEHADEDPAR, LOWER YNN]
   locs:
     label:
     - [0, 0]
@@ -5351,7 +5371,7 @@ NEW_HAVORAL:
     - [725.0, 1875.0]
     unit:
     - [632.0, 1826.0]
-  name: NEW_HAVORAL
+  name: NEW HAVORAL
   tiles: [326]
   type: land
 ANCARD:
@@ -5412,9 +5432,9 @@ DOMCHARUTH:
   ID: 330
   area: 51801
   edges:
-    army: [IRDU_AGEENEAS, JAALOGGUB, MAGHAGARMA, ORKECH, SERPENTS_GIFT, SHEVROMRZGH,
+    army: [IRDU AGEENEAS, JAALOGGUB, MAGHAGARMA, ORKECH, SERPENTS GIFT, SHEVROMRZGH,
       SOCHULEAG]
-    fleet: [KUKATODIC_BIGHT, ORKECH, SOCHULEAG]
+    fleet: [KUKATODIC BIGHT, ORKECH, SOCHULEAG]
   locs:
     label:
     - [0, 0]
@@ -5433,7 +5453,7 @@ ELKMARCH:
   area: 3959
   edges:
     army: [BEEPECK, CIDERFIELD, EAGLECREST, GAWETON, VERTESK, VISWALL]
-    fleet: [BAY_OF_VERTESK, BEEPECK, DAMESHEAD, VERTESK]
+    fleet: [BAY OF VERTESK, BEEPECK, DAMESHEAD, VERTESK]
   locs:
     label:
     - [0, 0]
@@ -5444,11 +5464,11 @@ ELKMARCH:
   name: ELKMARCH
   tiles: [331]
   type: coast
-RANGER_REPUBLIC:
+RANGER REPUBLIC:
   ID: 332
   area: 69418
   edges:
-    army: [ARVERYNN, DRAGON_DOMINION, EPEDNAR, NOO_CODORRAN, SLEGCAL, YRNGARD]
+    army: [ARVERYNN, DRAGON DOMINION, EPEDNAR, NOO CODORRAN, SLEGCAL, YNNGARD]
   locs:
     label:
     - [0, 0]
@@ -5456,7 +5476,7 @@ RANGER_REPUBLIC:
     - [748.0, 1405.0]
     unit:
     - [741.0, 1501.0]
-  name: RANGER_REPUBLIC
+  name: RANGER REPUBLIC
   tiles: [332]
   type: land
 ARAIONN:
@@ -5478,7 +5498,7 @@ AINETHIL:
   ID: 334
   area: 3796
   edges:
-    army: [ANCARD, ARBARAN, DAMESCROWN, GABLAINE, IBEVAR_CITY]
+    army: [ANCARD, ARBARAN, DAMESCROWN, GABLAINE, IBEVAR CITY]
   locs:
     label:
     - [0, 0]
@@ -5493,7 +5513,7 @@ MARRHOLD:
   ID: 335
   area: 10065
   edges:
-    army: [BLADEMARCHES, CASTONATH, CIRANMYNA, FLOWER_GROVE, OSDAR]
+    army: [BLADEMARCHES, CASTONATH, CIRANMYNA, FLOWER GROVE, OSDAR]
   locs:
     label:
     - [0, 0]
@@ -5575,8 +5595,8 @@ GABLAINE:
   ID: 340
   area: 13853
   edges:
-    army: [AINETHIL, ANCARD, ARAIONN, ARANNEN, ARCA_CORVUR, BLADEMARCHES, CASTONATH,
-      ELYNAILE, IBEVAR_CITY]
+    army: [AINETHIL, ANCARD, ARAIONN, ARANNEN, ARCA CORVUR, BLADEMARCHES, CASTONATH,
+      ELYNAILE, IBEVAR CITY]
   locs:
     label:
     - [0, 0]
@@ -5594,8 +5614,8 @@ ORKECH:
   ID: 341
   area: 33217
   edges:
-    army: [APORLAEN, BULREKAYIG, DOMCHARUTH, IRDU_AGEENEAS, LANKINA]
-    fleet: [BULREKAYIG, DOMCHARUTH, KUKATODIC_BIGHT, LANKINA, TRIUNIC_LAKES]
+    army: [APORLAEN, BULREKAYIG, DOMCHARUTH, IRDU AGEENEAS, LANKINA]
+    fleet: [BULREKAYIG, DOMCHARUTH, KUKATODIC BIGHT, LANKINA, TRIUNIC LAKES]
   locs:
     label:
     - [0, 0]
@@ -5611,7 +5631,7 @@ P:
   area: 197
   edges:
     army: [DERANNE, MANERD]
-    fleet: [DERANNE, MANERD, PORTNAMM_BAY]
+    fleet: [DERANNE, MANERD, PORTNAMM BAY]
   locs:
     label:
     - [0, 0]
@@ -5625,7 +5645,7 @@ P:
   sc: 1
   tiles: [342]
   type: coast
-IBEVAR_CITY:
+IBEVAR CITY:
   ID: 343
   area: 9486
   edges:
@@ -5639,7 +5659,7 @@ IBEVAR_CITY:
     - [657.0, 4190.0]
     sc:
     - [664.0, 4206.0]
-  name: IBEVAR_CITY
+  name: IBEVAR CITY
   sc: 1
   tiles: [343]
   type: land
@@ -5681,8 +5701,7 @@ ANRACHRAN:
   ID: 346
   area: 12974
   edges:
-    army: [ARAKEPRUN, BLASTGAT, CLAFAIDH, EIGHARD, FAEHEART, JHORGASHIRR,
-      TRIMGARB]
+    army: [ARAKEPRUN, BLASTGAT, CLAFAIDH, EIGHARD, FAEHEART, JHORGASHIRR, TRIMGARB]
   locs:
     label:
     - [0, 0]
@@ -5696,11 +5715,11 @@ ANRACHRAN:
   sc: 1
   tiles: [346]
   type: land
-GHAMILBULI_TERVALBI:
+GHAMILBULI TERVALBI:
   ID: 347
   area: 47610
   edges:
-    army: [APORLAEN, BAGDAGERIN, BAZUNEIZAR, BULREKAYIG, THES_ASCHUR, ZUURZOI]
+    army: [APORLAEN, BAGDAGERIN, BAZUNEIZAR, BULREKAYIG, THES ASCHUR, ZUURZOI]
   locs:
     label:
     - [0, 0]
@@ -5710,7 +5729,7 @@ GHAMILBULI_TERVALBI:
     - [762.0, 5782.0]
     sc:
     - [833.0, 5804.0]
-  name: GHAMILBULI_TERVALBI
+  name: GHAMILBULI TERVALBI
   sc: 1
   tiles: [347]
   type: land
@@ -5718,7 +5737,7 @@ JAALOGGUB:
   ID: 348
   area: 43538
   edges:
-    army: [DOMCHARUTH, MAGHAGARMA, SERPENTS_GIFT]
+    army: [DOMCHARUTH, MAGHAGARMA, SERPENTS GIFT]
   locs:
     label:
     - [0, 0]
@@ -5769,7 +5788,7 @@ ARANNEN:
   ID: 351
   area: 6865
   edges:
-    army: [ARCA_CORVUR, DOVESWALL, GABLAINE, IBEVAR_CITY, SILVERKEEP]
+    army: [ARCA CORVUR, DOVESWALL, GABLAINE, IBEVAR CITY, SILVERKEEP]
   locs:
     label:
     - [0, 0]
@@ -5784,7 +5803,7 @@ APORLAEN:
   ID: 352
   area: 22553
   edges:
-    army: [BULREKAYIG, GHAMILBULI_TERVALBI, IRDU_AGEENEAS, ORKECH, THES_ASCHUR]
+    army: [BULREKAYIG, GHAMILBULI TERVALBI, IRDU AGEENEAS, ORKECH, THES ASCHUR]
   locs:
     label:
     - [0, 0]
@@ -5795,11 +5814,11 @@ APORLAEN:
   name: APORLAEN
   tiles: [352]
   type: land
-ARCA_CORVUR:
+ARCA CORVUR:
   ID: 353
   area: 9018
   edges:
-    army: [ARANNEN, BONE_GROVE, DOVESWALL, ELYNAILE, GABLAINE, RE_UYEL]
+    army: [ARANNEN, BONE GROVE, DOVESWALL, ELYNAILE, GABLAINE, RE UYEL]
   locs:
     label:
     - [0, 0]
@@ -5809,15 +5828,15 @@ ARCA_CORVUR:
     - [781.0, 4326.0]
     sc:
     - [798.0, 4323.0]
-  name: ARCA_CORVUR
+  name: ARCA CORVUR
   sc: 1
   tiles: [353]
   type: land
-IRDU_AGEENEAS:
+IRDU AGEENEAS:
   ID: 354
   area: 57857
   edges:
-    army: [APORLAEN, DOMCHARUTH, MERMIGAN, ORKECH, SERPENTS_GIFT, THES_ASCHUR]
+    army: [APORLAEN, DOMCHARUTH, MERMIGAN, ORKECH, SERPENTS GIFT, THES ASCHUR]
   locs:
     label:
     - [0, 0]
@@ -5825,14 +5844,14 @@ IRDU_AGEENEAS:
     - [878.0, 5357.0]
     unit:
     - [840.0, 5263.0]
-  name: IRDU_AGEENEAS
+  name: IRDU AGEENEAS
   tiles: [354]
   type: land
 EPEDNAR:
   ID: 356
   area: 61945
   edges:
-    army: [GHRANNBLATH, NANI_KINN, SLEGCAL, PLUMWELL, RANGER_REPUBLIC, YRNGARD]
+    army: [GHRANNBLATH, NANI KINN, SLEGCAL, PLUMWELL, RANGER REPUBLIC, YNNGARD]
   locs:
     label:
     - [0, 0]
@@ -5863,7 +5882,7 @@ FAEHEART:
   ID: 355
   area: 7950
   edges:
-    army: [ANRACHRAN, BLASTGAT, BONE_GROVE, DRENNETHILLE, FLOWER_GROVE, IMYHAIN, SHADOW_GROVE]
+    army: [ANRACHRAN, BLASTGAT, BONE GROVE, DRENNETHILLE, FLOWER GROVE, IMYHAIN, SHADOW GROVE]
   locs:
     label:
     - [0, 0]
@@ -5899,8 +5918,8 @@ DOVESWALL:
   ID: 360
   area: 9227
   edges:
-    army: [ARANNEN, ARCA_CORVUR, HAPAINE, MAGDALAIRE, RE_UYEL, SILVERKEEP]
-    fleet: [GEMISLE_SEA, HAPAINE, RE_UYEL]
+    army: [ARANNEN, ARCA CORVUR, HAPAINE, MAGDALAIRE, RE UYEL, SILVERKEEP]
+    fleet: [GEMISLE SEA, HAPAINE, RE UYEL]
   locs:
     label:
     - [0, 0]
@@ -5918,7 +5937,7 @@ BAZUNEIZAR:
   ID: 361
   area: 25675
   edges:
-    army: [BAGDAGERIN, GHAMILBULI_TERVALBI, HEYOOLGIN, OINIKHUDI, ONI_HILLS, SARILAVHAN]
+    army: [BAGDAGERIN, GHAMILBULI TERVALBI, HEYOOLGIN, OINIKHUDI, ONI HILLS, SARILAVHAN]
   locs:
     label:
     - [0, 0]
@@ -5936,7 +5955,7 @@ GHRANNBLATH:
   ID: 362
   area: 42113
   edges:
-    army: [EPEDNAR, GREAT_HARAFIC_DESERT, NANI_KINN, SLEGCAL, SNECHOLLE, TRIMGARB,
+    army: [EPEDNAR, GREAT HARAFIC DESERT, NANI KINN, SLEGCAL, SNECHOLLE, TRIMGARB,
       TRIMTHIR]
   locs:
     label:
@@ -5948,11 +5967,11 @@ GHRANNBLATH:
   name: GHRANNBLATH
   tiles: [362]
   type: land
-BONE_GROVE:
+BONE GROVE:
   ID: 363
   area: 8517
   edges:
-    army: [ARCA_CORVUR, DRENNETHILLE, ELYNAILE, FAEHEART, RE_UYEL]
+    army: [ARCA CORVUR, DRENNETHILLE, ELYNAILE, FAEHEART, RE UYEL]
   locs:
     label:
     - [0, 0]
@@ -5960,7 +5979,7 @@ BONE_GROVE:
     - [812.0, 4512.0]
     unit:
     - [817.0, 4467.0]
-  name: BONE_GROVE
+  name: BONE GROVE
   tiles: [363]
   type: land
 MAGDALAIRE:
@@ -5981,11 +6000,11 @@ MAGDALAIRE:
   sc: 1
   tiles: [364]
   type: land
-SERPENTS_GIFT:
+SERPENTS GIFT:
   ID: 365
   area: 41166
   edges:
-    army: [DOMCHARUTH, HARPYLEN, IRDU_AGEENEAS, JAALOGGUB, JADDANZAR, NANSALEN]
+    army: [DOMCHARUTH, HARPYLEN, IRDU AGEENEAS, JAALOGGUB, JADDANZAR, NANSALEN]
   locs:
     label:
     - [0, 0]
@@ -5993,7 +6012,7 @@ SERPENTS_GIFT:
     - [945.0, 5023.0]
     unit:
     - [905.0, 5087.0]
-  name: SERPENTS_GIFT
+  name: SERPENTS GIFT
   tiles: [365]
   type: land
 MURDKATHER:
@@ -6031,11 +6050,11 @@ DEARKTIR:
   name: DEARKTIR
   tiles: [367]
   type: coast
-THES_ASCHUR:
+THES ASCHUR:
   ID: 368
   area: 29542
   edges:
-    army: [APORLAEN, GHAMILBULI_TERVALBI, IRDU_AGEENEAS, MERMIGAN, SARILAVHAN]
+    army: [APORLAEN, GHAMILBULI TERVALBI, IRDU AGEENEAS, MERMIGAN, SARILAVHAN]
   locs:
     label:
     - [0, 0]
@@ -6045,7 +6064,7 @@ THES_ASCHUR:
     - [909.0, 5652.0]
     sc:
     - [926.0, 5722.0]
-  name: THES_ASCHUR
+  name: THES ASCHUR
   sc: 1
   tiles: [368]
   type: land
@@ -6053,7 +6072,7 @@ NANSALEN:
   ID: 369
   area: 4003
   edges:
-    army: [HARPYLEN, SERPENTS_GIFT, SHADOW_GROVE]
+    army: [HARPYLEN, SERPENTS GIFT, SHADOW GROVE]
   locs:
     label:
     - [0, 0]
@@ -6067,12 +6086,12 @@ NANSALEN:
   sc: 1
   tiles: [369]
   type: land
-RE_UYEL:
+RE UYEL:
   ID: 370
   area: 14546
   edges:
-    army: [AQATBAR, ARCA_CORVUR, BONE_GROVE, DOVESWALL, TUNGR]
-    fleet: [AQATBAR, DOVESWALL, GEMISLE_SEA, SEA_OF_ECHOES, TEFKORA_PASS, TUNGR]
+    army: [AQATBAR, ARCA CORVUR, BONE GROVE, DOVESWALL, TUNGR]
+    fleet: [AQATBAR, DOVESWALL, GEMISLE SEA, SEA OF ECHOES, TEFKORA PASS, TUNGR]
   locs:
     label:
     - [0, 0]
@@ -6082,7 +6101,7 @@ RE_UYEL:
     - [929.0, 4369.0]
     sc:
     - [945.0, 4368.0]
-  name: RE_UYEL
+  name: RE UYEL
   sc: 1
   tiles: [370]
   type: coast
@@ -6090,7 +6109,8 @@ VENAIL:
   ID: 371
   area: 1595
   edges:
-    fleet: [COAST_OF_VENAIL, EDILLIONS_RELIEF]
+    fleet: [COAST OF VENAIL, EDILLIONS RELIEF]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -6108,7 +6128,7 @@ BRAMBLEBANK:
   ID: 372
   area: 9708
   edges:
-    army: [BLOODGROVES, BRIDGEWAY, LOWER_YNN, NEW_CESTAIRE, SOUTH_MARRLIANDE, VELS_DOMFAN,
+    army: [BLOODGROVES, BRIDGEWAY, LOWER YNN, NEW CESTAIRE, SOUTH MARRLIANDE, VELS DOMFAN,
       YNNSMOUTH]
   locs:
     label:
@@ -6127,8 +6147,8 @@ JIANTSANG:
   ID: 373
   area: 18525
   edges:
-    army: [HEYOOLGIN, HYEONSEONG, JAENGUJAN, LIUMINXIANG, ONI_HILLS, YUNGHUUN]
-    fleet: [JAENGUJAN, LIUMINXIANG-wc, SEA_OF_SPEARS]
+    army: [HEYOOLGIN, HYEONSEONG, JAENGUJAN, LIUMINXIANG, ONI HILLS, YUNGHUUN]
+    fleet: [JAENGUJAN, LIUMINXIANG-wc, SEA OF SPEARS]
   locs:
     label:
     - [0, 0]
@@ -6143,7 +6163,7 @@ TRIMTHIR:
   ID: 374
   area: 16244
   edges:
-    army: [GHRANNBLATH, GREAT_HARAFIC_DESERT, MURDKATHER, SOLDARCAM, TRIMGARB]
+    army: [GHRANNBLATH, GREAT HARAFIC DESERT, MURDKATHER, SOLDARCAM, TRIMGARB]
     fleet: [MURDKATHER, SARMADFAR, SOLDARCAM]
   locs:
     label:
@@ -6155,12 +6175,12 @@ TRIMTHIR:
   name: TRIMTHIR
   tiles: [374]
   type: coast
-NEW_CESTAIRE:
+NEW CESTAIRE:
   ID: 375
   area: 10095
   edges:
-    army: [BLOODGROVES, BRAMBLEBANK, BRIDGEWAY, RED_COAST, TUNIN]
-    fleet: [BLOODGROVES_COAST, BRIDGEWAY, RED_COAST, TUNIN]
+    army: [BLOODGROVES, BRAMBLEBANK, BRIDGEWAY, RED COAST, TUNIN]
+    fleet: [BLOODGROVES COAST, BRIDGEWAY, RED COAST, TUNIN]
   locs:
     label:
     - [0, 0]
@@ -6170,7 +6190,7 @@ NEW_CESTAIRE:
     - [944.0, 1963.0]
     sc:
     - [956.0, 1974.0]
-  name: NEW_CESTAIRE
+  name: NEW CESTAIRE
   sc: 1
   tiles: [375]
   type: coast
@@ -6178,7 +6198,7 @@ HARPYLEN:
   ID: 376
   area: 21503
   edges:
-    army: [AQATBAR, BULWAR, JADDANZAR, NANSALEN, SERPENTS_GIFT]
+    army: [AQATBAR, BULWAR, JADDANZAR, NANSALEN, SERPENTS GIFT]
   locs:
     label:
     - [0, 0]
@@ -6193,8 +6213,8 @@ AQATBAR:
   ID: 377
   area: 18264
   edges:
-    army: [BULWAR, HARPYLEN, RE_UYEL, TUNGR]
-    fleet: [BULWAR, GULF_OF_GLASS, RE_UYEL, SEA_OF_ECHOES, TUNGR]
+    army: [BULWAR, HARPYLEN, RE UYEL, TUNGR]
+    fleet: [BULWAR, GULF OF GLASS, RE UYEL, SEA OF ECHOES, TUNGR]
   locs:
     label:
     - [0, 0]
@@ -6212,7 +6232,7 @@ PLUMWELL:
   ID: 378
   area: 26169
   edges:
-    army: [DAXWELL, EPEDNAR, NANI_KINN, TIRU_MOINE, VELS_DOMFAN, YNNSMOUTH, YRNGARD]
+    army: [DAXWELL, EPEDNAR, NANI KINN, TIRU MOINE, VELS DOMFAN, YNNSMOUTH, YNNGARD]
   locs:
     label:
     - [0, 0]
@@ -6227,7 +6247,7 @@ SARILAVHAN:
   ID: 379
   area: 26443
   edges:
-    army: [BAZUNEIZAR, NADIRAJ, ONI_HILLS, SIR, THES_ASCHUR, YODASHIKYU]
+    army: [BAZUNEIZAR, NADIRAJ, ONI HILLS, SIR, THES ASCHUR, YODASHIKYU]
   locs:
     label:
     - [0, 0]
@@ -6241,7 +6261,7 @@ SARILAVHAN:
   sc: 1
   tiles: [379]
   type: land
-ONI_HILLS:
+ONI HILLS:
   ID: 380
   area: 18537
   edges:
@@ -6253,15 +6273,15 @@ ONI_HILLS:
     - [1051.0, 6085.0]
     unit:
     - [998.0, 6108.0]
-  name: ONI_HILLS
+  name: ONI HILLS
   tiles: [380]
   type: land
-SOUTH_MARRLIANDE:
+SOUTH MARRLIANDE:
   ID: 381
   area: 4846
   edges:
-    army: [BRAMBLEBANK, BRIDGEWAY, CONCORD_POINT, YNNSMOUTH]
-    fleet: [BRIDGEWAY, CONCORD_POINT, TROLLSBAY, YNNSMOUTH]
+    army: [BRAMBLEBANK, BRIDGEWAY, CONCORD POINT, YNNSMOUTH]
+    fleet: [BRIDGEWAY, CONCORD POINT, TROLLSBAY, YNNSMOUTH]
   locs:
     label:
     - [0, 0]
@@ -6269,15 +6289,15 @@ SOUTH_MARRLIANDE:
     - [984.0, 1850.0]
     unit:
     - [954.0, 1790.0]
-  name: SOUTH_MARRLIANDE
+  name: SOUTH MARRLIANDE
   tiles: [381]
   type: coast
 TUNGR:
   ID: 382
   area: 674
   edges:
-    army: [AQATBAR, RE_UYEL]
-    fleet: [AQATBAR, RE_UYEL, SEA_OF_ECHOES]
+    army: [AQATBAR, RE UYEL]
+    fleet: [AQATBAR, RE UYEL, SEA OF ECHOES]
   locs:
     label:
     - [0, 0]
@@ -6292,8 +6312,8 @@ BRIDGEWAY:
   ID: 383
   area: 5638
   edges:
-    army: [BRAMBLEBANK, CONCORD_POINT, NEW_CESTAIRE, SOUTH_MARRLIANDE]
-    fleet: [BLOODGROVES_COAST, CONCORD_POINT, NEW_CESTAIRE, SOUTH_MARRLIANDE]
+    army: [BRAMBLEBANK, CONCORD POINT, NEW CESTAIRE, SOUTH MARRLIANDE]
+    fleet: [BLOODGROVES COAST, CONCORD POINT, NEW CESTAIRE, SOUTH MARRLIANDE]
   locs:
     label:
     - [0, 0]
@@ -6311,7 +6331,7 @@ DAXWELL:
   ID: 384
   area: 17143
   edges:
-    army: [PLUMWELL, SHOFASHOK, TIRU_MOINE, VALORPOINT, YNNSMOUTH]
+    army: [PLUMWELL, SHOFASHOK, TIRU MOINE, VALORPOINT, YNNSMOUTH]
     fleet: [TROLLSBAY, VALORPOINT, YNNSMOUTH]
   locs:
     label:
@@ -6329,8 +6349,8 @@ LIUMINXIANG:
   edges:
     army: [BEIK, DAMAOGONG, JIANTSANG, TIANLOU, YANGCHEN, YANZHONG, YUNGHUUN]
     fleet:
-      wc: [DAMAOGONG, JIANTSANG, SEA_OF_SPEARS]
-      ec: [BEIK, DAMAOGONG, TIANLOU_BAY]
+      wc: [DAMAOGONG, JIANTSANG, SEA OF SPEARS]
+      ec: [BEIK, DAMAOGONG, TIANLOU BAY]
   locs:
     label:
     - [0, 0]
@@ -6338,6 +6358,11 @@ LIUMINXIANG:
     - [1039.0, 6314.0]
     unit:
     - [1024.0, 6351.0]
+    coast-unit:
+      wc:
+      - [1029.0, 6351.0]
+      ec:
+      - [1024.0, 6371.0]
   name: LIUMINXIANG
   tiles: [385]
   type: coast
@@ -6345,7 +6370,7 @@ YUNGHUUN:
   ID: 386
   area: 10108
   edges:
-    army: [JIANTSANG, LIUMINXIANG, NOZANYANBE, ONI_HILLS, YANZHONG]
+    army: [JIANTSANG, LIUMINXIANG, NOZANYANBE, ONI HILLS, YANZHONG]
   locs:
     label:
     - [0, 0]
@@ -6356,11 +6381,11 @@ YUNGHUUN:
   name: YUNGHUUN
   tiles: [386]
   type: land
-GREAT_HARAFIC_DESERT:
+GREAT HARAFIC DESERT:
   ID: 387
   area: 43949
   edges:
-    army: [GHRANNBLATH, NANI_KINN, NIDI_BIKEHA, SOLDARCAM, TRIMTHIR, VEMOD_ARKA, WORMWAY]
+    army: [GHRANNBLATH, NANI KINN, NIDI BIKEHA, SOLDARCAM, TRIMTHIR, VEMOD ARKA, WORMWAY]
   locs:
     label:
     - [0, 0]
@@ -6368,7 +6393,7 @@ GREAT_HARAFIC_DESERT:
     - [1140.0, 916.0]
     unit:
     - [1120.0, 993.0]
-  name: GREAT_HARAFIC_DESERT
+  name: GREAT HARAFIC DESERT
   tiles: [387]
   type: land
 DAMAOGONG:
@@ -6376,7 +6401,7 @@ DAMAOGONG:
   area: 3010
   edges:
     army: [LIUMINXIANG]
-    fleet: [LIUMINXIANG-wc, LIUMINXIANG-ec, SEA_OF_SPEARS, TIANLOU_BAY]
+    fleet: [LIUMINXIANG-wc, LIUMINXIANG-ec, SEA OF SPEARS, TIANLOU BAY]
   locs:
     label:
     - [0, 0]
@@ -6394,7 +6419,7 @@ NADIRAJ:
   ID: 389
   area: 24238
   edges:
-    army: [DUGAJIR, MERMIGAN, NAHANA_JADD, SARILAVHAN, YODASHIKYU]
+    army: [DUGAJIR, MERMIGAN, NAHANA JADD, SARILAVHAN, YODASHIKYU]
   locs:
     label:
     - [0, 0]
@@ -6405,12 +6430,12 @@ NADIRAJ:
   name: NADIRAJ
   tiles: [389]
   type: land
-NANI_KINN:
+NANI KINN:
   ID: 390
   area: 73910
   edges:
-    army: [EPEDNAR, GHRANNBLATH, GREAT_HARAFIC_DESERT, NIDI_BIKEHA, TZAYA,
-      PLUMWELL, TIRU_MOINE, TUMBATER]
+    army: [EPEDNAR, GHRANNBLATH, GREAT HARAFIC DESERT, NIDI BIKEHA, TZAYA, PLUMWELL,
+      TIRU MOINE, TUMBATER]
   locs:
     label:
     - [0, 0]
@@ -6420,7 +6445,7 @@ NANI_KINN:
     - [1146.0, 1265.0]
     sc:
     - [1248.0, 1271.0]
-  name: NANI_KINN
+  name: NANI KINN
   sc: 1
   tiles: [390]
   type: land
@@ -6429,7 +6454,7 @@ KHASA:
   area: 18039
   edges:
     army: [DESHAK, EKHA, VOGKEYSA, YAIKOBIX]
-    fleet: [DESHAK, DOG_COAST, EKHA]
+    fleet: [DESHAK, DOG COAST, EKHA]
   locs:
     label:
     - [0, 0]
@@ -6459,8 +6484,8 @@ BRASAN:
   ID: 393
   area: 15199
   edges:
-    army: [ARDU, AZKA_JEXIS, BULWAR, SHASOURA]
-    fleet: [AZKA_JEXIS, BULWAR, GULF_OF_GLASS, SEA_OF_ELIZNA]
+    army: [ARDU, AZKA JEXIS, BULWAR, SHASOURA]
+    fleet: [AZKA JEXIS, BULWAR, GULF OF GLASS, SEA OF ELIZNA]
   locs:
     label:
     - [0, 0]
@@ -6479,7 +6504,7 @@ TIANLOU:
   area: 8814
   edges:
     army: [BEIK, HEHONG, IONGSIM, LIUMINXIANG, YANGCHEN]
-    fleet: [BEIK, IONGSIM, TIANLOU_BAY]
+    fleet: [BEIK, IONGSIM, TIANLOU BAY]
   locs:
     label:
     - [0, 0]
@@ -6511,11 +6536,11 @@ YANGCHEN:
   sc: 1
   tiles: [395]
   type: land
-TIRU_MOINE:
+TIRU MOINE:
   ID: 396
   area: 30930
   edges:
-    army: [DAXWELL, GRAVEROADS, NANI_KINN, PLUMWELL, QUITL, SHOFASHOK, TUMBATER]
+    army: [DAXWELL, GRAVEROADS, NANI KINN, PLUMWELL, QUITL, SHOFASHOK, TUMBATER]
   locs:
     label:
     - [0, 0]
@@ -6525,7 +6550,7 @@ TIRU_MOINE:
     - [1188.0, 1453.0]
     sc:
     - [1195.0, 1494.0]
-  name: TIRU_MOINE
+  name: TIRU MOINE
   sc: 1
   tiles: [396]
   type: land
@@ -6533,8 +6558,8 @@ VALORPOINT:
   ID: 397
   area: 7323
   edges:
-    army: [CONCORD_POINT, DAXWELL, SHOFASHOK]
-    fleet: [CHARMED_SEA, CONCORD_POINT, DAXWELL, SHOFASHOK, TROLLSBAY]
+    army: [CONCORD POINT, DAXWELL, SHOFASHOK]
+    fleet: [CHARMED SEA, CONCORD POINT, DAXWELL, SHOFASHOK, TROLLSBAY]
   locs:
     label:
     - [0, 0]
@@ -6549,8 +6574,8 @@ YAIKOBIX:
   ID: 398
   area: 29389
   edges:
-    army: [EKHA, KHASA, VOGKEYSA, WEST_SARHAL]
-    fleet: [CORSAIR_REACHES, EKHA, SANDSPITE_GULF, WEST_SARHAL]
+    army: [EKHA, KHASA, VOGKEYSA, WEST SARHAL]
+    fleet: [EKHANI TIP, EKHA, SANDSPITE GULF, WEST SARHAL]
   locs:
     label:
     - [0, 0]
@@ -6565,8 +6590,8 @@ HEHONG:
   ID: 399
   area: 5925
   edges:
-    army: [IONGSIM, TIANLOU, YANGCHEN, YANZHONG, ZYUGONG, ZYUJYUT]
-    fleet: [IONGSIM, PHOKAO_PASS, ZYUGONG]
+    army: [IONGSIM, TIANLOU, YANGCHEN, ZYUGONG, ZYUJYUT]
+    fleet: [IONGSIM, PHOKAO PASS, ZYUGONG]
   locs:
     label:
     - [0, 0]
@@ -6584,7 +6609,7 @@ DUGAJIR:
   ID: 400
   area: 18066
   edges:
-    army: [BIENG_PHANG, NADIRAJ, NAHANA_JADD, TAIVER, YODASHIKYU]
+    army: [BIENG PHANG, NADIRAJ, NAHANA JADD, TAIVER, YODASHIKYU]
   locs:
     label:
     - [0, 0]
@@ -6599,7 +6624,7 @@ ZYUJYUT:
   ID: 401
   area: 6026
   edges:
-    army: [BIANYUAN, HEHONG, VERKAL_OZOVAR, YANZHONG, ZYUGONG]
+    army: [BIANYUAN, HEHONG, VERKAL OZOVAR, YANZHONG, ZYUGONG]
   locs:
     label:
     - [0, 0]
@@ -6615,7 +6640,7 @@ IONGSIM:
   area: 2543
   edges:
     army: [HEHONG, TIANLOU]
-    fleet: [HEHONG, PHOKAO_PASS, TIANLOU, TIANLOU_BAY]
+    fleet: [HEHONG, PHOKAO PASS, TIANLOU, TIANLOU BAY]
   locs:
     label:
     - [0, 0]
@@ -6626,11 +6651,11 @@ IONGSIM:
   name: IONGSIM
   tiles: [402]
   type: coast
-NIDI_BIKEHA:
+NIDI BIKEHA:
   ID: 403
   area: 29445
   edges:
-    army: [GREAT_HARAFIC_DESERT, NANI_KINN, TZAYA, VEMOD_ARKA, ZURZUMEXIA]
+    army: [GREAT HARAFIC DESERT, NANI KINN, TZAYA, VEMOD ARKA, ZURZUMEXIA]
   locs:
     label:
     - [0, 0]
@@ -6638,14 +6663,14 @@ NIDI_BIKEHA:
     - [1219.0, 1100.0]
     unit:
     - [1282.0, 1114.0]
-  name: NIDI_BIKEHA
+  name: NIDI BIKEHA
   tiles: [403]
   type: land
-VERKAL_OZOVAR:
+VERKAL OZOVAR:
   ID: 404
   area: 8607
   edges:
-    army: [BIANYUAN, KUDET_KAI, SIRTAN, UPPER_KEOADEN, AZKARE, ZYUGONG, ZYUJYUT]
+    army: [BIANYUAN, KUDET KAI, SIRTAN, UPPER KEOADEN, AZKARE, ZYUGONG, ZYUJYUT]
   locs:
     label:
     - [0, 0]
@@ -6655,7 +6680,7 @@ VERKAL_OZOVAR:
     - [1249.0, 6172.0]
     sc:
     - [1255.0, 6167.0]
-  name: VERKAL_OZOVAR
+  name: VERKAL OZOVAR
   sc: 1
   tiles: [404]
   type: land
@@ -6663,8 +6688,8 @@ GRAVEROADS:
   ID: 405
   area: 20615
   edges:
-    army: [ARCA_ONYX, QUITL, SHOFASHOK, TIRU_MOINE]
-    fleet: [ARCA_ONYX, CHARMED_SEA, REAPERS_COAST, SHOFASHOK]
+    army: [ARCA ONYX, QUITL, SHOFASHOK, TIRU MOINE]
+    fleet: [ARCA ONYX, CHARMED SEA, REAPERS COAST, SHOFASHOK]
   locs:
     label:
     - [0, 0]
@@ -6679,7 +6704,7 @@ AZKARE:
   ID: 406
   area: 20597
   edges:
-    army: [BASAATELE, BIANYUAN, SIRTAN, TAIVER, SANTHUN, VERKAL_OZOVAR, YODASHIKYU]
+    army: [BASAATELE, BIANYUAN, SIRTAN, TAIVER, SANTHUN, VERKAL OZOVAR, YODASHIKYU]
   locs:
     label:
     - [0, 0]
@@ -6690,12 +6715,12 @@ AZKARE:
   name: AZKARE
   tiles: [406]
   type: land
-WEST_SARHAL:
+WEST SARHAL:
   ID: 407
   area: 61842
   edges:
-    army: [GOLUTZARR, JORRIKARR, KHATERAT, KOROSHESH, VOGKEYSA, YAIKOBIX, YZHEDVREN]
-    fleet: [SANDSPITE_GULF, YAIKOBIX, YZHEDVREN]
+    army: [GOLUTZARR, JORRIKARR, KHETERAT, KOROSHESH, VOGKEYSA, YAIKOBIX, YZHEDVREN]
+    fleet: [SANDSPITE GULF, YAIKOBIX, YZHEDVREN]
   locs:
     label:
     - [0, 0]
@@ -6703,14 +6728,15 @@ WEST_SARHAL:
     - [1310.0, 4108.0]
     unit:
     - [1350.0, 4182.0]
-  name: WEST_SARHAL
+  name: WEST SARHAL
   tiles: [407]
   type: coast
 ASRA:
   ID: 408
   area: 1567
   edges:
-    fleet: [GATE_SEA, WANDERERS_SEA]
+    fleet: [GATE SEA, WANDERERS SEA]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -6728,8 +6754,8 @@ BHARABAGHA:
   ID: 409
   area: 5637
   edges:
-    army: [NAHANA_JADD, SARK, TIPHIYA, VANRAHAR]
-    fleet: [GULF_OF_RAHEN, SARK, TIPHIYA, VANRAHAR]
+    army: [NAHANA JADD, SARK, TIPHIYA, VANRAHAR]
+    fleet: [GULF OF RAHEN, SARK, TIPHIYA, VANRAHAR]
   locs:
     label:
     - [0, 0]
@@ -6743,12 +6769,12 @@ BHARABAGHA:
   sc: 1
   tiles: [409]
   type: coast
-NEW_UANCED:
+NEW UANCED:
   ID: 410
   area: 6411
   edges:
-    army: [ORRIC_CHEID]
-    fleet: [BANISHED_SEA, CALAMITY_PASS, FADHOBAITH, ORRIC_CHEID]
+    army: [ORRIC CHEID]
+    fleet: [BANISHED SEA, CALAMITY PASS, FADHOBAITH, ORRIC CHEID]
   locs:
     label:
     - [0, 0]
@@ -6758,7 +6784,7 @@ NEW_UANCED:
     - [1319.0, 3070.0]
     sc:
     - [1320.0, 3081.0]
-  name: NEW_UANCED
+  name: NEW UANCED
   sc: 1
   tiles: [410]
   type: coast
@@ -6766,7 +6792,7 @@ TUMBATER:
   ID: 411
   area: 6747
   edges:
-    army: [NANI_KINN, TZAYA, NURCANDAR, OZTENCOST, QUINTUPLETS, QUITL, TIRU_MOINE]
+    army: [NANI KINN, TZAYA, NURCANDAR, OZTENCOST, QUINTUPLETS, QUITL, TIRU MOINE]
   locs:
     label:
     - [0, 0]
@@ -6784,7 +6810,7 @@ QUITL:
   ID: 412
   area: 14216
   edges:
-    army: [ARCA_ONYX, GRAVEROADS, LOVERSIGHT, MINAR_YOLLI, OZTENCOST, TIRU_MOINE,
+    army: [ARCA ONYX, GRAVEROADS, LOVERSIGHT, MINAR YOLLI, OZTENCOST, TIRU MOINE,
       TUMBATER]
   locs:
     label:
@@ -6800,8 +6826,8 @@ VANRAHAR:
   ID: 413
   area: 2718
   edges:
-    army: [BHARABAGHA, BIENG_PHANG, NAHANA_JADD]
-    fleet: [BHARABAGHA, BIENG_PHANG, GULF_OF_RAHEN]
+    army: [BHARABAGHA, BIENG PHANG, NAHANA JADD]
+    fleet: [BHARABAGHA, BIENG PHANG, GULF OF RAHEN]
   locs:
     label:
     - [0, 0]
@@ -6816,7 +6842,7 @@ SIRTAN:
   ID: 414
   area: 8808
   edges:
-    army: [JAYA_RAYA, NON_CHIEN, SANTHUN, UPPER_KEOADEN, VERKAL_OZOVAR, AZKARE]
+    army: [JAYA RAYA, NON CHIEN, SANTHUN, UPPER KEOADEN, VERKAL OZOVAR, AZKARE]
   locs:
     label:
     - [0, 0]
@@ -6827,12 +6853,12 @@ SIRTAN:
   name: SIRTAN
   tiles: [414]
   type: land
-ARCA_ONYX:
+ARCA ONYX:
   ID: 415
   area: 19834
   edges:
-    army: [GRAVEROADS, MINAR_YOLLI, QUITL]
-    fleet: [GRAVEROADS, LOVERS_PASS, MINAR_YOLLI, REAPERS_COAST]
+    army: [GRAVEROADS, MINAR YOLLI, QUITL]
+    fleet: [GRAVEROADS, LOVERS PASS, MINAR YOLLI, REAPERS COAST]
   locs:
     label:
     - [0, 0]
@@ -6842,7 +6868,7 @@ ARCA_ONYX:
     - [1511.0, 1562.0]
     sc:
     - [1547.0, 1595.0]
-  name: ARCA_ONYX
+  name: ARCA ONYX
   sc: 1
   tiles: [415]
   type: coast
@@ -6850,7 +6876,7 @@ TZAYA:
   ID: 416
   area: 3890
   edges:
-    army: [GADODCODD, NANI_KINN, NIDI_BIKEHA, QUINTUPLETS, TUMBATER, ZURZUMEXIA]
+    army: [GADODCODD, NANI KINN, NIDI BIKEHA, QUINTUPLETS, TUMBATER, ZURZUMEXIA]
     fleet: [GADODCODD, QUINTUPLETS, ZURZUMEXIA]
   locs:
     label:
@@ -6864,13 +6890,13 @@ TZAYA:
   name: TZAYA
   sc: 1
   tiles: [416]
-  type: land
+  type: coast
 YZHEDVREN:
   ID: 417
   area: 12733
   edges:
-    army: [JORRIKARR, SIGILAN, WEST_SARHAL]
-    fleet: [SANDSPITE_GULF, SIGILAN, WEST_SARHAL]
+    army: [JORRIKARR, SIGILAN, WEST SARHAL]
+    fleet: [SANDSPITE GULF, SIGILAN, WEST SARHAL]
   locs:
     label:
     - [0, 0]
@@ -6885,7 +6911,7 @@ SANTHUN:
   ID: 418
   area: 4212
   edges:
-    army: [BAIHON, BASAATELE, JAYA_RAYA, CAOBAN, SIRTAN, AZKARE]
+    army: [BAIHON, BASAATELE, JAYA RAYA, CAOBAN, SIRTAN, AZKARE]
   locs:
     label:
     - [0, 0]
@@ -6904,7 +6930,7 @@ BASAATELE:
   area: 1828
   edges:
     army: [CAOBAN, MAI, SKARKAOPHE, TAIVER, SANTHUN, AZKARE]
-    fleet: [GULF_OF_GON, CAOBAN, PRA_BAY, MAI, SKARKAOPHE]
+    fleet: [GULF OF GON, CAOBAN, PRA BAY, MAI, SKARKAOPHE]
   locs:
     label:
     - [0, 0]
@@ -6922,7 +6948,7 @@ GOLUTZARR:
   ID: 420
   area: 31047
   edges:
-    army: [FOJARA, JAGAB_FARU, JORRIKARR, KHATERAT, UPPER_SORROW, WEST_SARHAL]
+    army: [FOJARA, JAGAB FARU, JORRIKARR, KHETERAT, UPPER SORROW, WEST SARHAL]
   locs:
     label:
     - [0, 0]
@@ -6940,7 +6966,7 @@ KOGZALLA:
   ID: 421
   area: 34336
   edges:
-    army: [HISOST_YAMOK, ILZIN_ZOKKA, KOGGRAFFA, MAZEXHAD, YEZEL_MORA]
+    army: [HISOST YAMOK, ILZIN ZOKKA, KOGGRAFFA, MAZEXHAD, YEZEL MORA]
   locs:
     label:
     - [0, 0]
@@ -6959,7 +6985,7 @@ CAOBAN:
   area: 843
   edges:
     army: [BAIHON, BASAATELE, MAI, SANTHUN]
-    fleet: [BAIHON-nc, BASAATELE, PRA_BAY, MAI]
+    fleet: [BAIHON-nc, BASAATELE, PRA BAY, MAI]
   locs:
     label:
     - [0, 0]
@@ -6973,11 +6999,11 @@ CAOBAN:
   sc: 1
   tiles: [422]
   type: coast
-JAYA_RAYA:
+JAYA RAYA:
   ID: 423
   area: 15899
   edges:
-    army: [ARAWKELIN, BAIHON, NON_CHIEN, SIRTAN, SANTHUN]
+    army: [ARAWKELIN, BAIHON, NON CHIEN, SIRTAN, SANTHUN]
   locs:
     label:
     - [0, 0]
@@ -6985,15 +7011,15 @@ JAYA_RAYA:
     - [1455.0, 6094.0]
     unit:
     - [1506.0, 6117.0]
-  name: JAYA_RAYA
+  name: JAYA RAYA
   tiles: [423]
   type: land
 LOVERSIGHT:
   ID: 424
   area: 5231
   edges:
-    army: [MINAR_YOLLI, OZTENCOST, QUITL]
-    fleet: [GULF_OF_HARAF, MINAR_YOLLI, OZTENCOST]
+    army: [MINAR YOLLI, OZTENCOST, QUITL]
+    fleet: [GULF OF HARAF, MINAR YOLLI, OZTENCOST]
   locs:
     label:
     - [0, 0]
@@ -7011,8 +7037,8 @@ KOGGRAFFA:
   ID: 425
   area: 13619
   edges:
-    army: [BERPARWEDEB, HISOST_YAMOK, ILZIN_ZOKKA, KOGZALLA]
-    fleet: [BERPARWEDEB, ILZIN_ZOKKA, JADD_SEA]
+    army: [BERPARWEDEB, HISOST YAMOK, ILZIN ZOKKA, KOGZALLA]
+    fleet: [BERPARWEDEB, ILZIN ZOKKA, JADD SEA]
   locs:
     label:
     - [0, 0]
@@ -7023,12 +7049,12 @@ KOGGRAFFA:
   name: KOGGRAFFA
   tiles: [425]
   type: coast
-MINAR_YOLLI:
+MINAR YOLLI:
   ID: 426
   area: 9310
   edges:
-    army: [ARCA_ONYX, LOVERSIGHT, QUITL]
-    fleet: [ARCA_ONYX, GULF_OF_HARAF, LOVERS_PASS, LOVERSIGHT]
+    army: [ARCA ONYX, LOVERSIGHT, QUITL]
+    fleet: [ARCA ONYX, GULF OF HARAF, LOVERS PASS, LOVERSIGHT]
   locs:
     label:
     - [0, 0]
@@ -7036,14 +7062,14 @@ MINAR_YOLLI:
     - [1504.0, 1491.0]
     unit:
     - [1459.0, 1475.0]
-  name: MINAR_YOLLI
+  name: MINAR YOLLI
   tiles: [426]
   type: coast
 JORRIKARR:
   ID: 427
   area: 31327
   edges:
-    army: [FOJARA, GOLUTZARR, JANAMA, KAINO_FEDERATION, SIGILAN, WEST_SARHAL, YZHEDVREN]
+    army: [FOJARA, GOLUTZARR, JANAMA, KAINO FEDERATION, SIGILAN, WEST SARHAL, YZHEDVREN]
   locs:
     label:
     - [0, 0]
@@ -7061,10 +7087,10 @@ BAIHON:
   ID: 428
   area: 4789
   edges:
-    army: [ARAWKELIN, JAYA_RAYA, CAOBAN, HEBA, SANTHUN]
-    fleet: 
-      nc: [KHOM_SEA, CAOBAN, PRA_BAY, HEBA]
-      sc: [ARAWKELIN, KHOM_SEA, HEBA]
+    army: [ARAWKELIN, JAYA RAYA, CAOBAN, HEBA, SANTHUN]
+    fleet:
+      nc: [KHOM SEA, CAOBAN, PRA BAY, HEBA]
+      sc: [ARAWKELIN, KHOM SEA, HEBA]
   locs:
     label:
     - [0, 0]
@@ -7072,6 +7098,11 @@ BAIHON:
     - [1507.0, 6039.0]
     unit:
     - [1455.0, 6013.0]
+    coast-unit:
+      nc:
+      - [1455.0, 6039.0]
+      sc:
+      - [1455.0, 6013.0]
   name: BAIHON
   tiles: [428]
   type: coast
@@ -7079,7 +7110,7 @@ MAZEXHAD:
   ID: 429
   area: 18848
   edges:
-    army: [ARGAZEEN, DUWARKANI, KOGZALLA, YEZEL_MORA]
+    army: [ARGAZEEN, DUWARKANI, KOGZALLA, YEZEL MORA]
   locs:
     label:
     - [0, 0]
@@ -7094,8 +7125,8 @@ BERPARWEDEB:
   ID: 430
   area: 11581
   edges:
-    army: [HISOST_YAMOK, KOGGRAFFA, SIMAHRIKA]
-    fleet: [HORN_OF_SARHAL, JADD_SEA, KOGGRAFFA, SIMAHRIKA]
+    army: [HISOST YAMOK, KOGGRAFFA, SIMAHRIKA]
+    fleet: [HORN OF SARHAL, JADD SEA, KOGGRAFFA, SIMAHRIKA]
   locs:
     label:
     - [0, 0]
@@ -7109,11 +7140,11 @@ BERPARWEDEB:
   sc: 1
   tiles: [430]
   type: coast
-JAGAB_FARU:
+JAGAB FARU:
   ID: 431
   area: 23358
   edges:
-    army: [FOJARA, GOLUTZARR, KHAWIT, KUNOLO, PORT_NARAWEN, UPPER_SORROW]
+    army: [FOJARA, GOLUTZARR, KHAWIT, KUNOLO, PORT NARAWEN, UPPER SORROW]
   locs:
     label:
     - [0, 0]
@@ -7121,14 +7152,14 @@ JAGAB_FARU:
     - [1632.0, 4435.0]
     unit:
     - [1583.0, 4470.0]
-  name: JAGAB_FARU
+  name: JAGAB FARU
   tiles: [431]
   type: land
-HISOST_YAMOK:
+HISOST YAMOK:
   ID: 432
   area: 23205
   edges:
-    army: [BERPARWEDEB, FEDONI, KOGGRAFFA, KOGZALLA, KVATHAGIS, SIMAHRIKA, YEZEL_MORA]
+    army: [BERPARWEDEB, FEDONI, KOGGRAFFA, KOGZALLA, KVATHAGIS, SIMAHRIKA, YEZEL MORA]
   locs:
     label:
     - [0, 0]
@@ -7136,15 +7167,15 @@ HISOST_YAMOK:
     - [1609.0, 5484.0]
     unit:
     - [1595.0, 5328.0]
-  name: HISOST_YAMOK
+  name: HISOST YAMOK
   tiles: [432]
   type: land
 ARAWKELIN:
   ID: 433
   area: 9485
   edges:
-    army: [BAIHON, JAYA_RAYA, KIUBANG, NON_CHIEN]
-    fleet: [BAIHON-sc, KHOM_SEA, KIUBANG, NON_CHIEN, WHITEWATER_SEA]
+    army: [BAIHON, JAYA RAYA, KIUBANG, NON CHIEN]
+    fleet: [BAIHON-sc, KHOM SEA, KIUBANG, NON CHIEN, WHITEWATER SEA]
   locs:
     label:
     - [0, 0]
@@ -7162,7 +7193,7 @@ FOJARA:
   ID: 434
   area: 12986
   edges:
-    army: [GOLUTZARR, JAGAB_FARU, JORRIKARR, KAINO_FEDERATION, MARIDS_DELTA, PORT_NARAWEN]
+    army: [GOLUTZARR, JAGAB FARU, JORRIKARR, KAINO FEDERATION, MARIDS DELTA, PORT NARAWEN]
   locs:
     label:
     - [0, 0]
@@ -7176,11 +7207,11 @@ FOJARA:
   sc: 1
   tiles: [434]
   type: land
-YEZEL_MORA:
+YEZEL MORA:
   ID: 435
   area: 32447
   edges:
-    army: [AKHANEKAS, DUWARKANI, HISOST_YAMOK, KAGDILGIR, KOGZALLA, KVATHAGIS, MAZEXHAD,
+    army: [AKHANEKAS, DUWARKANI, HISOST YAMOK, KAGDILGIR, KOGZALLA, KVATHAGIS, MAZEXHAD,
       ZERAT]
   locs:
     label:
@@ -7191,7 +7222,7 @@ YEZEL_MORA:
     - [1705.0, 5182.0]
     sc:
     - [1705.0, 5164.0]
-  name: YEZEL_MORA
+  name: YEZEL MORA
   sc: 1
   tiles: [435]
   type: land
@@ -7199,7 +7230,7 @@ DUWARKANI:
   ID: 436
   area: 13925
   edges:
-    army: [ARGAZEEN, HAKHEPRA, MAZEXHAD, SAMSUBAT, YEZEL_MORA, ZERAT]
+    army: [ARGAZEEN, HAKHEPRA, MAZEXHAD, SAMSUBAT, YEZEL MORA, ZERAT]
   locs:
     label:
     - [0, 0]
@@ -7210,11 +7241,11 @@ DUWARKANI:
   name: DUWARKANI
   tiles: [436]
   type: land
-KAINO_FEDERATION:
+KAINO FEDERATION:
   ID: 437
   area: 16874
   edges:
-    army: [ADARU, FOJARA, JANAMA, JORRIKARR, MARIDS_DELTA, TAMASADA]
+    army: [ADARU, FOJARA, JANAMA, JORRIKARR, MARIDS DELTA, TAMASADA]
   locs:
     label:
     - [0, 0]
@@ -7222,14 +7253,14 @@ KAINO_FEDERATION:
     - [1664.0, 4159.0]
     unit:
     - [1667.0, 4223.0]
-  name: KAINO_FEDERATION
+  name: KAINO FEDERATION
   tiles: [437]
   type: land
 SAMSUBAT:
   ID: 438
   area: 14372
   edges:
-    army: [ARGAZEEN, DUWARKANI, HAKHEPRA, KWATUBIS, MUZINGRAZI, UPPER_SORROW]
+    army: [ARGAZEEN, DUWARKANI, HAKHEPRA, KWATUBIS, MUZINGRAZI, UPPER SORROW]
   locs:
     label:
     - [0, 0]
@@ -7244,8 +7275,8 @@ OZGAR:
   ID: 439
   area: 46868
   edges:
-    army: [FAR_PLENTY, JIBIRAEN, MARUKHAN, URANCESTIR, YARUHOL]
-    fleet: [BAY_OF_RESPITE, CRATERDEEP, FAR_PLENTY, JIBIRAEN, MARUKHAN, SILVERTEN_PASS,
+    army: [FAR PLENTY, JIBIRAEN, MARUKHAN, URANCESTIR, YARUHOL]
+    fleet: [BAY OF RESPITE, CRATERDEEP, FAR PLENTY, JIBIRAEN, MARUKHAN, SILVERTEN PASS,
       YARUHOL]
   locs:
     label:
@@ -7260,12 +7291,12 @@ OZGAR:
   sc: 1
   tiles: [439]
   type: coast
-PORT_NARAWEN:
+PORT NARAWEN:
   ID: 440
   area: 11260
   edges:
-    army: [FOJARA, JAGAB_FARU, KUNOLO, MARIDS_DELTA]
-    fleet: [KUNOLO, KUNOLO_BAY, MARIDS_DELTA, TIBOKYUYE_POINT]
+    army: [FOJARA, JAGAB FARU, KUNOLO, MARIDS DELTA]
+    fleet: [KUNOLO, KUNOLO BAY, MARIDS DELTA, TIBOKYUYE POINT]
   locs:
     label:
     - [0, 0]
@@ -7275,7 +7306,7 @@ PORT_NARAWEN:
     - [1748.0, 4389.0]
     sc:
     - [1780.0, 4393.0]
-  name: PORT_NARAWEN
+  name: PORT NARAWEN
   sc: 1
   tiles: [440]
   type: coast
@@ -7298,7 +7329,7 @@ TAMASADA:
   ID: 442
   area: 4633
   edges:
-    army: [ADARU, GANIMEOR, GEMTREE, JANAMA, KAINO_FEDERATION, NAKOWICH]
+    army: [ADARU, GANIMEOR, GEMTREE, JANAMA, KAINO FEDERATION, NAKOWICH]
   locs:
     label:
     - [0, 0]
@@ -7313,7 +7344,7 @@ ADARU:
   ID: 443
   area: 6369
   edges:
-    army: [JENKO, KAINO_FEDERATION, MARIDS_DELTA, NAKOWICH, NINAK, REVERS, SELCOST,
+    army: [JENKO, KAINO FEDERATION, MARIDS DELTA, NAKOWICH, NINAK, REVERS, SELCOST,
       TAMASADA]
   locs:
     label:
@@ -7328,12 +7359,12 @@ ADARU:
   sc: 1
   tiles: [443]
   type: land
-MARIDS_DELTA:
+MARIDS DELTA:
   ID: 444
   area: 5928
   edges:
-    army: [ADARU, FOJARA, KAINO_FEDERATION, NINAK, PORT_NARAWEN]
-    fleet: [LATRAN, NINAK, PORT_NARAWEN, TIBOKYUYE_POINT]
+    army: [ADARU, FOJARA, KAINO FEDERATION, NINAK, PORT NARAWEN]
+    fleet: [LATRAN, NINAK, PORT NARAWEN, TIBOKYUYE POINT]
   locs:
     label:
     - [0, 0]
@@ -7343,7 +7374,7 @@ MARIDS_DELTA:
     - [1754.0, 4283.0]
     sc:
     - [1761.0, 4279.0]
-  name: MARIDS_DELTA
+  name: MARIDS DELTA
   sc: 1
   tiles: [444]
   type: coast
@@ -7352,7 +7383,7 @@ JIBIRAEN:
   area: 14223
   edges:
     army: [MARUKHAN, OZGAR]
-    fleet: [MARUKHAN, OZGAR, SILVERTEN_PASS]
+    fleet: [MARUKHAN, OZGAR, SILVERTEN PASS]
   locs:
     label:
     - [0, 0]
@@ -7368,7 +7399,7 @@ AMEZA:
   area: 1470
   edges:
     army: [KHAWIT, KUNOLO, KWATUBIS, ZUVAVIM]
-    fleet: [KUNOLO, KUNOLO_BAY, ZUVAVIM]
+    fleet: [KUNOLO, KUNOLO BAY, ZUVAVIM]
   locs:
     label:
     - [0, 0]
@@ -7399,7 +7430,7 @@ YARUHOL:
   area: 24585
   edges:
     army: [OZGAR, URANCESTIR]
-    fleet: [AMADIAN_PASS, BAY_OF_RESPITE, OZGAR, URANCESTIR]
+    fleet: [AMADIAN PASS, BAY OF RESPITE, OZGAR, URANCESTIR]
   locs:
     label:
     - [0, 0]
@@ -7448,7 +7479,7 @@ ZUVAVIM:
   area: 4916
   edges:
     army: [AMEZA, KWATUBIS, MUZINGRAZI, ZENA]
-    fleet: [AMEZA, KUNOLO_BAY, SAIKINOMAPASS, ZENA]
+    fleet: [AMEZA, KUNOLO BAY, SAIKINOMAPASS, ZENA]
   locs:
     label:
     - [0, 0]
@@ -7467,7 +7498,7 @@ SELCOST:
   area: 1384
   edges:
     army: [ADARU, JENKO, REVERS, WHITTINGTON]
-    fleet: [DAO_NAKO_COAST, LATRAN, REVERS, WHITTINGTON]
+    fleet: [DAO NAKO COAST, LATRAN, REVERS, WHITTINGTON]
   locs:
     label:
     - [0, 0]
@@ -7486,7 +7517,7 @@ URANCESTIR:
   area: 67915
   edges:
     army: [AMADIA, CYMBEAHN, MARUKHAN, OZGAR, SELPARURA, YARUHOL]
-    fleet: [AMADIA, AMADIAN_PASS, YARUHOL]
+    fleet: [AMADIA, AMADIAN PASS, YARUHOL]
   locs:
     label:
     - [0, 0]
@@ -7505,7 +7536,7 @@ MARUKHAN:
   area: 22863
   edges:
     army: [JIBIRAEN, OZGAR, SELPARURA, URANCESTIR]
-    fleet: [JIBIRAEN, LEECHDENS, OZGAR, SELPARURA, SILVERTEN_PASS]
+    fleet: [JIBIRAEN, LEECHDENS, OZGAR, SELPARURA, SILVERTEN PASS]
   locs:
     label:
     - [0, 0]
@@ -7523,8 +7554,8 @@ GOUFEINGONG:
   ID: 455
   area: 3324
   edges:
-    army: [JOENGHOENGGONG, THUNDER_WIELDING_BUFFALO, ZEDAHRIKA]
-    fleet: [COFFEE_COAST, JOENGHOENGGONG, LANUN_DEPTHS, ZEDAHRIKA]
+    army: [JOENGHOENGGONG, THUNDER WIELDING BUFFALO, ZEDAHRIKA]
+    fleet: [COFFEE COAST, JOENGHOENGGONG, LANUN DEPTHS, ZEDAHRIKA]
   locs:
     label:
     - [0, 0]
@@ -7543,9 +7574,9 @@ MAPONOSY:
   area: 7709
   edges:
     army: [IBIDINTELY, SAHANAFO]
-    fleet: 
-      nc: [IBIDINTELY-nc, KUNOLO_BAY, SAHANAFO, SAIKINOMAPASS]
-      sc: [IBIDINTELY-sc, SAHANAFO, SARHALY_APPROACH]
+    fleet:
+      nc: [IBIDINTELY-nc, KUNOLO BAY, SAHANAFO, SAIKINOMAPASS]
+      sc: [IBIDINTELY-sc, SAHANAFO, SARHALY APPROACH]
   locs:
     label:
     - [0, 0]
@@ -7553,15 +7584,20 @@ MAPONOSY:
     - [1896.0, 4518.0]
     unit:
     - [1934.0, 4499.0]
+    coast-unit:
+      nc:
+      - [1904.0, 4499.0]
+      sc:
+      - [1964.0, 4499.0]
   name: MAPONOSY
   tiles: [456]
   type: coast
-THUNDER_WIELDING_BUFFALO:
+THUNDER WIELDING BUFFALO:
   ID: 457
   area: 27637
   edges:
-    army: [GOUFEINGONG, JOENGHOENGGONG, KASHYZIR, KREKDEKEI, SKY_SOARING_EAGLE, ZEDAHRIKA]
-    fleet: [CAYDHSADDE_SEA, JOENGHOENGGONG, KASHYZIR, KEDWALI_GULF, SHORES_OF_OLD_DJINNAKAH]
+    army: [GOUFEINGONG, JOENGHOENGGONG, KASHYZIR, KREKDEKEI, SKY SOARING EAGLE, ZEDAHRIKA]
+    fleet: [CAYDHSADDE SEA, JOENGHOENGGONG, KASHYZIR, KEDWALI GULF, SHORES OF OLD DJINNAKAH]
   locs:
     label:
     - [0, 0]
@@ -7569,7 +7605,7 @@ THUNDER_WIELDING_BUFFALO:
     - [1976.0, 5587.0]
     unit:
     - [1957.0, 5649.0]
-  name: THUNDER_WIELDING_BUFFALO
+  name: THUNDER WIELDING BUFFALO
   tiles: [457]
   type: coast
 TAZAS:
@@ -7591,8 +7627,8 @@ JOENGHOENGGONG:
   ID: 459
   area: 3341
   edges:
-    army: [GOUFEINGONG, THUNDER_WIELDING_BUFFALO]
-    fleet: [CAYDHSADDE_SEA, COFFEE_COAST, GOUFEINGONG, THUNDER_WIELDING_BUFFALO]
+    army: [GOUFEINGONG, THUNDER WIELDING BUFFALO]
+    fleet: [CAYDHSADDE SEA, COFFEE COAST, GOUFEINGONG, THUNDER WIELDING BUFFALO]
   locs:
     label:
     - [0, 0]
@@ -7610,7 +7646,7 @@ ADZALAN:
   ID: 460
   area: 12080
   edges:
-    army: [KAGDILGIR, KASHYZIR, KVATHAGIS, SKY_SOARING_EAGLE, TAZAS]
+    army: [KAGDILGIR, KASHYZIR, KVATHAGIS, SKY SOARING EAGLE, TAZAS]
   locs:
     label:
     - [0, 0]
@@ -7626,7 +7662,7 @@ KARSHYR:
   area: 17490
   edges:
     army: [AMIRI, KATARITSAYA, RAYAZAS, ZERAT]
-    fleet: [AMIRI, KATARITSAYA, KATESH_WATERS, SEA_OF_LEL]
+    fleet: [AMIRI, KATARITSAYA, KATESH WATERS, SEA OF LEL]
   locs:
     label:
     - [0, 0]
@@ -7642,8 +7678,8 @@ AMADIA:
   area: 69678
   edges:
     army: [CYMBEAHN, URANCESTIR]
-    fleet: [AMADIAN_PASS, CLEAVED_SEAS_DEPARTURE, CYMBEAHN, KAYDHANO_GULF, MATNI_SEA,
-      THENON_CURRENT, URANCESTIR]
+    fleet: [AMADIAN PASS, CLEAVED SEAS DEPARTURE, CYMBEAHN, KAYDHANO GULF, MATNI SEA,
+      THENON CURRENT, URANCESTIR]
   locs:
     label:
     - [0, 0]
@@ -7659,7 +7695,7 @@ KATARITSAYA:
   area: 15553
   edges:
     army: [AKHANEKAS, KARSHYR, NAZHNI, RAYAZAS, TAZAS]
-    fleet: [KARSHYR, KATESH_WATERS, NAZHNI]
+    fleet: [KARSHYR, KATESH WATERS, NAZHNI]
   locs:
     label:
     - [0, 0]
@@ -7674,9 +7710,9 @@ KASHYZIR:
   ID: 464
   area: 27873
   edges:
-    army: [ADZALAN, ASHAMADIAT, NAZHNI, QASRI_UBAKHIYO, SKY_SOARING_EAGLE, TAZAS,
-      THUNDER_WIELDING_BUFFALO]
-    fleet: [KEDWALI_GULF, QASRI_UBAKHIYO, THUNDER_WIELDING_BUFFALO]
+    army: [ADZALAN, ASHAMADIAT, NAZHNI, QASRI UBAKHIYO, SKY SOARING EAGLE, TAZAS,
+      THUNDER WIELDING BUFFALO]
+    fleet: [KEDWALI GULF, QASRI UBAKHIYO, THUNDER WIELDING BUFFALO]
   locs:
     label:
     - [0, 0]
@@ -7692,14 +7728,19 @@ IBIDINTELY:
   area: 7822
   edges:
     army: [ANAQNILTRA, MAPONOSY]
-    fleet: 
-      nc: [ANAQNILTRA, MAPONOSY-nc, SAIKINOMAPASS, SEA_OF_LEL]
-      sc: [ANAQNILTRA, MAPONOSY-sc, SARHALY_APPROACH, WET_DOG_SEA]
+    fleet:
+      nc: [ANAQNILTRA, MAPONOSY-nc, SAIKINOMAPASS, SEA OF LEL]
+      sc: [ANAQNILTRA, MAPONOSY-sc, SARHALY APPROACH, WET DOG SEA]
   locs:
     label:
     - [0, 0]
     retreat:
     - [1992.0, 4547.0]
+    coast-unit:
+      nc:
+      - [2036.0, 4601.0]
+      sc:
+      - [2036.0, 4601.0]
     unit:
     - [2036.0, 4601.0]
     sc:
@@ -7713,7 +7754,7 @@ NAZHNI:
   area: 17229
   edges:
     army: [ASHAMADIAT, KASHYZIR, KATARITSAYA, TAZAS]
-    fleet: [ASHAMADIAT, KATARITSAYA, KATESH_WATERS, LESSER_LAMENT]
+    fleet: [ASHAMADIAT, KATARITSAYA, KATESH WATERS, LESSER LAMENT]
   locs:
     label:
     - [0, 0]
@@ -7731,7 +7772,7 @@ SELPARURA:
   ID: 467
   area: 54741
   edges:
-    army: [CYMBEAHN, EAST_EFFELAI, ENLARMAI, MARUKHAN, SORFEN, URANCESTIR]
+    army: [CYMBEAHN, EAST EFFELAI, ENLARMAI, MARUKHAN, SORFEN, URANCESTIR]
     fleet: [LEECHDENS, MARUKHAN, SORFEN]
   locs:
     label:
@@ -7748,7 +7789,7 @@ ANAQNILTRA:
   area: 8875
   edges:
     army: [IBIDINTELY, TERAMZADAI]
-    fleet: [IBIDINTELY-nc, IBIDINTELY-sc, KATESH_WATERS, SEA_OF_LEL, TERAMZADAI, WET_DOG_SEA]
+    fleet: [IBIDINTELY-nc, IBIDINTELY-sc, KATESH WATERS, SEA OF LEL, TERAMZADAI, WET DOG SEA]
   locs:
     label:
     - [0, 0]
@@ -7766,8 +7807,8 @@ HORTOSARE:
   ID: 469
   area: 17863
   edges:
-    army: [ARDIM_OARAST, ARMANHAL, TAGTO, VUMBKAUVA]
-    fleet: [ARDIM_OARAST, SHORES_OF_OLD_DJINNAKAH, VUMBKAUVA]
+    army: [ARDIM OARAST, ARMANHAL, TAGTO, VUMBKAUVA]
+    fleet: [ARDIM OARAST, SHORES OF OLD DJINNAKAH, VUMBKAUVA]
   locs:
     label:
     - [0, 0]
@@ -7786,7 +7827,7 @@ CYMBEAHN:
   area: 76480
   edges:
     army: [AMADIA, CLEMATAR, ENLARMAI, SELPARURA, URANCESTIR]
-    fleet: [AMADIA, KAYDHANO_GULF]
+    fleet: [AMADIA, KAYDHANO GULF]
   locs:
     label:
     - [0, 0]
@@ -7800,7 +7841,7 @@ CYMBEAHN:
   sc: 1
   tiles: [470]
   type: coast
-EAST_EFFELAI:
+EAST EFFELAI:
   ID: 471
   area: 51042
   edges:
@@ -7812,7 +7853,7 @@ EAST_EFFELAI:
     - [2195.0, 2414.0]
     unit:
     - [2184.0, 2489.0]
-  name: EAST_EFFELAI
+  name: EAST EFFELAI
   tiles: [471]
   type: land
 DRAKESGUARD:
@@ -7820,7 +7861,7 @@ DRAKESGUARD:
   area: 8521
   edges:
     army: [DALAINE, KIOHALEN, THAMUSAND, THAVOI]
-    fleet: [DALAINE, KIOHALEN, LAIS_APPREACH, SINGERS_COAST, THAMUSAND]
+    fleet: [DALAINE, KIOHALEN, LAIS APPREACH, SINGERS COAST, THAMUSAND]
   locs:
     label:
     - [0, 0]
@@ -7831,11 +7872,12 @@ DRAKESGUARD:
   name: DRAKESGUARD
   tiles: [472]
   type: coast
-SIL_BERKHEN_LAND:
+SIL BERKHEN LAND:
   ID: 473
   area: 7144
   edges:
-    fleet: [ISLANDERS_ROUTE, SARHALY_APPROACH, SEA_OF_STEAM, VOYAGERS_PATH]
+    fleet: [ISLANDERS ROUTE, SARHALY APPROACH, SEA OF STEAM, VOYAGERS PATH]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -7845,7 +7887,7 @@ SIL_BERKHEN_LAND:
     - [2311.0, 4031.0]
     sc:
     - [2289.0, 4082.0]
-  name: SIL_BERKHEN_LAND
+  name: SIL BERKHEN LAND
   sc: 1
   tiles: [473]
   type: coast
@@ -7853,7 +7895,7 @@ THAVOI:
   ID: 474
   area: 39715
   edges:
-    army: [DALAINE, DRAKESGUARD, EAST_EFFELAI, KIOHALEN, REZANKAZ, SENAINE]
+    army: [DALAINE, DRAKESGUARD, EAST EFFELAI, KIOHALEN, REZANKAZ, SENAINE]
   locs:
     label:
     - [0, 0]
@@ -7864,12 +7906,12 @@ THAVOI:
   name: THAVOI
   tiles: [474]
   type: land
-ARDIM_OARAST:
+ARDIM OARAST:
   ID: 475
   area: 23704
   edges:
-    army: [ARDMIYAN_REPUBLIC, ARMANHAL, HORTOSARE, MAGAALAD_QASR]
-    fleet: [BIYOAQOON_SEA, HORTOSARE, MAGAALAD_QASR, SHORES_OF_OLD_DJINNAKAH]
+    army: [ARDMIYAN REPUBLIC, ARMANHAL, HORTOSARE, MAGAALAD QASR]
+    fleet: [BIYOAQOON SEA, HORTOSARE, MAGAALAD QASR, SHORES OF OLD DJINNAKAH]
   locs:
     label:
     - [0, 0]
@@ -7879,7 +7921,7 @@ ARDIM_OARAST:
     - [2323.0, 5682.0]
     sc:
     - [2255.0, 5663.0]
-  name: ARDIM_OARAST
+  name: ARDIM OARAST
   sc: 1
   tiles: [475]
   type: coast
@@ -7888,7 +7930,7 @@ KIOHALEN:
   area: 34275
   edges:
     army: [DRAKESGUARD, REZANKAZ, THAVOI]
-    fleet: [DRAKESGUARD, RADIANT_STRAITS, REZANKAZ, SINGERS_COAST, SURAELS_RESPITE,
+    fleet: [DRAKESGUARD, RADIANT STRAITS, REZANKAZ, SINGERS COAST, SURAELS RESPITE,
       TAILSIGHT]
   locs:
     label:
@@ -7907,7 +7949,7 @@ ENLARMAI:
   ID: 477
   area: 32755
   edges:
-    army: [CAERGARAEN, CLEMATAR, CYMBEAHN, DARMAZ, EASTERN_TAYCHEND, EAST_EFFELAI,
+    army: [CAERGARAEN, CLEMATAR, CYMBEAHN, DARMAZ, EASTERN TAYCHEND, EAST EFFELAI,
       SELPARURA]
   locs:
     label:
@@ -7926,8 +7968,8 @@ DARMAZ:
   ID: 478
   area: 26015
   edges:
-    army: [EASTERN_TAYCHEND, EAST_EFFELAI, ENLARMAI, REZANKAZ]
-    fleet: [EASTERN_TAYCHEND, REZANKAZ, SURAELS_RESPITE]
+    army: [EASTERN TAYCHEND, EAST EFFELAI, ENLARMAI, REZANKAZ]
+    fleet: [EASTERN TAYCHEND, REZANKAZ, SURAELS RESPITE]
   locs:
     label:
     - [0, 0]
@@ -7945,8 +7987,8 @@ REZANKAZ:
   ID: 479
   area: 22388
   edges:
-    army: [DARMAZ, EAST_EFFELAI, KIOHALEN, THAVOI]
-    fleet: [DARMAZ, KIOHALEN, SURAELS_RESPITE]
+    army: [DARMAZ, EAST EFFELAI, KIOHALEN, THAVOI]
+    fleet: [DARMAZ, KIOHALEN, SURAELS RESPITE]
   locs:
     label:
     - [0, 0]
@@ -7964,7 +8006,7 @@ CLEMATAR:
   ID: 480
   area: 28473
   edges:
-    army: [CAERGARAEN, CYMBEAHN, ENLARMAI, PITHION, UPPER_CHENDYA]
+    army: [CAERGARAEN, CYMBEAHN, ENLARMAI, PITHION, UPPER CHENDYA]
   locs:
     label:
     - [0, 0]
@@ -7975,12 +8017,12 @@ CLEMATAR:
   name: CLEMATAR
   tiles: [480]
   type: land
-EASTERN_TAYCHEND:
+EASTERN TAYCHEND:
   ID: 481
   area: 51129
   edges:
     army: [CAERGARAEN, DARMAZ, DEGITHION, ENLARMAI, KLERECHEND, SOTEREION]
-    fleet: [DARMAZ, DEGITHION, KILA_TORAM, SURAELS_RESPITE]
+    fleet: [DARMAZ, DEGITHION, KILA TORAM, SURAELS RESPITE]
   locs:
     label:
     - [0, 0]
@@ -7988,16 +8030,16 @@ EASTERN_TAYCHEND:
     - [2449.0, 2387.0]
     unit:
     - [2498.0, 2309.0]
-  name: EASTERN_TAYCHEND
+  name: EASTERN TAYCHEND
   tiles: [481]
   type: coast
-ARDMIYAN_REPUBLIC:
+ARDMIYAN REPUBLIC:
   ID: 482
   area: 83575
   edges:
-    army: [ARDIM_OARAST, ARMANHAL, MAGAALAD_QASR]
-    fleet: [ARMANHAL, KAUVABIYO_COAST, MAGAALAD_QASR, OOL1, OOL2, OOL3, OOL4, THAWS_END,
-      WORSTYEAR_SEA]
+    army: [ARDIM OARAST, ARMANHAL, MAGAALAD QASR]
+    fleet: [ARMANHAL, KAUVABIYO COAST, MAGAALAD QASR, OOL1, OOL2, OOL3, OOL4, THAWS END,
+      WORSTYEAR SEA]
   locs:
     label:
     - [0, 0]
@@ -8005,14 +8047,14 @@ ARDMIYAN_REPUBLIC:
     - [2536.0, 5877.0]
     unit:
     - [2548.0, 5768.0]
-  name: ARDMIYAN_REPUBLIC
+  name: ARDMIYAN REPUBLIC
   tiles: [482]
   type: coast
 CAERGARAEN:
   ID: 483
   area: 38787
   edges:
-    army: [AMEION, CLEMATAR, EASTERN_TAYCHEND, ENLARMAI, IPPAROGA, KLERECHEND, UPPER_CHENDYA]
+    army: [AMEION, CLEMATAR, EASTERN TAYCHEND, ENLARMAI, IPPAROGA, KLERECHEND, UPPER CHENDYA]
   locs:
     label:
     - [0, 0]
@@ -8027,8 +8069,8 @@ OKTIKHEION:
   ID: 484
   area: 9165
   edges:
-    army: [ANISIGO, DEGAKHEION, KHEIOS_MOUNTAINS, IKAN]
-    fleet: [ANISIGO, CLEAVED_SEAS_DEPARTURE, DEGAKHEION, IKAN]
+    army: [ANISIGO, DEGAKHEION, KHEIOS MOUNTAINS, IKAN]
+    fleet: [ANISIGO, CLEAVED SEAS DEPARTURE, DEGAKHEION, IKAN]
   locs:
     label:
     - [0, 0]
@@ -8046,8 +8088,8 @@ IKAN:
   ID: 485
   area: 9103
   edges:
-    army: [KHEIOS_MOUNTAINS, OKTIKHEION, URARTOLA]
-    fleet: [CLEAVED_SEAS_DEPARTURE, OKTIKHEION, THENON_CURRENT, URARTOLA]
+    army: [KHEIOS MOUNTAINS, OKTIKHEION, URARTOLA]
+    fleet: [CLEAVED SEAS DEPARTURE, OKTIKHEION, THENON CURRENT, URARTOLA]
   locs:
     label:
     - [0, 0]
@@ -8058,7 +8100,7 @@ IKAN:
   name: IKAN
   tiles: [485]
   type: coast
-UPPER_CHENDYA:
+UPPER CHENDYA:
   ID: 486
   area: 9861
   edges:
@@ -8070,7 +8112,7 @@ UPPER_CHENDYA:
     - [2552.0, 1889.0]
     unit:
     - [2592.0, 1870.0]
-  name: UPPER_CHENDYA
+  name: UPPER CHENDYA
   tiles: [486]
   type: land
 GREENCREST:
@@ -8078,7 +8120,7 @@ GREENCREST:
   area: 20107
   edges:
     army: [TIMBERNECK]
-    fleet: [COAST_OF_TIMBER, RADIANT_STRAITS, SUNSHADE_BAY, TIMBERNECK]
+    fleet: [COAST OF TIMBER, RADIANT STRAITS, SUNSHADE BAY, TIMBERNECK]
   locs:
     label:
     - [0, 0]
@@ -8089,7 +8131,7 @@ GREENCREST:
   name: GREENCREST
   tiles: [487]
   type: coast
-KHEIOS_MOUNTAINS:
+KHEIOS MOUNTAINS:
   ID: 488
   area: 7989
   edges:
@@ -8101,15 +8143,15 @@ KHEIOS_MOUNTAINS:
     - [2638.0, 1307.0]
     unit:
     - [2601.0, 1336.0]
-  name: KHEIOS_MOUNTAINS
+  name: KHEIOS MOUNTAINS
   tiles: [488]
   type: land
 DEGAKHEION:
   ID: 489
   area: 12684
   edges:
-    army: [ANISIGO, ANISKHEION, KHEIOS_MOUNTAINS, OKTIKHEION, URARTOLA, VOTHELISI]
-    fleet: [ANISIGO, ANISKHEION, CANTISH_SEA, OKTIKHEION, URARTOLA, VOTHELISI]
+    army: [ANISIGO, ANISKHEION, KHEIOS MOUNTAINS, OKTIKHEION, URARTOLA, VOTHELISI]
+    fleet: [ANISIGO, ANISKHEION, CANTISH SEA, OKTIKHEION, URARTOLA, VOTHELISI]
   locs:
     label:
     - [0, 0]
@@ -8127,8 +8169,8 @@ KLERECHEND:
   ID: 490
   area: 6099
   edges:
-    army: [CAERGARAEN, EASTERN_TAYCHEND, IPPAROGA, SOTEREION]
-    fleet: [IPPAROGA, SOTEREION, YUSSAM_SEA]
+    army: [CAERGARAEN, EASTERN TAYCHEND, IPPAROGA, SOTEREION]
+    fleet: [IPPAROGA, SOTEREION, VUSSAM SEA]
   locs:
     label:
     - [0, 0]
@@ -8143,8 +8185,8 @@ DEGITHION:
   ID: 491
   area: 3854
   edges:
-    army: [AKR, EASTERN_TAYCHEND, OK, SOTEREION]
-    fleet: [AKR, EASTERN_TAYCHEND, KILA_TORAM, OK]
+    army: [AKR, EASTERN TAYCHEND, OK, SOTEREION]
+    fleet: [AKR, EASTERN TAYCHEND, KILA TORAM, OK]
   locs:
     label:
     - [0, 0]
@@ -8163,7 +8205,7 @@ ENEION:
   area: 20035
   edges:
     army: [ANISKHEION, DEYEION, MTEIBHARA, PITHION]
-    fleet: [ANISKHEION, CANTISH_SEA, DEYEION, PITHION]
+    fleet: [ANISKHEION, CANTISH SEA, DEYEION, PITHION]
   locs:
     label:
     - [0, 0]
@@ -8181,7 +8223,7 @@ MTEIBHARA:
   ID: 493
   area: 29875
   edges:
-    army: [AMEION, DEYEION, ENEION, PITHION, UPPER_CHENDYA]
+    army: [AMEION, DEYEION, ENEION, PITHION, UPPER CHENDYA]
   locs:
     label:
     - [0, 0]
@@ -8197,7 +8239,7 @@ TIMBERNECK:
   area: 14902
   edges:
     army: [GREENCREST]
-    fleet: [COAST_OF_TIMBER, GREENCREST, KILA_TORAM, SUNSHADE_BAY, THEKVRYS_EDGE]
+    fleet: [COAST OF TIMBER, GREENCREST, KILA TORAM, SUNSHADE BAY, THEKVRYS EDGE]
   locs:
     label:
     - [0, 0]
@@ -8215,8 +8257,8 @@ URARTOLA:
   ID: 495
   area: 9038
   edges:
-    army: [DEGAKHEION, KHEIOS_MOUNTAINS, IKAN]
-    fleet: [CANTISH_SEA, DEGAKHEION, IKAN, OOL1, OOL2, OOL3, OOL4, THENON_CURRENT]
+    army: [DEGAKHEION, KHEIOS MOUNTAINS, IKAN]
+    fleet: [CANTISH SEA, DEGAKHEION, IKAN, OOL1, OOL2, OOL3, OOL4, THENON CURRENT]
   locs:
     label:
     - [0, 0]
@@ -8235,7 +8277,7 @@ DEYEION:
   area: 23984
   edges:
     army: [AMEION, ENEION, MTEIBHARA]
-    fleet: [AMEION, CANTISH_SEA, ENEION, THE_PASSAGE]
+    fleet: [AMEION, CANTISH SEA, ENEION, THE PASSAGE]
   locs:
     label:
     - [0, 0]
@@ -8253,7 +8295,8 @@ JERKHAZUURA:
   ID: 497
   area: 37218
   edges:
-    fleet: [ALKHOGAADYN_EXPANSE, OOL1, OOL2, OOL3, OOL4, WIDOWS_SEA]
+    fleet: [ALKHOGAADYN EXPANSE, OOL1, OOL2, OOL3, OOL4, WIDOWS SEA]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -8271,7 +8314,8 @@ NYHOFN:
   ID: 498
   area: 19130
   edges:
-    fleet: [BROKEN_SEA, FJORDWASH, NORTHERN_OCEAN, NORTHERN_THAW]
+    fleet: [BROKEN SEA, FJORDWASH, NORTHERN OCEAN, NORTHERN THAW]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -8285,11 +8329,12 @@ NYHOFN:
   sc: 1
   tiles: [498]
   type: coast
-LONELY_ISLE:
+LONELY ISLE:
   ID: 499
   area: 5488
   edges:
-    fleet: [LONELY_FAR_LANE, NIMSCODD_SEA, NORTHERN_OCEAN, NORTHERN_THAW]
+    fleet: [LONELY FAR LANE, NIMSCODD SEA, NORTHERN OCEAN, NORTHERN THAW]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -8299,15 +8344,16 @@ LONELY_ISLE:
     - [386.0, 3284.0]
     sc:
     - [376.0, 3288.0]
-  name: LONELY_ISLE
+  name: LONELY ISLE
   sc: 1
   tiles: [499]
   type: coast
-FORLORN_ISLE:
+FORLORN ISLE:
   ID: 500
   area: 10374
   edges:
-    fleet: [COLDSWELLS, ICEBERG_ALLEY, LONELY_FAR_LANE]
+    fleet: [COLDSWELLS, ICEBERG ALLEY, LONELY FAR LANE]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -8317,15 +8363,16 @@ FORLORN_ISLE:
     - [550.0, 2611.0]
     sc:
     - [536.0, 2606.0]
-  name: FORLORN_ISLE
+  name: FORLORN ISLE
   sc: 1
   tiles: [500]
   type: coast
-FAR_ISLE:
+FAR ISLE:
   ID: 501
   area: 2199
   edges:
-    fleet: [EXPANSE_SEA, LONELY_FAR_LANE, WESTCOAST]
+    fleet: [EXPANSE SEA, LONELY FAR LANE, WESTCOAST]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -8335,7 +8382,7 @@ FAR_ISLE:
     - [706.0, 3467.0]
     sc:
     - [706.0, 3452.0]
-  name: FAR_ISLE
+  name: FAR ISLE
   sc: 1
   tiles: [501]
   type: coast
@@ -8344,6 +8391,7 @@ EINNSAG:
   area: 2245
   edges:
     fleet: [FOGHARABH, OOL1, OOL2, OOL3, OOL4, SARMADFAR]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -8361,7 +8409,8 @@ SILSENAIRE:
   ID: 503
   area: 8808
   edges:
-    fleet: [FAR_EXPANSE, SILSENSALD_SEA]
+    fleet: [FAR EXPANSE, SILSENSALD SEA]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -8379,7 +8428,8 @@ LASTSIGHT:
   ID: 504
   area: 7077
   edges:
-    fleet: [DEVILS_TRIDENT_SEA, EDILLIONS_RELIEF, EXPANSE_SEA, REMNANT_SEA]
+    fleet: [DEVILS TRIDENT SEA, EDILLIONS RELIEF, EXPANSE SEA, REMNANT SEA]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -8393,12 +8443,12 @@ LASTSIGHT:
   sc: 1
   tiles: [504]
   type: coast
-CONCORD_POINT:
+CONCORD POINT:
   ID: 505
   area: 8893
   edges:
-    army: [BRIDGEWAY, SOUTH_MARRLIANDE, VALORPOINT]
-    fleet: [BLOODGROVES_COAST, BRIDGEWAY, CHARMED_SEA, GRAXILZIN_SEA, SOUTH_MARRLIANDE,
+    army: [BRIDGEWAY, SOUTH MARRLIANDE, VALORPOINT]
+    fleet: [BLOODGROVES COAST, BRIDGEWAY, CHARMED SEA, GRAXILZIN SEA, SOUTH MARRLIANDE,
       TROLLSBAY, VALORPOINT]
   locs:
     label:
@@ -8409,15 +8459,16 @@ CONCORD_POINT:
     - [1083.0, 1850.0]
     sc:
     - [1049.0, 1840.0]
-  name: CONCORD_POINT
+  name: CONCORD POINT
   sc: 1
   tiles: [505]
   type: coast
-EOR_ISLANDS:
+EOR ISLANDS:
   ID: 506
   area: 19192
   edges:
-    fleet: [GULF_OF_NEANAANI, OOL1, OOL2, OOL3, OOL4, SARMADFAR, SEA_OF_SILENCE]
+    fleet: [GULF OF NEANAANI, OOL1, OOL2, OOL3, OOL4, SARMADFAR, SEA OF SILENCE]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -8427,15 +8478,16 @@ EOR_ISLANDS:
     - [1256.0, 524.0]
     sc:
     - [1212.0, 589.0]
-  name: EOR_ISLANDS
+  name: EOR ISLANDS
   sc: 1
   tiles: [506]
   type: coast
-NORTH_WANDERER:
+NORTH WANDERER:
   ID: 507
   area: 5160
   edges:
-    fleet: [CORSAIR_REACHES, DEVILS_TRIDENT_SEA, FADHOBAITH, POINTSIGHT]
+    fleet: [EKHANI TIP, DEVILS TRIDENT SEA, FADHOBAITH, POINTSIGHT]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -8443,14 +8495,15 @@ NORTH_WANDERER:
     - [1348.0, 3494.0]
     unit:
     - [1368.0, 3467.0]
-  name: NORTH_WANDERER
+  name: NORTH WANDERER
   tiles: [507]
   type: coast
 PAWPRINT:
   ID: 508
   area: 7384
   edges:
-    fleet: [CORSAIR_REACHES, POINTSIGHT, SANDSPITE_GULF]
+    fleet: [EKHANI TIP, POINTSIGHT, SANDSPITE GULF]
+    army: [FORCE DISBAND]
   locs:
     label:
     - [0, 0]
@@ -8469,7 +8522,7 @@ THAMUSAND:
   area: 7460
   edges:
     army: [DRAKESGUARD]
-    fleet: [DRAKESGUARD, LAIS_APPREACH, SEA_OF_WRECKAGES, SINGERS_COAST, VINE_CURRENT]
+    fleet: [DRAKESGUARD, LAIS APPREACH, SEA OF WRECKAGES, SINGERS COAST, VINE CURRENT]
   locs:
     label:
     - [0, 0]
@@ -8488,8 +8541,8 @@ TERAMZADAI:
   area: 51546
   edges:
     army: [ANAQNILTRA]
-    fleet: [ANAQNILTRA, KATESH_WATERS, LESSER_LAMENT, VOYAGERS_PATH, WET_DOG_SEA,
-      WORSTYEAR_SEA]
+    fleet: [ANAQNILTRA, KATESH WATERS, LESSER LAMENT, VOYAGERS PATH, WET DOG SEA,
+      WORSTYEAR SEA]
   locs:
     label:
     - [0, 0]
@@ -8507,8 +8560,8 @@ VOTHELISI:
   ID: 511
   area: 12798
   edges:
-    army: [ANISIGO, ANISKHEION, DEGAKHEION, ENPKEIOS]
-    fleet: [ANISIGO, ANISKHEION, DEGAKHEION, ENPKEIOS]
+    army: [ANISIGO, ANISKHEION, DEGAKHEION, EMPKEIOS]
+    fleet: [ANISIGO, ANISKHEION, DEGAKHEION, EMPKEIOS]
   locs:
     label:
     - [0, 0]
@@ -8523,8 +8576,8 @@ ANISKHEION:
   ID: 512
   area: 30501
   edges:
-    army: [DEGAKHEION, ENEION, ENPKEIOS, PITHION, VOTHELISI]
-    fleet: [CANTISH_SEA, DEGAKHEION, ENEION, ENPKEIOS, PITHION, VOTHELISI]
+    army: [DEGAKHEION, ENEION, EMPKEIOS, PITHION, VOTHELISI]
+    fleet: [CANTISH SEA, DEGAKHEION, ENEION, EMPKEIOS, PITHION, VOTHELISI]
   locs:
     label:
     - [0, 0]
@@ -8535,12 +8588,12 @@ ANISKHEION:
   name: ANISKHEION
   tiles: [512]
   type: coast
-NUR_TEL:
+NUR TEL:
   ID: 513
   area: 52303
   edges:
     army: [TROPAICOST]
-    fleet: [CHARMED_SEA, CRATERDEEP, GRAXILZIN_SEA, TROPAICOST, WANDERERS_SEA]
+    fleet: [CHARMED SEA, CRATERDEEP, GRAXILZIN SEA, TROPAICOST, WANDERERS SEA]
   locs:
     label:
     - [0, 0]
@@ -8550,7 +8603,7 @@ NUR_TEL:
     - [1284.0, 2114.0]
     sc:
     - [1217.0, 2132.0]
-  name: NUR_TEL
+  name: NUR TEL
   sc: 1
   tiles: [513]
   type: coast
@@ -8558,8 +8611,8 @@ TROPAICOST:
   ID: 514
   area: 23755
   edges:
-    army: [ISLES_OF_PLENTY, NUR_TEL]
-    fleet: [CHARMED_SEA, CRATERDEEP, ISLES_OF_PLENTY, NUR_TEL]
+    army: [ISLES OF PLENTY, NUR TEL]
+    fleet: [CHARMED SEA, CRATERDEEP, ISLES OF PLENTY, NUR TEL]
   locs:
     label:
     - [0, 0]
@@ -8577,9 +8630,9 @@ KIUBANG:
   ID: 515
   area: 32297
   edges:
-    army: [ARAWKELIN, GINHYUT, NON_CHIEN, PANHENAW]
-    fleet: [ARAWKELIN, BINHRUNG_COAST, EAST_RINGLET_SEA, GINHYUT, NON_CHIEN, PANHENAW,
-      WHITEWATER_SEA]
+    army: [ARAWKELIN, GINHYUT, NON CHIEN, PANHENAW]
+    fleet: [ARAWKELIN, BINHRUNG COAST, EAST RINGLET SEA, GINHYUT, NON CHIEN, PANHENAW,
+      WHITEWATER SEA]
   locs:
     label:
     - [0, 0]
@@ -8594,7 +8647,8 @@ BRISTAILEAN:
   ID: 516
   area: 6643
   edges:
-    fleet: [MATNI_SEA, SHATTERED_ISLANDS, TORN_SEA]
+    army: [SHATTERED ISLANDS]
+    fleet: [MATNI SEA, SHATTERED ISLANDS, TORN SEA]
   locs:
     label:
     - [0, 0]
@@ -8612,8 +8666,8 @@ GITINALAS:
   ID: 517
   area: 21739
   edges:
-    army: [CRESCENT_LINE, GINHYUT, PANHENAW]
-    fleet: [CRESCENT_LINE, EAST_RINGLET_SEA, GINHYUT, NORTH_ARDMIYAN_SEA, PANHENAW]
+    army: [CRESCENT LINE, GINHYUT, PANHENAW]
+    fleet: [CRESCENT LINE, EAST RINGLET SEA, GINHYUT, NORTH ARDMIYAN SEA, PANHENAW]
   locs:
     label:
     - [0, 0]
@@ -8632,7 +8686,7 @@ ANISIGO:
   area: 12508
   edges:
     army: [DEGAKHEION, OKTIKHEION, VOTHELISI]
-    fleet: [CLEAVED_SEAS_DEPARTURE, DEGAKHEION, KAYDHANO_GULF, OKTIKHEION, VOTHELISI]
+    fleet: [CLEAVED SEAS DEPARTURE, DEGAKHEION, KAYDHANO GULF, OKTIKHEION, VOTHELISI]
   locs:
     label:
     - [0, 0]
@@ -8650,8 +8704,8 @@ SJAVARRUST:
   ID: 519
   area: 34796
   edges:
-    army: [BURNT_THICKET, DERHILDIA, HEHADEDPAR, OLLORLAND, TRITHEMAR]
-    fleet: [BROKEN_SEA, DERHILDIA-nc, FJORDWASH, HEHADEDPAR, TRITHEMAR]
+    army: [BURNT THICKET, DERHILDIA, HEHADEDPAR, OLLORLAND, TRITHEMAR]
+    fleet: [BROKEN SEA, DERHILDIA-nc, FJORDWASH, HEHADEDPAR, TRITHEMAR]
   locs:
     label:
     - [0, 0]
@@ -8666,10 +8720,10 @@ DERHILDIA:
   ID: 520
   area: 13679
   edges:
-    army: [FJELSTRON, NOO_ODDANSBAY, OLLORLAND, SJAVARRUST, VOTSEND]
-    fleet: 
+    army: [FJELSTRON, NOO ODDANSBAY, OLLORLAND, SJAVARRUST, VOTSEND]
+    fleet:
       nc: [FJORDWASH, SJAVARRUST, VOTSEND]
-      sc: [FJELSTRON, FJORDWASH, ICEBERG_ALLEY, VOTSEND]
+      sc: [FJELSTRON, FJORDWASH, ICEBERG ALLEY, VOTSEND]
   locs:
     label:
     - [0, 0]
@@ -8680,12 +8734,12 @@ DERHILDIA:
   name: DERHILDIA
   tiles: [520]
   type: coast
-NOO_CODORRAN:
+NOO CODORRAN:
   ID: 521
   area: 42087
   edges:
-    army: [DRAGON_DOMINION, HEHADEDPAR, SLEGCAL, RANGER_REPUBLIC]
-    fleet: [BROKEN_SEA, EIGRAS, HEHADEDPAR, SLEGCAL]
+    army: [DRAGON DOMINION, HEHADEDPAR, SLEGCAL, RANGER REPUBLIC]
+    fleet: [BROKEN SEA, EIGRAS, HEHADEDPAR, SLEGCAL]
   locs:
     label:
     - [0, 0]
@@ -8693,7 +8747,7 @@ NOO_CODORRAN:
     - [495.0, 1199.0]
     unit:
     - [362.0, 1333.0]
-  name: NOO_CODORRAN
+  name: NOO CODORRAN
   tiles: [521]
   type: coast
 MARATHMAS:
@@ -8719,7 +8773,7 @@ OLLORLAND:
   ID: 523
   area: 25558
   edges:
-    army: [BURNT_THICKET, DERHILDIA, NOO_ODDANSBAY, SJAVARRUST]
+    army: [BURNT THICKET, DERHILDIA, NOO ODDANSBAY, SJAVARRUST]
   locs:
     label:
     - [0, 0]
@@ -8734,8 +8788,8 @@ FJELSTRON:
   ID: 524
   area: 9062
   edges:
-    army: [DERHILDIA, NOO_ODDANSBAY]
-    fleet: [DERHILDIA-sc, ICEBERG_ALLEY, NOO_ODDANSBAY]
+    army: [DERHILDIA, NOO ODDANSBAY]
+    fleet: [DERHILDIA-sc, ICEBERG ALLEY, NOO ODDANSBAY]
   locs:
     label:
     - [0, 0]
@@ -8754,7 +8808,7 @@ DRAGONSPINE:
   area: 5573
   edges:
     army: [KOBILDZAN, ODDANSBAY, ROYVIBOBB, WESTMOORS]
-    fleet: [ODDANSBAY, REAVERS_SEA, WESTMOORS]
+    fleet: [ODDANSBAY, REAVERS SEA, WESTMOORS]
   locs:
     label:
     - [0, 0]
@@ -8769,9 +8823,9 @@ HEHADEDPAR:
   ID: 526
   area: 12512
   edges:
-    army: [BURNT_THICKET, DRAGON_DOMINION, NEW_HAVORAL, NOO_CODORRAN, SJAVARRUST,
+    army: [BURNT THICKET, DRAGON DOMINION, NEW HAVORAL, NOO CODORRAN, SJAVARRUST,
       TRITHEMAR]
-    fleet: [BROKEN_SEA, NOO_CODORRAN, SJAVARRUST, TRITHEMAR]
+    fleet: [BROKEN SEA, NOO CODORRAN, SJAVARRUST, TRITHEMAR]
   locs:
     label:
     - [0, 0]
@@ -8782,12 +8836,12 @@ HEHADEDPAR:
   name: HEHADEDPAR
   tiles: [526]
   type: coast
-NOO_ODDANSBAY:
+NOO ODDANSBAY:
   ID: 527
   area: 11457
   edges:
     army: [DERHILDIA, FJELSTRON, OLLORLAND]
-    fleet: [COAST_OF_BETRAYAL, FJELSTRON, ICEBERG_ALLEY]
+    fleet: [COAST OF BETRAYAL, FJELSTRON, ICEBERG ALLEY]
   locs:
     label:
     - [0, 0]
@@ -8797,7 +8851,7 @@ NOO_ODDANSBAY:
     - [424.0, 2294.0]
     sc:
     - [473.0, 2321.0]
-  name: NOO_ODDANSBAY
+  name: NOO ODDANSBAY
   sc: 1
   tiles: [527]
   type: coast
@@ -8806,7 +8860,7 @@ ODDANSBAY:
   area: 7518
   edges:
     army: [DRAGONSPINE, ROYVIBOBB]
-    fleet: [DRAGONSPINE, NIMSCODD_SEA, REAVERS_SEA, ROYVIBOBB]
+    fleet: [DRAGONSPINE, NIMSCODD SEA, REAVERS SEA, ROYVIBOBB]
   locs:
     label:
     - [0, 0]
@@ -8859,7 +8913,7 @@ ROYVIBOBB:
   area: 4510
   edges:
     army: [CIDERFIELD, DRAGONSPINE, EAGLECREST, KOBILDZAN, MANERD, ODDANSBAY]
-    fleet: [MANERD, NIMSCODD_SEA, ODDANSBAY]
+    fleet: [MANERD, NIMSCODD SEA, ODDANSBAY]
   locs:
     label:
     - [0, 0]
@@ -8877,8 +8931,8 @@ SLEGCAL:
   ID: 532
   area: 23065
   edges:
-    army: [EPEDNAR, GHRANNBLATH, NOO_CODORRAN, RANGER_REPUBLIC, SNECHOLLE]
-    fleet: [EIGRAS, NOO_CODORRAN, SNECHOLLE]
+    army: [EPEDNAR, GHRANNBLATH, NOO CODORRAN, RANGER REPUBLIC, SNECHOLLE]
+    fleet: [EIGRAS, NOO CODORRAN, SNECHOLLE]
   locs:
     label:
     - [0, 0]
@@ -8897,7 +8951,7 @@ MANERD:
   area: 2997
   edges:
     army: [CIDERFIELD, DERANNE, P, ROYSFORT, ROYVIBOBB]
-    fleet: [DERANNE, NIMSCODD_SEA, PORTNAMM_BAY, P, ROYVIBOBB]
+    fleet: [DERANNE, NIMSCODD SEA, PORTNAMM BAY, P, ROYVIBOBB]
   locs:
     label:
     - [0, 0]
@@ -8949,8 +9003,8 @@ ZYUGONG:
   ID: 536
   area: 2846
   edges:
-    army: [HEHONG, KUDET_KAI, VERKAL_OZOVAR, ZYUJYUT]
-    fleet: [HEHONG, KUDET_KAI, PHOKAO_PASS]
+    army: [HEHONG, KUDET KAI, VERKAL OZOVAR, ZYUJYUT]
+    fleet: [HEHONG, KUDET KAI, PHOKAO PASS]
   locs:
     label:
     - [0, 0]
@@ -8987,7 +9041,7 @@ JADDANZAR:
   ID: 538
   area: 21259
   edges:
-    army: [BULWAR, HARPYLEN, SERPENTS_GIFT, UPPER_SURAN]
+    army: [BULWAR, HARPYLEN, SERPENTS GIFT, UPPER SURAN]
   locs:
     label:
     - [0, 0]
@@ -9005,7 +9059,7 @@ MERMIGAN:
   ID: 539
   area: 32060
   edges:
-    army: [AVHAUBHIYA, AZKA_SUR, IRDU_AGEENEAS, NADIRAJ, NAHANA_JADD, THES_ASCHUR]
+    army: [AVHAUBHIYA, AZKA SUR, IRDU AGEENEAS, NADIRAJ, NAHANA JADD, THES ASCHUR]
   locs:
     label:
     - [0, 0]
@@ -9023,8 +9077,8 @@ BULWAR:
   ID: 540
   area: 24502
   edges:
-    army: [AQATBAR, ARDU, BRASAN, HARPYLEN, JADDANZAR, UPPER_SURAN]
-    fleet: [AQATBAR, BRASAN, GULF_OF_GLASS]
+    army: [AQATBAR, ARDU, BRASAN, HARPYLEN, JADDANZAR, UPPER SURAN]
+    fleet: [AQATBAR, BRASAN, GULF OF GLASS]
   locs:
     label:
     - [0, 0]
@@ -9038,11 +9092,11 @@ BULWAR:
   sc: 1
   tiles: [540]
   type: coast
-AZKA_SUR:
+AZKA SUR:
   ID: 541
   area: 32798
   edges:
-    army: [AVHAUBHIYA, ILZIN_ZOKKA, MERMIGAN, UPPER_SURAN]
+    army: [AVHAUBHIYA, ILZIN ZOKKA, MERMIGAN, UPPER SURAN]
   locs:
     label:
     - [0, 0]
@@ -9050,14 +9104,14 @@ AZKA_SUR:
     - [1172.0, 5274.0]
     unit:
     - [1149.0, 5205.0]
-  name: AZKA_SUR
+  name: AZKA SUR
   tiles: [541]
   type: land
-UPPER_SURAN:
+UPPER SURAN:
   ID: 542
   area: 35329
   edges:
-    army: [ARDU, AZKA_SUR, BULWAR, ILZIN_ZOKKA, JADDANZAR]
+    army: [ARDU, AZKA SUR, BULWAR, ILZIN ZOKKA, JADDANZAR]
   locs:
     label:
     - [0, 0]
@@ -9065,14 +9119,14 @@ UPPER_SURAN:
     - [1168.0, 4936.0]
     unit:
     - [1194.0, 5028.0]
-  name: UPPER_SURAN
+  name: UPPER SURAN
   tiles: [542]
   type: land
-NAHANA_JADD:
+NAHANA JADD:
   ID: 543
   area: 28542
   edges:
-    army: [AVHAUBHIYA, BHARABAGHA, BIENG_PHANG, DUGAJIR, MERMIGAN, NADIRAJ, SARK,
+    army: [AVHAUBHIYA, BHARABAGHA, BIENG PHANG, DUGAJIR, MERMIGAN, NADIRAJ, SARK,
       VANRAHAR]
   locs:
     label:
@@ -9081,15 +9135,15 @@ NAHANA_JADD:
     - [1237.0, 5704.0]
     unit:
     - [1219.0, 5639.0]
-  name: NAHANA_JADD
+  name: NAHANA JADD
   tiles: [543]
   type: land
 AVHAUBHIYA:
   ID: 544
   area: 35242
   edges:
-    army: [AZKA_SUR, ILZIN_ZOKKA, MERMIGAN, NAHANA_JADD, SARK]
-    fleet: [ILZIN_ZOKKA, JADD_SEA, SARK]
+    army: [AZKA SUR, ILZIN ZOKKA, MERMIGAN, NAHANA JADD, SARK]
+    fleet: [ILZIN ZOKKA, JADD SEA, SARK]
   locs:
     label:
     - [0, 0]
@@ -9107,7 +9161,7 @@ ARDU:
   ID: 545
   area: 29827
   edges:
-    army: [BRASAN, BULWAR, ILZIN_ZOKKA, SHASOURA, UPPER_SURAN]
+    army: [BRASAN, BULWAR, ILZIN ZOKKA, SHASOURA, UPPER SURAN]
   locs:
     label:
     - [0, 0]
@@ -9118,12 +9172,12 @@ ARDU:
   name: ARDU
   tiles: [545]
   type: land
-ILZIN_ZOKKA:
+ILZIN ZOKKA:
   ID: 546
   area: 44984
   edges:
-    army: [ARDU, AVHAUBHIYA, AZKA_SUR, KOGGRAFFA, KOGZALLA, UPPER_SURAN]
-    fleet: [AVHAUBHIYA, JADD_SEA, KOGGRAFFA]
+    army: [ARDU, AVHAUBHIYA, AZKA SUR, KOGGRAFFA, KOGZALLA, UPPER SURAN]
+    fleet: [AVHAUBHIYA, JADD SEA, KOGGRAFFA]
   locs:
     label:
     - [0, 0]
@@ -9133,7 +9187,7 @@ ILZIN_ZOKKA:
     - [1312.0, 5144.0]
     sc:
     - [1338.0, 5199.0]
-  name: ILZIN_ZOKKA
+  name: ILZIN ZOKKA
   sc: 1
   tiles: [546]
   type: coast
@@ -9141,8 +9195,8 @@ SARK:
   ID: 547
   area: 2134
   edges:
-    army: [AVHAUBHIYA, BHARABAGHA, NAHANA_JADD, TIPHIYA]
-    fleet: [AVHAUBHIYA, BHARABAGHA, JADD_SEA, TIPHIYA]
+    army: [AVHAUBHIYA, BHARABAGHA, NAHANA JADD, TIPHIYA]
+    fleet: [AVHAUBHIYA, BHARABAGHA, JADD SEA, TIPHIYA]
   locs:
     label:
     - [0, 0]
@@ -9153,12 +9207,12 @@ SARK:
   name: SARK
   tiles: [547]
   type: coast
-FAR_PLENTY:
+FAR PLENTY:
   ID: 548
   area: 7110
   edges:
-    army: [ISLES_OF_PLENTY, OZGAR]
-    fleet: [BAY_OF_RESPITE, CRATERDEEP, ISLES_OF_PLENTY, OZGAR]
+    army: [ISLES OF PLENTY, OZGAR]
+    fleet: [BAY OF RESPITE, CRATERDEEP, ISLES OF PLENTY, OZGAR]
   locs:
     label:
     - [0, 0]
@@ -9166,15 +9220,15 @@ FAR_PLENTY:
     - [1618.0, 1848.0]
     unit:
     - [1636.0, 1880.0]
-  name: FAR_PLENTY
+  name: FAR PLENTY
   tiles: [548]
   type: coast
-CRESCENT_LINE:
+CRESCENT LINE:
   ID: 549
   area: 21173
   edges:
     army: [GITINALAS, PANHENAW]
-    fleet: [CAYDHSADDE_SEA, GITINALAS, NORTH_ARDMIYAN_SEA, PANHENAW, SHORES_OF_OLD_DJINNAKAH]
+    fleet: [CAYDHSADDE SEA, GITINALAS, NORTH ARDMIYAN SEA, PANHENAW, SHORES OF OLD DJINNAKAH]
   locs:
     label:
     - [0, 0]
@@ -9184,7 +9238,24 @@ CRESCENT_LINE:
     - [2019.0, 6012.0]
     sc:
     - [2043.0, 6002.0]
-  name: CRESCENT_LINE
+  name: CRESCENT LINE
   sc: 1
   tiles: [549]
+  type: coast
+FORCE DISBAND:
+  ID: 550
+  area: 0
+  edges: {}
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [0.0, 0.0]
+    unit:
+    - [0.0, 0.0]
+    sc:
+    - [0.0, 0.0]
+  name: FORCE DISBAND
+  sc: 1
+  tiles: [550]
   type: coast
