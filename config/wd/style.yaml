@@ -147,7 +147,7 @@ support-props:
     linewidth: <>edge-width
     facecolor: <>sup-color
     edgecolor: <>edge-color
-    connectionstyle: arc3,rad=0.2
+    connectionstyle: arc3,rad=0.0
 
   zorder: 7
 support-dot:
@@ -171,7 +171,7 @@ support-defend-props:
     linewidth: <>edge-width
     facecolor: <>sup-color
     edgecolor: <>edge-color
-    connectionstyle: arc3,rad=0.2
+    connectionstyle: arc3,rad=0
 
   zorder: 6
 

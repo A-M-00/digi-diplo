@@ -512,7 +512,22 @@ class DefaultRenderer(MatplotlibRenderer):
 		lx, ly = (x1 + x2) / 2, (y1 + y2) / 2
 		
 		self._draw_shortest_arrow((x1, y1), (x2, y2), self.support_arrow)
-		self._draw_shortest_arrow((x, y), (lx, ly), self.support_props, use_annotation=True)
+
+		move_dx = x2 - x1
+		move_dy = y2 - y1
+		support_dx = lx - x
+		support_dy = ly - y
+
+		cross = support_dx * move_dy - support_dy * move_dx
+
+		rad = 0.2 if cross > 0 else -0.2
+
+		support_props = self.support_props.copy()
+		support_props['arrowprops'] = support_props['arrowprops'].copy()
+		support_props['arrowprops']['connectionstyle'] = f'arc3,rad={rad}'
+
+		self._draw_shortest_arrow((x, y), (lx, ly), support_props, use_annotation=True)
+		
 		if self.support_dot is not None:
 			plt.plot([lx], [ly], **self.support_dot)
 		
