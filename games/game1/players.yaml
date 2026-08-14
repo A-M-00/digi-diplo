@@ -109,7 +109,7 @@ Busilar:
   - {loc: ANISIGO, type: fleet}
   capital: HAPAINE
 Anbennar:
-  color: '#213739'
+  color: '#6e507d'
   demonym: Anbennarian
   home: [DAMESCROWN, SILVERKEEP, NECKCLIFFE, ORRIC CHEID, NURCANDAR, DEVINAIRE, NINAK,
     ANBENNCOST, VRENDIN, KIINDTIR]
@@ -292,7 +292,7 @@ Sarda_Empire:
   - {loc: YNNSMOUTH, type: fleet}
   capital: ARVERYNN
 Vanbury_Steel_Guild:
-  color: '#be813c'
+  color: '#818589'
   demonym: Steel_Guildsman
   home: [STEELHYL, BAYCOAST, SOLDARCAM, QUINTUPLETS, TRISTANTON, RICARDSPORT, PITHION,
     ENPKEIOS]

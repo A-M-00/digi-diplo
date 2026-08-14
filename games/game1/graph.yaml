@@ -3176,7 +3176,7 @@ SARMADFAR:
   name: SARMADFAR
   tiles: [184]
   type: sea
-OOL3:
+OOL1:
   ID: 185
   area: 3405
   edges:
@@ -3194,7 +3194,7 @@ OOL3:
     unit:
     - [751.0, 101.0]
     - [1423.0, 7190.0]
-  name: OOL3
+  name: OOL1
   tiles: [185, 229]
   type: sea
 OOL2:
@@ -3374,7 +3374,7 @@ ELARBAC:
   name: ELARBAC
   tiles: [196]
   type: sea
-OOL1:
+OOL3:
   ID: 197
   area: 3405
   edges:
@@ -3392,7 +3392,7 @@ OOL1:
     unit:
     - [922.0, 243.0]
     - [1585.0, 7125.0]
-  name: OOL1
+  name: OOL3
   tiles: [197, 246]
   type: sea
 THE BRIDGE:
@@ -3645,7 +3645,7 @@ BANISHED SEA:
   name: BANISHED SEA
   tiles: [213]
   type: sea
-OOL4:
+OOL5:
   ID: 214
   area: 3403
   edges:
@@ -3663,10 +3663,10 @@ OOL4:
     unit:
     - [1137.0, 337.0]
     - [1589.0, 7604.0]
-  name: OOL4
+  name: OOL5
   tiles: [214, 247]
   type: sea
-OOL5:
+OOL4:
   ID: 215
   area: 3405
   edges:
@@ -3684,7 +3684,7 @@ OOL5:
     unit:
     - [1138.0, 137.0]
     - [1594.0, 7332.0]
-  name: OOL5
+  name: OOL4
   tiles: [215, 248]
   type: sea
 CHARMED SEA:

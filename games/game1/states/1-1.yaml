@@ -147,6 +147,7 @@ players:
     - {loc: QARSHTULUU, type: fleet}
     - {loc: BULREKAYIG, type: army}
     - {loc: LANKINA, type: army}
+    - {loc: OOL1, type: fleet}
   Khatalashya:
     capital: ZERAT
     centers: [AKHANEKAS, ZERAT, AMIRI, RAYAZAS]
