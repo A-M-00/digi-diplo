@@ -1,273 +1,5 @@
-ARBARAN:
-  ID: 1
-  area: 9966
-  edges:
-    army: [AINETHIL, ANCARD, DAMESCROWN, GAWETON, ROTTENSTEP, VERTESK]
-    fleet: [BAY OF VERTESK, DAMESCROWN, VERTESK]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [556.0, 4172.0]
-    unit:
-    - [545.0, 4114.0]
-  name: ARBARAN
-  tiles: [1]
-  type: coast
-DAMESCROWN:
-  ID: 2
-  area: 4163
-  edges:
-    army: [AINETHIL, ARBARAN, IBEVAR CITY, KONWELL, SILVERKEEP]
-    fleet: [ARBARAN, BAY OF VERTESK, DAMESHEAD, KONWELL]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [597.0, 4146.0]
-    unit:
-    - [606.0, 4103.0]
-    sc:
-    - [609.0, 4078.0]
-  name: DAMESCROWN
-  sc: 1
-  tiles: [2]
-  type: coast
-SILVERKEEP:
-  ID: 3
-  area: 7272
-  edges:
-    army: [DAMESCROWN, DOVESWALL, GISDEN, IBEVAR CITY, KONWELL, MAGDALAIRE, MOONHAVEN,
-      VERNE]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [757.0, 4122.0]
-    unit:
-    - [702.0, 4133.0]
-    sc:
-    - [728.0, 4117.0]
-  name: SILVERKEEP
-  sc: 1
-  tiles: [3]
-  type: land
-KONWELL:
-  ID: 4
-  area: 3975
-  edges:
-    army: [ANBENNCOST, DAMESCROWN, MOONHAVEN, SILVERKEEP]
-    fleet: [ANBENNCOST, DAMESCROWN, DAMESHEAD, MOONHAVEN]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [680.0, 4083.0]
-    unit:
-    - [721.0, 4087.0]
-  name: KONWELL
-  tiles: [4]
-  type: coast
-NECKCLIFFE:
-  ID: 5
-  area: 4751
-  edges:
-    army: [ANBENNCOST, EXWES, ROILSARD, RUBYHOLD]
-    fleet: [ANBENNCOST, BAY OF WINES, EXWES, ROILSARD]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [739.0, 3911.0]
-    unit:
-    - [818.0, 3924.0]
-    sc:
-    - [778.0, 3955.0]
-  name: NECKCLIFFE
-  sc: 1
-  tiles: [5]
-  type: coast
-MOONHAVEN:
-  ID: 6
-  area: 4215
-  edges:
-    army: [ANBENNCOST, KONWELL, SILVERKEEP, VERNE]
-    fleet: [ANBENNCOST, BAY OF WINES, KONWELL, VERNE]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [813.0, 4029.0]
-    unit:
-    - [777.0, 4040.0]
-  name: MOONHAVEN
-  tiles: [6]
-  type: coast
-VERNE:
-  ID: 7
-  area: 6266
-  edges:
-    army: [LIONCOST, MAGDALAIRE, MOONHAVEN, SILVERKEEP]
-    fleet: [BAY OF WINES, DOG COAST, LIONCOST, MOONHAVEN]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [866.0, 4088.0]
-    unit:
-    - [837.0, 4071.0]
-  name: VERNE
-  tiles: [7]
-  type: coast
-ORRIC CHEID:
-  ID: 8
-  area: 5201
-  edges:
-    army: [NEW UANCED]
-    fleet: [BANISHED SEA, CALAMITY PASS, NEW UANCED]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [1265.0, 2979.0]
-    unit:
-    - [1289.0, 3007.0]
-    sc:
-    - [1293.0, 3014.0]
-  name: ORRIC CHEID
-  sc: 1
-  tiles: [8]
-  type: coast
-NURCANDAR:
-  ID: 9
-  area: 2619
-  edges:
-    army: [OZTENCOST, QUINTUPLETS, TUMBATER]
-    fleet: [GULF OF HARAF, OZTENCOST, QUINTUPLETS]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [1362.0, 1340.0]
-    unit:
-    - [1389.0, 1324.0]
-    sc:
-    - [1402.0, 1297.0]
-  name: NURCANDAR
-  sc: 1
-  tiles: [9]
-  type: coast
-DEVINAIRE:
-  ID: 10
-  area: 3846
-  edges:
-    army: [ISLES OF PLENTY]
-    fleet: [BAY OF RESPITE, CHARMED SEA, ISLES OF PLENTY, REAPERS COAST]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [1529.0, 1765.0]
-    unit:
-    - [1489.0, 1749.0]
-    sc:
-    - [1484.0, 1746.0]
-  name: DEVINAIRE
-  sc: 1
-  tiles: [10]
-  type: coast
-NINAK:
-  ID: 11
-  area: 629
-  edges:
-    army: [ADARU, MARIDS DELTA, REVERS]
-    fleet: [LATRAN, MARIDS DELTA, REVERS]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [1759.0, 4248.0]
-    unit:
-    - [1778.0, 4241.0]
-    sc:
-    - [1768.0, 4244.0]
-  name: NINAK
-  sc: 1
-  tiles: [11]
-  type: coast
-ANBENNCOST:
-  ID: 12
-  area: 8333
-  edges:
-    army: [EXWES, KONWELL, MOONHAVEN, NECKCLIFFE]
-    fleet: [BAY OF WINES, DAMESHEAD, EXWES, KONWELL, MOONHAVEN, NECKCLIFFE]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [716.0, 4019.0]
-    unit:
-    - [732.0, 3980.0]
-    sc:
-    - [731.0, 3987.0]
-  name: ANBENNCOST
-  sc: 1
-  tiles: [12]
-  type: coast
-ISLES OF PLENTY:
-  ID: 13
-  area: 27716
-  edges:
-    army: [DEVINAIRE, FAR PLENTY, TROPAICOST]
-    fleet: [BAY OF RESPITE, CHARMED SEA, CRATERDEEP, DEVINAIRE, FAR PLENTY, TROPAICOST]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [1432.0, 1880.0]
-    unit:
-    - [1495.0, 1858.0]
-  name: ISLES OF PLENTY
-  tiles: [13]
-  type: coast
-VRENDIN:
-  ID: 14
-  area: 4618
-  edges:
-    fleet: [COAST OF TIMBER, KILA TORAM, REZANKOST]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [2594.0, 2673.0]
-    unit:
-    - [2608.0, 2707.0]
-    sc:
-    - [2611.0, 2714.0]
-  name: VRENDIN
-  sc: 1
-  tiles: [14]
-  type: coast
-KIINDTIR:
-  ID: 15
-  area: 2760
-  edges:
-    fleet: [RADIANT STRAITS, SEA OF STEAM, THAWS END]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [2690.0, 3189.0]
-    unit:
-    - [2716.0, 3199.0]
-    sc:
-    - [2717.0, 3199.0]
-  name: KIINDTIR
-  sc: 1
-  tiles: [15]
-  type: coast
 KRAKDUNVHOR:
-  ID: 16
+  ID: 1
   area: 8584
   edges: {}
   locs:
@@ -278,10 +10,10 @@ KRAKDUNVHOR:
     unit:
     - [222.0, 4847.0]
   name: KRAKDUNVHOR
-  tiles: [16]
+  tiles: [1]
   type: land
 SERPENTSPINE PROPER:
-  ID: 17
+  ID: 2
   area: 48673
   edges: {}
   locs:
@@ -292,10 +24,10 @@ SERPENTSPINE PROPER:
     unit:
     - [573.0, 4656.0]
   name: SERPENTSPINE PROPER
-  tiles: [17]
+  tiles: [2]
   type: land
 NORTHERN HOLDS:
-  ID: 18
+  ID: 3
   area: 15009
   edges: {}
   locs:
@@ -306,10 +38,10 @@ NORTHERN HOLDS:
     unit:
     - [466.0, 4556.0]
   name: NORTHERN HOLDS
-  tiles: [18]
+  tiles: [3]
   type: land
 DALAIREY WASTES:
-  ID: 19
+  ID: 4
   area: 90564
   edges: {}
   locs:
@@ -320,10 +52,10 @@ DALAIREY WASTES:
     unit:
     - [660.0, 2041.0]
   name: DALAIREY WASTES
-  tiles: [19]
+  tiles: [4]
   type: coast
-NOT NAMED 20:
-  ID: 20
+NOT NAMED 5:
+  ID: 5
   area: 5113
   edges: {}
   locs:
@@ -333,11 +65,11 @@ NOT NAMED 20:
     - [474.0, 3962.0]
     unit:
     - [514.0, 3836.0]
-  name: NOT NAMED 20
-  tiles: [20]
+  name: NOT NAMED 5
+  tiles: [5]
   type: land
 SERPENTREACH:
-  ID: 21
+  ID: 6
   area: 20776
   edges: {}
   locs:
@@ -348,10 +80,10 @@ SERPENTREACH:
     unit:
     - [862.0, 4694.0]
   name: SERPENTREACH
-  tiles: [21]
+  tiles: [6]
   type: land
 JADE MINES:
-  ID: 22
+  ID: 7
   area: 12775
   edges: {}
   locs:
@@ -362,10 +94,10 @@ JADE MINES:
     unit:
     - [876.0, 5867.0]
   name: JADE MINES
-  tiles: [22]
+  tiles: [7]
   type: land
 SEGHDIR:
-  ID: 23
+  ID: 8
   area: 42471
   edges: {}
   locs:
@@ -376,10 +108,10 @@ SEGHDIR:
     unit:
     - [992.0, 5255.0]
   name: SEGHDIR
-  tiles: [23]
+  tiles: [8]
   type: land
 DAKAZ CARZAVIYA:
-  ID: 24
+  ID: 9
   area: 25309
   edges: {}
   locs:
@@ -390,10 +122,10 @@ DAKAZ CARZAVIYA:
     unit:
     - [1033.0, 5543.0]
   name: DAKAZ CARZAVIYA
-  tiles: [24]
+  tiles: [9]
   type: land
 EAST SALAHAD:
-  ID: 25
+  ID: 10
   area: 41238
   edges: {}
   locs:
@@ -404,10 +136,10 @@ EAST SALAHAD:
     unit:
     - [1406.0, 4955.0]
   name: EAST SALAHAD
-  tiles: [25]
+  tiles: [10]
   type: land
 KAYDHANO SEA:
-  ID: 26
+  ID: 11
   area: 51056
   edges: {}
   locs:
@@ -418,10 +150,10 @@ KAYDHANO SEA:
     unit:
     - [2417.0, 1852.0]
   name: KAYDHANO SEA
-  tiles: [26]
+  tiles: [11]
   type: coast
 FLOWER GROVE:
-  ID: 27
+  ID: 12
   area: 6688
   edges:
     army: [CIRANMYNA, DRENNETHILLE, IMYHAIN, MARRHOLD]
@@ -433,10 +165,10 @@ FLOWER GROVE:
     unit:
     - [699.0, 4615.0]
   name: FLOWER GROVE
-  tiles: [27]
+  tiles: [12]
   type: land
 CIRANMYNA:
-  ID: 28
+  ID: 13
   area: 3059
   edges:
     army: [BLADEMARCHES, DRENNETHILLE, ELYNAILE, FLOWER GROVE, MARRHOLD]
@@ -451,10 +183,10 @@ CIRANMYNA:
     - [673.0, 4472.0]
   name: CIRANMYNA
   sc: 1
-  tiles: [28]
+  tiles: [13]
   type: land
 ELYNAILE:
-  ID: 29
+  ID: 14
   area: 6238
   edges:
     army: [ARCA CORVUR, BLADEMARCHES, BONE GROVE, CIRANMYNA, DRENNETHILLE, GABLAINE]
@@ -469,10 +201,10 @@ ELYNAILE:
     - [753.0, 4411.0]
   name: ELYNAILE
   sc: 1
-  tiles: [29]
+  tiles: [14]
   type: land
 DRENNETHILLE:
-  ID: 30
+  ID: 15
   area: 6196
   edges:
     army: [BONE GROVE, CIRANMYNA, ELYNAILE, FAEHEARTTOAELANTINY, FLOWER GROVE, IMYHAIN]
@@ -487,10 +219,10 @@ DRENNETHILLE:
     - [767.0, 4525.0]
   name: DRENNETHILLE
   sc: 1
-  tiles: [30]
+  tiles: [15]
   type: land
 IMYHAIN:
-  ID: 31
+  ID: 16
   area: 4499
   edges:
     army: [DRENNETHILLE, FAEHEARTTOAELANTINY, FLOWER GROVE, SHADOW GROVE]
@@ -505,10 +237,10 @@ IMYHAIN:
     - [782.0, 4696.0]
   name: IMYHAIN
   sc: 1
-  tiles: [31]
+  tiles: [16]
   type: land
 SHADOW GROVE:
-  ID: 32
+  ID: 17
   area: 2992
   edges:
     army: [FAEHEARTTOAELANTINY, IMYHAIN, NANSALEN]
@@ -520,10 +252,10 @@ SHADOW GROVE:
     unit:
     - [810.0, 4712.0]
   name: SHADOW GROVE
-  tiles: [32]
+  tiles: [17]
   type: land
 ASHAMADIAT:
-  ID: 33
+  ID: 18
   area: 6340
   edges:
     army: [KASHYZIR, MAROODIYA, QASRI UBAKHIYO]
@@ -536,10 +268,10 @@ ASHAMADIAT:
     unit:
     - [2120.0, 5276.0]
   name: ASHAMADIAT
-  tiles: [33]
+  tiles: [18]
   type: coast
 QASRI UBAKHIYO:
-  ID: 34
+  ID: 19
   area: 9691
   edges:
     army: [ASHAMADIAT, KASHYZIR, MAROODIYA]
@@ -555,10 +287,10 @@ QASRI UBAKHIYO:
     - [2200.0, 5430.0]
   name: QASRI UBAKHIYO
   sc: 1
-  tiles: [34]
+  tiles: [19]
   type: coast
 MAROODIYA:
-  ID: 35
+  ID: 20
   area: 7232
   edges:
     army: [ASHAMADIAT, MAGAALAD QASR, QASRI UBAKHIYO]
@@ -574,10 +306,10 @@ MAROODIYA:
     - [2330.0, 5426.0]
   name: MAROODIYA
   sc: 1
-  tiles: [35]
+  tiles: [20]
   type: coast
 MAGAALAD QASR:
-  ID: 36
+  ID: 21
   area: 18829
   edges:
     army: [ARDIM OARAST, ARDMIYAN REPUBLIC, MAROODIYA]
@@ -594,10 +326,10 @@ MAGAALAD QASR:
     - [2466.0, 5556.0]
   name: MAGAALAD QASR
   sc: 1
-  tiles: [36]
+  tiles: [21]
   type: coast
 FOG ISLES:
-  ID: 37
+  ID: 22
   area: 3216
   edges:
     fleet: [CAYDHSADDE SEA, COFFEE COAST, LANUN DEPTHS]
@@ -612,10 +344,10 @@ FOG ISLES:
     - [1877.0, 5861.0]
   name: FOG ISLES
   sc: 1
-  tiles: [37]
+  tiles: [22]
   type: coast
 SORMAW:
-  ID: 38
+  ID: 23
   area: 19314
   edges:
     army: [SENAINE, SORFEN]
@@ -631,10 +363,10 @@ SORMAW:
     - [1942.0, 2504.0]
   name: SORMAW
   sc: 1
-  tiles: [38]
+  tiles: [23]
   type: coast
 SENAINE:
-  ID: 39
+  ID: 24
   area: 17034
   edges:
     army: [DALAINE, EAST EFFELAI, SORFEN, SORMAW, THAVOI]
@@ -650,10 +382,10 @@ SENAINE:
     - [2069.0, 2571.0]
   name: SENAINE
   sc: 1
-  tiles: [39]
+  tiles: [24]
   type: coast
 SORFEN:
-  ID: 40
+  ID: 25
   area: 19908
   edges:
     army: [EAST EFFELAI, SELPARURA, SENAINE, SORMAW]
@@ -669,10 +401,10 @@ SORFEN:
     - [2058.0, 2348.0]
   name: SORFEN
   sc: 1
-  tiles: [40]
+  tiles: [25]
   type: coast
 DALAINE:
-  ID: 41
+  ID: 26
   area: 11474
   edges:
     army: [DRAKESGUARD, SENAINE, THAVOI]
@@ -688,10 +420,10 @@ DALAINE:
     - [2100.0, 2778.0]
   name: DALAINE
   sc: 1
-  tiles: [41]
+  tiles: [26]
   type: coast
 ZUURZOI:
-  ID: 42
+  ID: 27
   area: 62413
   edges:
     army: [BAGDAGERIN, BULREKAYIG, GHAMILBULI TERVALBI, KOKEVDAN, QARSHTULUU]
@@ -707,10 +439,10 @@ ZUURZOI:
     - [352.0, 5809.0]
   name: ZUURZOI
   sc: 1
-  tiles: [42]
+  tiles: [27]
   type: coast
 QARSHTULUU:
-  ID: 43
+  ID: 28
   area: 36220
   edges:
     army: [BULREKAYIG, LANKINA, ZUURZOI]
@@ -726,10 +458,10 @@ QARSHTULUU:
     - [461.0, 5600.0]
   name: QARSHTULUU
   sc: 1
-  tiles: [43]
+  tiles: [28]
   type: coast
 BULREKAYIG:
-  ID: 44
+  ID: 29
   area: 40909
   edges:
     army: [APORLAEN, GHAMILBULI TERVALBI, ORKECH, QARSHTULUU, ZUURZOI]
@@ -745,10 +477,10 @@ BULREKAYIG:
     - [560.0, 5698.0]
   name: BULREKAYIG
   sc: 1
-  tiles: [44]
+  tiles: [29]
   type: coast
 LANKINA:
-  ID: 45
+  ID: 30
   area: 13997
   edges:
     army: [ORKECH, QARSHTULUU]
@@ -764,10 +496,10 @@ LANKINA:
     - [547.0, 5345.0]
   name: LANKINA
   sc: 1
-  tiles: [45]
+  tiles: [30]
   type: coast
 NUUGAM:
-  ID: 46
+  ID: 31
   area: 32956
   edges:
     army: [HYEONSEONG, KOKEVDAN, NAKSESEOM, OINIKHUDI, ULUKUNGU]
@@ -783,10 +515,10 @@ NUUGAM:
     - [523.0, 6546.0]
   name: NUUGAM
   sc: 1
-  tiles: [46]
+  tiles: [31]
   type: coast
 HYEONSEONG:
-  ID: 47
+  ID: 32
   area: 67271
   edges:
     army: [HEYOOLGIN, JAENGUJAN, JIANTSANG, NUUGAM, OINIKHUDI]
@@ -802,10 +534,10 @@ HYEONSEONG:
     - [694.0, 6624.0]
   name: HYEONSEONG
   sc: 1
-  tiles: [47]
+  tiles: [32]
   type: coast
 HEYOOLGIN:
-  ID: 48
+  ID: 33
   area: 32771
   edges:
     army: [BAZUNEIZAR, HYEONSEONG, JIANTSANG, OINIKHUDI, ONI HILLS]
@@ -820,10 +552,10 @@ HEYOOLGIN:
     - [843.0, 6231.0]
   name: HEYOOLGIN
   sc: 1
-  tiles: [48]
+  tiles: [33]
   type: land
 JAENGUJAN:
-  ID: 49
+  ID: 34
   area: 14146
   edges:
     army: [HYEONSEONG, JIANTSANG]
@@ -839,10 +571,10 @@ JAENGUJAN:
     - [791.0, 6627.0]
   name: JAENGUJAN
   sc: 1
-  tiles: [49]
+  tiles: [34]
   type: coast
 KONUNGRHAVEN:
-  ID: 50
+  ID: 35
   area: 49661
   edges:
     army: [BJARNRIK, OLAVLUND, TROLL FORESTS]
@@ -858,10 +590,10 @@ KONUNGRHAVEN:
     - [154.0, 3883.0]
   name: KONUNGRHAVEN
   sc: 1
-  tiles: [50]
+  tiles: [35]
   type: coast
 BJARNRIK:
-  ID: 51
+  ID: 36
   area: 17383
   edges:
     army: [BAYVEK, KONUNGRHAVEN, OLAVLUND]
@@ -874,10 +606,10 @@ BJARNRIK:
     unit:
     - [216.0, 4020.0]
   name: BJARNRIK
-  tiles: [51]
+  tiles: [36]
   type: coast
 BAYVEK:
-  ID: 52
+  ID: 37
   area: 12115
   edges:
     army: [BJARNRIK, GAWETON, ROTTENSTEP, WESTMOORS]
@@ -893,10 +625,10 @@ BAYVEK:
     - [326.0, 4085.0]
   name: BAYVEK
   sc: 1
-  tiles: [52]
+  tiles: [37]
   type: coast
 VOTSEND:
-  ID: 53
+  ID: 38
   area: 3382
   edges:
     army: [DERHILDIA]
@@ -912,10 +644,10 @@ VOTSEND:
     - [298.0, 2257.0]
   name: VOTSEND
   sc: 1
-  tiles: [53]
+  tiles: [38]
   type: coast
 WESTMOORS:
-  ID: 54
+  ID: 39
   area: 9602
   edges:
     army: [BAYVEK, DRAGONSPINE, GAWETON]
@@ -928,10 +660,10 @@ WESTMOORS:
     unit:
     - [391.0, 3955.0]
   name: WESTMOORS
-  tiles: [54]
+  tiles: [39]
   type: coast
 GAWETON:
-  ID: 55
+  ID: 40
   area: 16897
   edges:
     army: [ARBARAN, BAYVEK, EAGLECREST, ELKMARCH, ROTTENSTEP, VERTESK, WESTMOORS]
@@ -946,10 +678,10 @@ GAWETON:
     - [431.0, 4041.0]
   name: GAWETON
   sc: 1
-  tiles: [55]
+  tiles: [40]
   type: land
 ROTTENSTEP:
-  ID: 56
+  ID: 41
   area: 15415
   edges:
     army: [ANCARD, ARBARAN, BAYVEK, GAWETON, MIDDLE ALEN, WYVERNHART]
@@ -965,10 +697,10 @@ ROTTENSTEP:
     - [504.0, 4231.0]
   name: ROTTENSTEP
   sc: 1
-  tiles: [56]
+  tiles: [41]
   type: coast
 VERTESK:
-  ID: 57
+  ID: 42
   area: 4837
   edges:
     army: [ARBARAN, ELKMARCH, GAWETON]
@@ -984,10 +716,10 @@ VERTESK:
     - [543.0, 4014.0]
   name: VERTESK
   sc: 1
-  tiles: [57]
+  tiles: [42]
   type: coast
 EMULYON:
-  ID: 58
+  ID: 43
   area: 4512
   edges:
     fleet: [COLDSWELLS, FAR EXPANSE, REMNANT SEA]
@@ -1002,10 +734,10 @@ EMULYON:
     - [758.0, 2508.0]
   name: EMULYON
   sc: 1
-  tiles: [58]
+  tiles: [43]
   type: coast
 TUNIN:
-  ID: 59
+  ID: 44
   area: 1447
   edges:
     fleet: [EAST BLOODGROVES COAST, GRAXILZIN SEA, WEST BLOODGROVES COAST]
@@ -1020,10 +752,10 @@ TUNIN:
     - [1050.0, 2038.0]
   name: TUNIN
   sc: 1
-  tiles: [59]
+  tiles: [44]
   type: coast
 OZTENCOST:
-  ID: 60
+  ID: 45
   area: 3212
   edges:
     army: [LOVERSIGHT, NURCANDAR, QUITL, TUMBATER]
@@ -1039,10 +771,10 @@ OZTENCOST:
     - [1441.0, 1312.0]
   name: OZTENCOST
   sc: 1
-  tiles: [60]
+  tiles: [45]
   type: coast
 WHITTINGTON:
-  ID: 61
+  ID: 46
   area: 1939
   edges:
     army: [CROVANSPIER, JENKO, NAKOWICH, SELCOST]
@@ -1058,10 +790,10 @@ WHITTINGTON:
     - [1844.0, 4131.0]
   name: WHITTINGTON
   sc: 1
-  tiles: [61]
+  tiles: [46]
   type: coast
 OK:
-  ID: 62
+  ID: 47
   area: 704
   edges:
     army: [AKR, DEGITHION]
@@ -1077,10 +809,10 @@ OK:
     - [2691.0, 2378.0]
   name: OK
   sc: 1
-  tiles: [62]
+  tiles: [47]
   type: coast
 VOGKEYSA:
-  ID: 63
+  ID: 48
   area: 28532
   edges:
     army: [DESHAK, KHASA, KOROSHESH, WEST SARHAL, YAIKOBIX]
@@ -1093,10 +825,10 @@ VOGKEYSA:
     unit:
     - [1159.0, 4197.0]
   name: VOGKEYSA
-  tiles: [63]
+  tiles: [48]
   type: coast
 AZKA JEXIS:
-  ID: 64
+  ID: 49
   area: 20928
   edges:
     army: [BRASAN, KHETERAT, KOROSHESH, SHASOURA]
@@ -1112,10 +844,10 @@ AZKA JEXIS:
     - [1166.0, 4478.0]
   name: AZKA JEXIS
   sc: 1
-  tiles: [64]
+  tiles: [49]
   type: coast
 KOROSHESH:
-  ID: 65
+  ID: 50
   area: 14936
   edges:
     army: [AZKA JEXIS, KHETERAT, VOGKEYSA, WEST SARHAL]
@@ -1131,10 +863,10 @@ KOROSHESH:
     - [1159.0, 4360.0]
   name: KOROSHESH
   sc: 1
-  tiles: [65]
+  tiles: [50]
   type: coast
 SHASOURA:
-  ID: 66
+  ID: 51
   area: 33467
   edges:
     army: [ARDU, AZKA JEXIS, BRASAN, KHETERAT, UPPER SORROW]
@@ -1146,10 +878,10 @@ SHASOURA:
     unit:
     - [1333.0, 4688.0]
   name: SHASOURA
-  tiles: [66]
+  tiles: [51]
   type: land
 KHETERAT:
-  ID: 67
+  ID: 52
   area: 37319
   edges:
     army: [AZKA JEXIS, GOLUTZARR, KOROSHESH, SHASOURA, UPPER SORROW, WEST SARHAL]
@@ -1164,13 +896,13 @@ KHETERAT:
     - [1322.0, 4426.0]
   name: KHETERAT
   sc: 1
-  tiles: [67]
+  tiles: [52]
   type: land
 UPPER SORROW:
-  ID: 68
+  ID: 53
   area: 51365
   edges:
-    army: [ARGAZEEN, GOLUTZARR, JAGAB FARU, KHETERAT, KHAWIT, KWATUBIS, SAMSUBAT,
+    army: [ARGAZEEN, GOLUTZARR, JAGAB FARU, KHAWIT, KHETERAT, KWATUBIS, SAMSUBAT,
       SHASOURA]
   locs:
     label:
@@ -1180,10 +912,10 @@ UPPER SORROW:
     unit:
     - [1517.0, 4671.0]
   name: UPPER SORROW
-  tiles: [68]
+  tiles: [53]
   type: land
 ARGAZEEN:
-  ID: 69
+  ID: 54
   area: 26047
   edges:
     army: [DUWARKANI, MAZEXHAD, SAMSUBAT, UPPER SORROW]
@@ -1198,10 +930,10 @@ ARGAZEEN:
     - [1626.0, 4875.0]
   name: ARGAZEEN
   sc: 1
-  tiles: [69]
+  tiles: [54]
   type: land
 KWATUBIS:
-  ID: 70
+  ID: 55
   area: 12747
   edges:
     army: [AMEZA, KHAWIT, MUZINGRAZI, SAMSUBAT, UPPER SORROW, ZUVAVIM]
@@ -1216,10 +948,10 @@ KWATUBIS:
     - [1755.0, 4605.0]
   name: KWATUBIS
   sc: 1
-  tiles: [70]
+  tiles: [55]
   type: land
 KHAWIT:
-  ID: 71
+  ID: 56
   area: 7080
   edges:
     army: [AMEZA, JAGAB FARU, KUNOLO, KWATUBIS, UPPER SORROW]
@@ -1231,10 +963,10 @@ KHAWIT:
     unit:
     - [1668.0, 4541.0]
   name: KHAWIT
-  tiles: [71]
+  tiles: [56]
   type: land
 NAKSESEOM:
-  ID: 72
+  ID: 57
   area: 65454
   edges:
     army: [NUUGAM, ULUKUNGU, ZONGBEIKGANG]
@@ -1247,6 +979,274 @@ NAKSESEOM:
     unit:
     - [412.0, 6654.0]
   name: NAKSESEOM
+  tiles: [57]
+  type: coast
+ARBARAN:
+  ID: 58
+  area: 9966
+  edges:
+    army: [AINETHIL, ANCARD, DAMESCROWN, GAWETON, ROTTENSTEP, VERTESK]
+    fleet: [BAY OF VERTESK, DAMESCROWN, VERTESK]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [556.0, 4172.0]
+    unit:
+    - [545.0, 4114.0]
+  name: ARBARAN
+  tiles: [58]
+  type: coast
+DAMESCROWN:
+  ID: 59
+  area: 4163
+  edges:
+    army: [AINETHIL, ARBARAN, IBEVAR CITY, KONWELL, SILVERKEEP]
+    fleet: [ARBARAN, BAY OF VERTESK, DAMESHEAD, KONWELL]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [597.0, 4146.0]
+    unit:
+    - [606.0, 4103.0]
+    sc:
+    - [609.0, 4078.0]
+  name: DAMESCROWN
+  sc: 1
+  tiles: [59]
+  type: coast
+SILVERKEEP:
+  ID: 60
+  area: 7272
+  edges:
+    army: [DAMESCROWN, DOVESWALL, GISDEN, IBEVAR CITY, KONWELL, MAGDALAIRE, MOONHAVEN,
+      VERNE]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [757.0, 4122.0]
+    unit:
+    - [702.0, 4133.0]
+    sc:
+    - [728.0, 4117.0]
+  name: SILVERKEEP
+  sc: 1
+  tiles: [60]
+  type: land
+KONWELL:
+  ID: 61
+  area: 3975
+  edges:
+    army: [ANBENNCOST, DAMESCROWN, MOONHAVEN, SILVERKEEP]
+    fleet: [ANBENNCOST, DAMESCROWN, DAMESHEAD, MOONHAVEN]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [680.0, 4083.0]
+    unit:
+    - [721.0, 4087.0]
+  name: KONWELL
+  tiles: [61]
+  type: coast
+NECKCLIFFE:
+  ID: 62
+  area: 4751
+  edges:
+    army: [ANBENNCOST, EXWES, ROILSARD, RUBYHOLD]
+    fleet: [ANBENNCOST, BAY OF WINES, EXWES, ROILSARD]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [739.0, 3911.0]
+    unit:
+    - [818.0, 3924.0]
+    sc:
+    - [778.0, 3955.0]
+  name: NECKCLIFFE
+  sc: 1
+  tiles: [62]
+  type: coast
+MOONHAVEN:
+  ID: 63
+  area: 4215
+  edges:
+    army: [ANBENNCOST, KONWELL, SILVERKEEP, VERNE]
+    fleet: [ANBENNCOST, BAY OF WINES, KONWELL, VERNE]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [813.0, 4029.0]
+    unit:
+    - [777.0, 4040.0]
+  name: MOONHAVEN
+  tiles: [63]
+  type: coast
+VERNE:
+  ID: 64
+  area: 6266
+  edges:
+    army: [LIONCOST, MAGDALAIRE, MOONHAVEN, SILVERKEEP]
+    fleet: [BAY OF WINES, DOG COAST, LIONCOST, MOONHAVEN]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [866.0, 4088.0]
+    unit:
+    - [837.0, 4071.0]
+  name: VERNE
+  tiles: [64]
+  type: coast
+ORRIC CHEID:
+  ID: 65
+  area: 5201
+  edges:
+    army: [NEW UANCED]
+    fleet: [BANISHED SEA, CALAMITY PASS, NEW UANCED]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [1265.0, 2979.0]
+    unit:
+    - [1289.0, 3007.0]
+    sc:
+    - [1293.0, 3014.0]
+  name: ORRIC CHEID
+  sc: 1
+  tiles: [65]
+  type: coast
+NURCANDAR:
+  ID: 66
+  area: 2619
+  edges:
+    army: [OZTENCOST, QUINTUPLETS, TUMBATER]
+    fleet: [GULF OF HARAF, OZTENCOST, QUINTUPLETS]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [1362.0, 1340.0]
+    unit:
+    - [1389.0, 1324.0]
+    sc:
+    - [1402.0, 1297.0]
+  name: NURCANDAR
+  sc: 1
+  tiles: [66]
+  type: coast
+DEVINAIRE:
+  ID: 67
+  area: 3846
+  edges:
+    army: [ISLES OF PLENTY]
+    fleet: [BAY OF RESPITE, CHARMED SEA, ISLES OF PLENTY, REAPERS COAST]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [1529.0, 1765.0]
+    unit:
+    - [1489.0, 1749.0]
+    sc:
+    - [1484.0, 1746.0]
+  name: DEVINAIRE
+  sc: 1
+  tiles: [67]
+  type: coast
+NINAK:
+  ID: 68
+  area: 629
+  edges:
+    army: [ADARU, MARIDS DELTA, REVERS]
+    fleet: [LATRAN, MARIDS DELTA, REVERS]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [1759.0, 4248.0]
+    unit:
+    - [1778.0, 4241.0]
+    sc:
+    - [1768.0, 4244.0]
+  name: NINAK
+  sc: 1
+  tiles: [68]
+  type: coast
+ANBENNCOST:
+  ID: 69
+  area: 8333
+  edges:
+    army: [EXWES, KONWELL, MOONHAVEN, NECKCLIFFE]
+    fleet: [BAY OF WINES, DAMESHEAD, EXWES, KONWELL, MOONHAVEN, NECKCLIFFE]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [716.0, 4019.0]
+    unit:
+    - [732.0, 3980.0]
+    sc:
+    - [731.0, 3987.0]
+  name: ANBENNCOST
+  sc: 1
+  tiles: [69]
+  type: coast
+ISLES OF PLENTY:
+  ID: 70
+  area: 27716
+  edges:
+    army: [DEVINAIRE, FAR PLENTY, TROPAICOST]
+    fleet: [BAY OF RESPITE, CHARMED SEA, CRATERDEEP, DEVINAIRE, FAR PLENTY, TROPAICOST]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [1432.0, 1880.0]
+    unit:
+    - [1495.0, 1858.0]
+  name: ISLES OF PLENTY
+  tiles: [70]
+  type: coast
+VRENDIN:
+  ID: 71
+  area: 4618
+  edges:
+    fleet: [COAST OF TIMBER, KILA TORAM, REZANKOST]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [2594.0, 2673.0]
+    unit:
+    - [2608.0, 2707.0]
+    sc:
+    - [2611.0, 2714.0]
+  name: VRENDIN
+  sc: 1
+  tiles: [71]
+  type: coast
+KIINDTIR:
+  ID: 72
+  area: 2760
+  edges:
+    fleet: [RADIANT STRAITS, SEA OF STEAM, THAWS END]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [2690.0, 3189.0]
+    unit:
+    - [2716.0, 3199.0]
+    sc:
+    - [2717.0, 3199.0]
+  name: KIINDTIR
+  sc: 1
   tiles: [72]
   type: coast
 SILSENAIRE:
@@ -1393,8 +1393,175 @@ YNNSMOUTH:
   sc: 1
   tiles: [80]
   type: coast
-SIR:
+STEELHYL:
   ID: 81
+  area: 3076
+  edges:
+    army: [CASTONATH, MARRHOLD, OSDAR]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [506.0, 4503.0]
+    unit:
+    - [508.0, 4471.0]
+    sc:
+    - [510.0, 4493.0]
+  name: STEELHYL
+  sc: 1
+  tiles: [81]
+  type: land
+BAYCOAST:
+  ID: 82
+  area: 3639
+  edges:
+    army: [ARAKEPRUN, DEARKTIR]
+    fleet: [ARAKEPRUN, DEARKTIR, ELARBAC, SARMADFAR]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [934.0, 716.0]
+    unit:
+    - [923.0, 667.0]
+    sc:
+    - [929.0, 705.0]
+  name: BAYCOAST
+  sc: 1
+  tiles: [82]
+  type: coast
+SOLDARCAM:
+  ID: 83
+  area: 9751
+  edges:
+    army: [GREAT HARAFIC DESERT, TRIMTHIR, WORMWAY]
+    fleet: [ELARBAC, GULF OF NEANAANI, SARMADFAR, TRIMTHIR, WORMWAY]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [1059.0, 794.0]
+    unit:
+    - [1054.0, 834.0]
+    sc:
+    - [1044.0, 803.0]
+  name: SOLDARCAM
+  sc: 1
+  tiles: [83]
+  type: coast
+WORMWAY:
+  ID: 84
+  area: 3356
+  edges:
+    army: [GREAT HARAFIC DESERT, SOLDARCAM, VEMOD ARKA]
+    fleet: [GULF OF NEANAANI, SOLDARCAM, VEMOD ARKA]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [1136.0, 842.0]
+    unit:
+    - [1162.0, 828.0]
+  name: WORMWAY
+  tiles: [84]
+  type: coast
+QUINTUPLETS:
+  ID: 85
+  area: 2500
+  edges:
+    army: [GADODCODD, NURCANDAR, TUMBATER, TZAYA]
+    fleet: [GADODCODD, GULF OF HARAF, NURCANDAR, TZAYA]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [1390.0, 1266.0]
+    unit:
+    - [1364.0, 1281.0]
+    sc:
+    - [1395.0, 1271.0]
+  name: QUINTUPLETS
+  sc: 1
+  tiles: [85]
+  type: coast
+TRISTANTON:
+  ID: 86
+  area: 8315
+  edges:
+    army: [RICARDSPORT]
+    fleet: [AMADIAN PASS, LOVERS PASS, RICARDSPORT]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [1753.0, 1574.0]
+    unit:
+    - [1746.0, 1535.0]
+    sc:
+    - [1715.0, 1516.0]
+  name: TRISTANTON
+  sc: 1
+  tiles: [86]
+  type: coast
+RICARDSPORT:
+  ID: 87
+  area: 7697
+  edges:
+    army: [TRISTANTON]
+    fleet: [AMADIAN PASS, LOVERS PASS, SHATTERED ISLANDS, TRISTANTON]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [1745.0, 1465.0]
+    unit:
+    - [1809.0, 1429.0]
+    sc:
+    - [1780.0, 1487.0]
+  name: RICARDSPORT
+  sc: 1
+  tiles: [87]
+  type: coast
+PITHION:
+  ID: 88
+  area: 10492
+  edges:
+    army: [ANISKHEION, CLEMATAR, ENEION, ENPKEIOS, MTEIBHARA, UPPER CHENDYA]
+    fleet: [ANISKHEION, ENEION, ENPKEIOS]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [2558.0, 1788.0]
+    unit:
+    - [2587.0, 1754.0]
+    sc:
+    - [2600.0, 1712.0]
+  name: PITHION
+  sc: 1
+  tiles: [88]
+  type: land
+ENPKEIOS:
+  ID: 89
+  area: 5222
+  edges:
+    army: [ANISKHEION, PITHION, VOTHELISI]
+    fleet: [ANISKHEION, PITHION, VOTHELISI]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [2579.0, 1633.0]
+    unit:
+    - [2577.0, 1597.0]
+    sc:
+    - [2593.0, 1648.0]
+  name: ENPKEIOS
+  sc: 1
+  tiles: [89]
+  type: land
+SIR:
+  ID: 90
   area: 5717
   edges:
     army: [BIANYUAN, NOZANYANBE, ONI HILLS, SARILAVHAN, TUGHAYSA, XIANJIE, YODASHIKYU]
@@ -1409,10 +1576,10 @@ SIR:
     - [1088.0, 6005.0]
   name: SIR
   sc: 1
-  tiles: [81]
+  tiles: [90]
   type: land
 YANZHONG:
-  ID: 82
+  ID: 91
   area: 8416
   edges:
     army: [BIANYUAN, HEHONG, LIUMINXIANG, NOZANYANBE, YANGCHEN, YUNGHUUN, ZYUJYUT]
@@ -1427,10 +1594,10 @@ YANZHONG:
     - [1123.0, 6256.0]
   name: YANZHONG
   sc: 1
-  tiles: [82]
+  tiles: [91]
   type: land
 NOZANYANBE:
-  ID: 83
+  ID: 92
   area: 7148
   edges:
     army: [BIANYUAN, ONI HILLS, SIR, YANZHONG, YUNGHUUN]
@@ -1445,10 +1612,10 @@ NOZANYANBE:
     - [1139.0, 6102.0]
   name: NOZANYANBE
   sc: 1
-  tiles: [83]
+  tiles: [92]
   type: land
 BIANYUAN:
-  ID: 84
+  ID: 93
   area: 4767
   edges:
     army: [NOZANYANBE, SIR, VERKAL OZOVAR, XIANJIE, YANZHONG, ZYUJYUT]
@@ -1463,10 +1630,10 @@ BIANYUAN:
     - [1212.0, 6123.0]
   name: BIANYUAN
   sc: 1
-  tiles: [84]
+  tiles: [93]
   type: land
 ERTIKAN STARASH:
-  ID: 85
+  ID: 94
   area: 4430
   edges:
     army: [AKHANEKAS, DUWARKANI, HAKHEPRA, YEZEL MORA, ZERAT]
@@ -1478,10 +1645,10 @@ ERTIKAN STARASH:
     unit:
     - [1715.0, 5032.0]
   name: ERTIKAN STARASH
-  tiles: [85]
+  tiles: [94]
   type: land
 AKHANEKAS:
-  ID: 86
+  ID: 95
   area: 16275
   edges:
     army: [ERTIKAN STARASH, KAGDILGIR, KATARITSAYA, RAYAZAS, TAZAS, YEZEL MORA, ZERAT]
@@ -1496,10 +1663,10 @@ AKHANEKAS:
     - [1800.0, 5082.0]
   name: AKHANEKAS
   sc: 1
-  tiles: [86]
+  tiles: [95]
   type: land
 KAGDILGIR:
-  ID: 87
+  ID: 96
   area: 9583
   edges:
     army: [ADZALAN, AKHANEKAS, KVATHAGIS, TAZAS, YEZEL MORA]
@@ -1511,10 +1678,10 @@ KAGDILGIR:
     unit:
     - [1812.0, 5148.0]
   name: KAGDILGIR
-  tiles: [87]
+  tiles: [96]
   type: land
 ZERAT:
-  ID: 88
+  ID: 97
   area: 10149
   edges:
     army: [AKHANEKAS, AMIRI, ERTIKAN STARASH, HAKHEPRA, KARSHYR, RAYAZAS]
@@ -1529,10 +1696,10 @@ ZERAT:
     - [1821.0, 4965.0]
   name: ZERAT
   sc: 1
-  tiles: [88]
+  tiles: [97]
   type: land
 AMIRI:
-  ID: 89
+  ID: 98
   area: 13624
   edges:
     army: [HAKHEPRA, KARSHYR, MUZINGRAZI, ZENA, ZERAT]
@@ -1548,10 +1715,10 @@ AMIRI:
     - [1934.0, 4733.0]
   name: AMIRI
   sc: 1
-  tiles: [89]
+  tiles: [98]
   type: coast
 ZENA:
-  ID: 90
+  ID: 99
   area: 2793
   edges:
     army: [AMIRI, MUZINGRAZI, ZUVAVIM]
@@ -1564,10 +1731,10 @@ ZENA:
     unit:
     - [1882.0, 4672.0]
   name: ZENA
-  tiles: [90]
+  tiles: [99]
   type: coast
 RAYAZAS:
-  ID: 91
+  ID: 100
   area: 7624
   edges:
     army: [AKHANEKAS, KARSHYR, KATARITSAYA, ZERAT]
@@ -1582,10 +1749,10 @@ RAYAZAS:
     - [1914.0, 4947.0]
   name: RAYAZAS
   sc: 1
-  tiles: [91]
+  tiles: [100]
   type: land
 NALENI:
-  ID: 92
+  ID: 101
   area: 8661
   edges:
     army: [SIMAHRIKA, TIPHIYA, YETMESIRA]
@@ -1601,10 +1768,10 @@ NALENI:
     - [1557.0, 5721.0]
   name: NALENI
   sc: 1
-  tiles: [92]
+  tiles: [101]
   type: coast
 SIMAHRIKA:
-  ID: 93
+  ID: 102
   area: 10757
   edges:
     army: [BERPARWEDEB, FEDONI, HISOST YAMOK, NALENI, YETMESIRA]
@@ -1617,10 +1784,10 @@ SIMAHRIKA:
     unit:
     - [1610.0, 5645.0]
   name: SIMAHRIKA
-  tiles: [93]
+  tiles: [102]
   type: coast
 YETMESIRA:
-  ID: 94
+  ID: 103
   area: 11786
   edges:
     army: [FEDONI, NALENI, SIMAHRIKA, ZEDAHRIKA]
@@ -1636,10 +1803,10 @@ YETMESIRA:
     - [1670.0, 5661.0]
   name: YETMESIRA
   sc: 1
-  tiles: [94]
+  tiles: [103]
   type: coast
 KVATHAGIS:
-  ID: 95
+  ID: 104
   area: 37117
   edges:
     army: [ADZALAN, FEDONI, HISOST YAMOK, KAGDILGIR, KREKDEKEI, SKY SOARING EAGLE,
@@ -1655,10 +1822,10 @@ KVATHAGIS:
     - [1731.0, 5345.0]
   name: KVATHAGIS
   sc: 1
-  tiles: [95]
+  tiles: [104]
   type: land
 FEDONI:
-  ID: 96
+  ID: 105
   area: 18682
   edges:
     army: [HISOST YAMOK, KREKDEKEI, KVATHAGIS, SIMAHRIKA, YETMESIRA, ZEDAHRIKA]
@@ -1670,10 +1837,10 @@ FEDONI:
     unit:
     - [1697.0, 5555.0]
   name: FEDONI
-  tiles: [96]
+  tiles: [105]
   type: land
 ZEDAHRIKA:
-  ID: 97
+  ID: 106
   area: 17765
   edges:
     army: [FEDONI, GOUFEINGONG, KREKDEKEI, THUNDER WIELDING BUFFALO, YETMESIRA]
@@ -1686,10 +1853,10 @@ ZEDAHRIKA:
     unit:
     - [1778.0, 5655.0]
   name: ZEDAHRIKA
-  tiles: [97]
+  tiles: [106]
   type: coast
 KREKDEKEI:
-  ID: 98
+  ID: 107
   area: 22766
   edges:
     army: [FEDONI, KVATHAGIS, SKY SOARING EAGLE, THUNDER WIELDING BUFFALO, ZEDAHRIKA]
@@ -1704,10 +1871,10 @@ KREKDEKEI:
     - [1767.0, 5544.0]
   name: KREKDEKEI
   sc: 1
-  tiles: [98]
+  tiles: [107]
   type: land
 SKY SOARING EAGLE:
-  ID: 99
+  ID: 108
   area: 11770
   edges:
     army: [ADZALAN, KASHYZIR, KREKDEKEI, KVATHAGIS, THUNDER WIELDING BUFFALO]
@@ -1719,10 +1886,10 @@ SKY SOARING EAGLE:
     unit:
     - [1906.0, 5400.0]
   name: SKY SOARING EAGLE
-  tiles: [99]
+  tiles: [108]
   type: land
 BEIK:
-  ID: 100
+  ID: 109
   area: 1005
   edges:
     army: [LIUMINXIANG, TIANLOU]
@@ -1738,10 +1905,10 @@ BEIK:
     - [1066.0, 6423.0]
   name: BEIK
   sc: 1
-  tiles: [100]
+  tiles: [109]
   type: coast
 VEMOD ARKA:
-  ID: 101
+  ID: 110
   area: 31390
   edges:
     army: [BOKGUAN, GOMMOPORT, GREAT HARAFIC DESERT, MESTIKARDU, NIDI BIKEHA, WORMWAY,
@@ -1758,10 +1925,10 @@ VEMOD ARKA:
     - [1460.0, 920.0]
   name: VEMOD ARKA
   sc: 1
-  tiles: [101]
+  tiles: [110]
   type: coast
 ZURZUMEXIA:
-  ID: 102
+  ID: 111
   area: 28061
   edges:
     army: [GADODCODD, MALLAZABO, MESTIKARDU, NIDI BIKEHA, TZAYA, VEMOD ARKA]
@@ -1777,10 +1944,10 @@ ZURZUMEXIA:
     - [1552.0, 1092.0]
   name: ZURZUMEXIA
   sc: 1
-  tiles: [102]
+  tiles: [111]
   type: coast
 BOKGUAN:
-  ID: 103
+  ID: 112
   area: 5356
   edges:
     army: [GOMMOPORT, VEMOD ARKA]
@@ -1793,10 +1960,10 @@ BOKGUAN:
     unit:
     - [1404.0, 856.0]
   name: BOKGUAN
-  tiles: [103]
+  tiles: [112]
   type: coast
 GOMMOPORT:
-  ID: 104
+  ID: 113
   area: 16285
   edges:
     army: [BOKGUAN, MESTIKARDU, VEMOD ARKA]
@@ -1812,10 +1979,10 @@ GOMMOPORT:
     - [1501.0, 742.0]
   name: GOMMOPORT
   sc: 1
-  tiles: [104]
+  tiles: [113]
   type: coast
 MAI:
-  ID: 105
+  ID: 114
   area: 527
   edges:
     army: [BASAATELE, TUAN CAOBAN]
@@ -1831,10 +1998,10 @@ MAI:
     - [1406.0, 5957.0]
   name: MAI
   sc: 1
-  tiles: [105]
+  tiles: [114]
   type: coast
 MESTIKARDU:
-  ID: 106
+  ID: 115
   area: 19689
   edges:
     army: [GOMMOPORT, MALLAZABO, VEMOD ARKA, ZURZUMEXIA]
@@ -1850,10 +2017,10 @@ MESTIKARDU:
     - [1614.0, 914.0]
   name: MESTIKARDU
   sc: 1
-  tiles: [106]
+  tiles: [115]
   type: coast
 MALLAZABO:
-  ID: 107
+  ID: 116
   area: 9050
   edges:
     army: [MESTIKARDU, ZURZUMEXIA]
@@ -1866,10 +2033,10 @@ MALLAZABO:
     unit:
     - [1577.0, 1002.0]
   name: MALLAZABO
-  tiles: [107]
+  tiles: [116]
   type: coast
 TROLL FORESTS:
-  ID: 108
+  ID: 117
   area: 143094
   edges:
     army: [KABARDA, KONUNGRHAVEN, OLAVLUND, PUAKOD, YYL MOITSA]
@@ -1881,10 +2048,10 @@ TROLL FORESTS:
     unit:
     - [98.0, 4704.0]
   name: TROLL FORESTS
-  tiles: [108]
+  tiles: [117]
   type: land
 YYL MOITSA:
-  ID: 109
+  ID: 118
   area: 96137
   edges:
     army: [PUAKOD, TROLL FORESTS]
@@ -1900,10 +2067,10 @@ YYL MOITSA:
     - [54.0, 5470.0]
   name: YYL MOITSA
   sc: 1
-  tiles: [109]
+  tiles: [118]
   type: coast
 OLAVLUND:
-  ID: 110
+  ID: 119
   area: 85826
   edges:
     army: [ATHFORK, BJARNRIK, GAROK, KABARDA, KONUNGRHAVEN, TROLL FORESTS]
@@ -1916,10 +2083,10 @@ OLAVLUND:
     unit:
     - [240.0, 4418.0]
   name: OLAVLUND
-  tiles: [110]
+  tiles: [119]
   type: coast
 PUAKOD:
-  ID: 111
+  ID: 120
   area: 82181
   edges:
     army: [KABARDA, SHEVROMRZGH, SOCHULEAG, TROLL FORESTS, YYL MOITSA]
@@ -1935,10 +2102,10 @@ PUAKOD:
     - [433.0, 5142.0]
   name: PUAKOD
   sc: 1
-  tiles: [111]
+  tiles: [120]
   type: coast
 KABARDA:
-  ID: 112
+  ID: 121
   area: 51615
   edges:
     army: [ASSEMBLY TERRACE, ATHFORK, OLAVLUND, PUAKOD, TROLL FORESTS]
@@ -1953,10 +2120,10 @@ KABARDA:
     - [397.0, 4669.0]
   name: KABARDA
   sc: 1
-  tiles: [112]
+  tiles: [121]
   type: land
 ATHFORK:
-  ID: 113
+  ID: 122
   area: 17801
   edges:
     army: [CASTONATH, GAROK, KABARDA, MIDDLE ALEN, OLAVLUND, WYVERNHART]
@@ -1971,10 +2138,10 @@ ATHFORK:
     - [461.0, 4363.0]
   name: ATHFORK
   sc: 1
-  tiles: [113]
+  tiles: [122]
   type: land
 GAROK:
-  ID: 114
+  ID: 123
   area: 7935
   edges:
     army: [ATHFORK, MIDDLE ALEN, OLAVLUND]
@@ -1990,10 +2157,10 @@ GAROK:
     - [366.0, 4242.0]
   name: GAROK
   sc: 1
-  tiles: [114]
+  tiles: [123]
   type: coast
 MIDDLE ALEN:
-  ID: 115
+  ID: 124
   area: 4197
   edges:
     army: [ATHFORK, GAROK, ROTTENSTEP, WYVERNHART]
@@ -2006,10 +2173,10 @@ MIDDLE ALEN:
     unit:
     - [434.0, 4255.0]
   name: MIDDLE ALEN
-  tiles: [115]
+  tiles: [124]
   type: coast
 ASSEMBLY TERRACE:
-  ID: 116
+  ID: 125
   area: 4828
   edges:
     army: [GOBLIN CAVES, KABARDA]
@@ -2021,10 +2188,10 @@ ASSEMBLY TERRACE:
     unit:
     - [481.0, 4657.0]
   name: ASSEMBLY TERRACE
-  tiles: [116]
+  tiles: [125]
   type: land
 OCEAN OF THE LOST:
-  ID: 117
+  ID: 126
   area: 1839685
   edges:
     fleet: [BROKEN SEA, CANTISH SEA, EIGRAS, EINNSAG, EOR ISLANDS, FOGHARABH, OOL1,
@@ -2042,10 +2209,10 @@ OCEAN OF THE LOST:
     - [2492.0, 396.0]
     - [2258.0, 7283.0]
   name: OCEAN OF THE LOST
-  tiles: [117, 118]
+  tiles: [126, 127]
   type: sea
 GADODCODD:
-  ID: 119
+  ID: 128
   area: 6913
   edges:
     army: [DAGGER POINT, QUINTUPLETS, TZAYA, ZURZUMEXIA]
@@ -2058,10 +2225,10 @@ GADODCODD:
     unit:
     - [1417.0, 1229.0]
   name: GADODCODD
-  tiles: [119]
+  tiles: [128]
   type: coast
 GINHYUT:
-  ID: 120
+  ID: 129
   area: 10575
   edges:
     army: [GITINALAS, KIUBANG, PANHENAW]
@@ -2077,10 +2244,10 @@ GINHYUT:
     - [1917.0, 6147.0]
   name: GINHYUT
   sc: 1
-  tiles: [120]
+  tiles: [129]
   type: coast
 PARAIDAR:
-  ID: 121
+  ID: 130
   area: 7619
   edges:
     fleet: [THEKVRYS EDGE, THE PASSAGE, VUSSAM SEA]
@@ -2095,14 +2262,14 @@ PARAIDAR:
     - [2781.0, 2361.0]
   name: PARAIDAR
   sc: 1
-  tiles: [121]
+  tiles: [130]
   type: coast
 DERANNE:
-  ID: 122
+  ID: 131
   area: 4844
   edges:
-    army: [DAROMSFORT, LORENTAINE, MANERD, ORDING, REDGLADES, REGION 346, ROYSFORT]
-    fleet: [DAROMSFORT, MANERD, PORTNAMM BAY, REGION 346, WESTCOAST]
+    army: [DAROMSFORT, LORENTAINE, MANERD, ORDING, REDGLADES, P, ROYSFORT]
+    fleet: [DAROMSFORT, MANERD, PORTNAMM BAY, P, WESTCOAST]
   locs:
     label:
     - [0, 0]
@@ -2114,10 +2281,10 @@ DERANNE:
     - [692.0, 3716.0]
   name: DERANNE
   sc: 1
-  tiles: [122]
+  tiles: [131]
   type: coast
 REDGLADES:
-  ID: 123
+  ID: 132
   area: 3941
   edges:
     army: [DERANNE, EXWES, LORENTAINE, ROYSFORT, RUBYHOLD, VISWALL]
@@ -2129,10 +2296,10 @@ REDGLADES:
     unit:
     - [681.0, 3801.0]
   name: REDGLADES
-  tiles: [123]
+  tiles: [132]
   type: land
 EXWES:
-  ID: 124
+  ID: 133
   area: 2349
   edges:
     army: [ANBENNCOST, BEEPECK, NECKCLIFFE, REDGLADES, RUBYHOLD, VISWALL]
@@ -2145,10 +2312,10 @@ EXWES:
     unit:
     - [687.0, 3921.0]
   name: EXWES
-  tiles: [124]
+  tiles: [133]
   type: coast
 LORENTAINE:
-  ID: 125
+  ID: 134
   area: 5516
   edges:
     army: [DERANNE, ORDING, REDGLADES, ROILSARD, RUBYHOLD, SORNAIRE]
@@ -2164,10 +2331,10 @@ LORENTAINE:
     - [721.0, 3831.0]
   name: LORENTAINE
   sc: 1
-  tiles: [125]
+  tiles: [134]
   type: coast
 DAROMSFORT:
-  ID: 126
+  ID: 135
   area: 4331
   edges:
     army: [DERANNE, ORDING, SORNAIRE]
@@ -2183,10 +2350,10 @@ DAROMSFORT:
     - [758.0, 3712.0]
   name: DAROMSFORT
   sc: 1
-  tiles: [126]
+  tiles: [135]
   type: coast
 ORDING:
-  ID: 127
+  ID: 136
   area: 3697
   edges:
     army: [DAROMSFORT, DERANNE, LORENTAINE, SORNAIRE]
@@ -2198,10 +2365,10 @@ ORDING:
     unit:
     - [771.0, 3762.0]
   name: ORDING
-  tiles: [127]
+  tiles: [136]
   type: land
 ROILSARD:
-  ID: 128
+  ID: 137
   area: 3794
   edges:
     army: [LORENTAINE, NECKCLIFFE, RUBYHOLD]
@@ -2214,10 +2381,10 @@ ROILSARD:
     unit:
     - [765.0, 3882.0]
   name: ROILSARD
-  tiles: [128]
+  tiles: [137]
   type: coast
 SORNAIRE:
-  ID: 129
+  ID: 138
   area: 7342
   edges:
     army: [DAROMSFORT, LORENTAINE, ORDING]
@@ -2233,10 +2400,10 @@ SORNAIRE:
     - [858.0, 3769.0]
   name: SORNAIRE
   sc: 1
-  tiles: [129]
+  tiles: [138]
   type: coast
 BLOODGROVES:
-  ID: 130
+  ID: 139
   area: 25270
   edges:
     army: [ABHENN, BRAMBLEBANK, ELDERSPRING, KWINEHCOST, LOWER YNN, NEW HAVORAL, RED COAST]
@@ -2248,10 +2415,10 @@ BLOODGROVES:
     unit:
     - [854.0, 2056.0]
   name: BLOODGROVES
-  tiles: [130]
+  tiles: [139]
   type: land
 KWINEHCOST:
-  ID: 131
+  ID: 140
   area: 11645
   edges:
     army: [ABHENN, BLOODGROVES]
@@ -2267,10 +2434,10 @@ KWINEHCOST:
     - [870.0, 2211.0]
   name: KWINEHCOST
   sc: 1
-  tiles: [131]
+  tiles: [140]
   type: coast
 ABHENN:
-  ID: 132
+  ID: 141
   area: 7274
   edges:
     army: [BLOODGROVES, KWINEHCOST, RED COAST]
@@ -2286,10 +2453,10 @@ ABHENN:
     - [971.0, 2201.0]
   name: ABHENN
   sc: 1
-  tiles: [132]
+  tiles: [141]
   type: coast
 RED COAST:
-  ID: 133
+  ID: 142
   area: 7219
   edges:
     army: [ABHENN, BLOODGROVES, ELDERSPRING, NEW CESTAIRE]
@@ -2302,10 +2469,10 @@ RED COAST:
     unit:
     - [959.0, 2070.0]
   name: RED COAST
-  tiles: [133]
+  tiles: [142]
   type: coast
 SHOFASHOK:
-  ID: 134
+  ID: 143
   area: 16003
   edges:
     army: [DAXWELL, GRAVEROADS, TIRU MOINE, VALORPOINT]
@@ -2321,10 +2488,10 @@ SHOFASHOK:
     - [1212.0, 1691.0]
   name: SHOFASHOK
   sc: 1
-  tiles: [134]
+  tiles: [143]
   type: coast
 TAIVER:
-  ID: 135
+  ID: 144
   area: 7223
   edges:
     army: [AZKARE, BASAATELE, BIENG PHANG, DUGAJIR, SKARKAOPHE, TUGHAYSA]
@@ -2339,10 +2506,10 @@ TAIVER:
     - [1275.0, 5925.0]
   name: TAIVER
   sc: 1
-  tiles: [135]
+  tiles: [144]
   type: land
 BIENG PHANG:
-  ID: 136
+  ID: 145
   area: 11773
   edges:
     army: [DUGAJIR, NAHANA JADD, SKARKAOPHE, TAIVER, VANRAHAR]
@@ -2358,10 +2525,10 @@ BIENG PHANG:
     - [1348.0, 5825.0]
   name: BIENG PHANG
   sc: 1
-  tiles: [136]
+  tiles: [145]
   type: coast
 SKARKAOPHE:
-  ID: 137
+  ID: 146
   area: 5029
   edges:
     army: [BASAATELE, BIENG PHANG, TAIVER]
@@ -2377,10 +2544,10 @@ SKARKAOPHE:
     - [1435.0, 5875.0]
   name: SKARKAOPHE
   sc: 1
-  tiles: [137]
+  tiles: [146]
   type: coast
 EADOHAS:
-  ID: 138
+  ID: 147
   area: 23582
   edges:
     army: [OCHCHUSCOST]
@@ -2396,10 +2563,10 @@ EADOHAS:
     - [1617.0, 2483.0]
   name: EADOHAS
   sc: 1
-  tiles: [138]
+  tiles: [147]
   type: coast
 OCHCHUSCOST:
-  ID: 139
+  ID: 148
   area: 28067
   edges:
     army: [EADOHAS]
@@ -2415,10 +2582,10 @@ OCHCHUSCOST:
     - [1732.0, 2564.0]
   name: OCHCHUSCOST
   sc: 1
-  tiles: [139]
+  tiles: [148]
   type: coast
 KUNOLO:
-  ID: 140
+  ID: 149
   area: 4266
   edges:
     army: [AMEZA, JAGAB FARU, KHAWIT, PORT NARAWEN]
@@ -2434,10 +2601,10 @@ KUNOLO:
     - [1688.0, 4480.0]
   name: KUNOLO
   sc: 1
-  tiles: [140]
+  tiles: [149]
   type: coast
 CROVANSPIER:
-  ID: 141
+  ID: 150
   area: 2185
   edges:
     army: [GEMTREE, NAKOWICH, WHITTINGTON]
@@ -2453,10 +2620,10 @@ CROVANSPIER:
     - [1856.0, 4086.0]
   name: CROVANSPIER
   sc: 1
-  tiles: [141]
+  tiles: [150]
   type: coast
 VUMBKAUVA:
-  ID: 142
+  ID: 151
   area: 5444
   edges:
     army: [HORTOSARE, TAGTO]
@@ -2472,10 +2639,10 @@ VUMBKAUVA:
     - [2243.0, 5930.0]
   name: VUMBKAUVA
   sc: 1
-  tiles: [142]
+  tiles: [151]
   type: coast
 TAGTO:
-  ID: 143
+  ID: 152
   area: 2058
   edges:
     army: [ARMANHAL, HORTOSARE, VUMBKAUVA]
@@ -2488,10 +2655,10 @@ TAGTO:
     unit:
     - [2293.0, 5906.0]
   name: TAGTO
-  tiles: [143]
+  tiles: [152]
   type: coast
 IPPAROGA:
-  ID: 144
+  ID: 153
   area: 5189
   edges:
     army: [AMEION, CAERGARAEN, KLERECHEND]
@@ -2507,10 +2674,10 @@ IPPAROGA:
     - [2599.0, 2065.0]
   name: IPPAROGA
   sc: 1
-  tiles: [144]
+  tiles: [153]
   type: coast
 SOTEREION:
-  ID: 145
+  ID: 154
   area: 3280
   edges:
     army: [AKR, DEGITHION, EASTERN TAYCHEND, KLERECHEND]
@@ -2526,10 +2693,10 @@ SOTEREION:
     - [2633.0, 2268.0]
   name: SOTEREION
   sc: 1
-  tiles: [145]
+  tiles: [154]
   type: coast
 AMEION:
-  ID: 146
+  ID: 155
   area: 7879
   edges:
     army: [CAERGARAEN, DEYEION, IPPAROGA, MTEIBHARA, UPPER CHENDYA]
@@ -2545,10 +2712,10 @@ AMEION:
     - [2695.0, 1923.0]
   name: AMEION
   sc: 1
-  tiles: [146]
+  tiles: [155]
   type: coast
 AKR:
-  ID: 147
+  ID: 156
   area: 626
   edges:
     army: [DEGITHION, OK, SOTEREION]
@@ -2561,175 +2728,8 @@ AKR:
     unit:
     - [2658.0, 2339.0]
   name: AKR
-  tiles: [147]
-  type: coast
-STEELHYL:
-  ID: 148
-  area: 3076
-  edges:
-    army: [CASTONATH, MARRHOLD, OSDAR]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [506.0, 4503.0]
-    unit:
-    - [508.0, 4471.0]
-    sc:
-    - [510.0, 4493.0]
-  name: STEELHYL
-  sc: 1
-  tiles: [148]
-  type: land
-BAYCOAST:
-  ID: 149
-  area: 3639
-  edges:
-    army: [ARAKEPRUN, DEARKTIR]
-    fleet: [ARAKEPRUN, DEARKTIR, ELARBAC, SARMADFAR]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [934.0, 716.0]
-    unit:
-    - [923.0, 667.0]
-    sc:
-    - [929.0, 705.0]
-  name: BAYCOAST
-  sc: 1
-  tiles: [149]
-  type: coast
-SOLDARCAM:
-  ID: 150
-  area: 9751
-  edges:
-    army: [GREAT HARAFIC DESERT, TRIMTHIR, WORMWAY]
-    fleet: [ELARBAC, GULF OF NEANAANI, SARMADFAR, TRIMTHIR, WORMWAY]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [1059.0, 794.0]
-    unit:
-    - [1054.0, 834.0]
-    sc:
-    - [1044.0, 803.0]
-  name: SOLDARCAM
-  sc: 1
-  tiles: [150]
-  type: coast
-WORMWAY:
-  ID: 151
-  area: 3356
-  edges:
-    army: [GREAT HARAFIC DESERT, SOLDARCAM, VEMOD ARKA]
-    fleet: [GULF OF NEANAANI, SOLDARCAM, VEMOD ARKA]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [1136.0, 842.0]
-    unit:
-    - [1162.0, 828.0]
-  name: WORMWAY
-  tiles: [151]
-  type: coast
-QUINTUPLETS:
-  ID: 152
-  area: 2500
-  edges:
-    army: [GADODCODD, NURCANDAR, TUMBATER, TZAYA]
-    fleet: [GADODCODD, GULF OF HARAF, NURCANDAR, TZAYA]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [1390.0, 1266.0]
-    unit:
-    - [1364.0, 1281.0]
-    sc:
-    - [1395.0, 1271.0]
-  name: QUINTUPLETS
-  sc: 1
-  tiles: [152]
-  type: coast
-TRISTANTON:
-  ID: 153
-  area: 8315
-  edges:
-    army: [RICARDSPORT]
-    fleet: [AMADIAN PASS, LOVERS PASS, RICARDSPORT]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [1753.0, 1574.0]
-    unit:
-    - [1746.0, 1535.0]
-    sc:
-    - [1715.0, 1516.0]
-  name: TRISTANTON
-  sc: 1
-  tiles: [153]
-  type: coast
-RICARDSPORT:
-  ID: 154
-  area: 7697
-  edges:
-    army: [TRISTANTON]
-    fleet: [AMADIAN PASS, LOVERS PASS, SHATTERED ISLANDS, TRISTANTON]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [1745.0, 1465.0]
-    unit:
-    - [1809.0, 1429.0]
-    sc:
-    - [1780.0, 1487.0]
-  name: RICARDSPORT
-  sc: 1
-  tiles: [154]
-  type: coast
-PITHION:
-  ID: 155
-  area: 10492
-  edges:
-    army: [ANISKHEION, CLEMATAR, ENEION, ENPKEIOS, MTEIBHARA, UPPER CHENDYA]
-    fleet: [ANISKHEION, ENEION, ENPKEIOS]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [2558.0, 1788.0]
-    unit:
-    - [2587.0, 1754.0]
-    sc:
-    - [2600.0, 1712.0]
-  name: PITHION
-  sc: 1
-  tiles: [155]
-  type: land
-ENPKEIOS:
-  ID: 156
-  area: 5222
-  edges:
-    army: [ANISKHEION, PITHION, VOTHELISI]
-    fleet: [ANISKHEION, PITHION, VOTHELISI]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [2579.0, 1633.0]
-    unit:
-    - [2577.0, 1597.0]
-    sc:
-    - [2593.0, 1648.0]
-  name: ENPKEIOS
-  sc: 1
   tiles: [156]
-  type: land
+  type: coast
 NORTH WANDERER:
   ID: 157
   area: 5160
@@ -3102,7 +3102,7 @@ PORTNAMM BAY:
   ID: 180
   area: 4250
   edges:
-    fleet: [DERANNE, LONELY FAR LANE, MANERD, NIMSCODD SEA, REGION 346, WESTCOAST]
+    fleet: [DERANNE, LONELY FAR LANE, MANERD, NIMSCODD SEA, P, WESTCOAST]
   locs:
     label:
     - [0, 0]
@@ -3176,11 +3176,11 @@ SARMADFAR:
   name: SARMADFAR
   tiles: [184]
   type: sea
-OOL1:
+OOL3:
   ID: 185
   area: 3405
   edges:
-    fleet: [BROKEN SEA, CANTISH SEA, EIGRAS, EINNSAG, EOR ISLANDS,
+    fleet: [OCEAN OF THE LOST, BROKEN SEA, CANTISH SEA, EIGRAS, EINNSAG, EOR ISLANDS,
       FOGHARABH, OOL1, OOL2, OOL3, OOL4, OOL5, SARMADFAR, SEA OF SILENCE, THENON CURRENT,
       URARTOLA, BINHRUNG COAST, EAST RINGLET SEA, JERKHAZUURA, KAUVABIYO COAST, NORTH ARDMIYAN SEA,
       ODHEONGU SEA, THAWS END, THE BRIDGE, WIDOWS SEA, YARWARAN]
@@ -3194,14 +3194,14 @@ OOL1:
     unit:
     - [751.0, 101.0]
     - [1423.0, 7190.0]
-  name: OOL1
+  name: OOL3
   tiles: [185, 229]
   type: sea
 OOL2:
   ID: 186
   area: 3405
   edges:
-    fleet: [BROKEN SEA, CANTISH SEA, EIGRAS, EINNSAG, EOR ISLANDS,
+    fleet: [OCEAN OF THE LOST, BROKEN SEA, CANTISH SEA, EIGRAS, EINNSAG, EOR ISLANDS,
       FOGHARABH, OOL1, OOL2, OOL3, OOL4, OOL5, SARMADFAR, SEA OF SILENCE, THENON CURRENT,
       URARTOLA, BINHRUNG COAST, EAST RINGLET SEA, JERKHAZUURA, KAUVABIYO COAST, NORTH ARDMIYAN SEA,
       ODHEONGU SEA, THAWS END, THE BRIDGE, WIDOWS SEA, YARWARAN]
@@ -3374,11 +3374,11 @@ ELARBAC:
   name: ELARBAC
   tiles: [196]
   type: sea
-OOL3:
+OOL1:
   ID: 197
   area: 3405
   edges:
-    fleet: [BROKEN SEA, CANTISH SEA, EIGRAS, EINNSAG, EOR ISLANDS,
+    fleet: [OCEAN OF THE LOST, BROKEN SEA, CANTISH SEA, EIGRAS, EINNSAG, EOR ISLANDS,
       FOGHARABH, OOL1, OOL2, OOL3, OOL4, OOL5, SARMADFAR, SEA OF SILENCE, THENON CURRENT,
       URARTOLA, BINHRUNG COAST, EAST RINGLET SEA, JERKHAZUURA, KAUVABIYO COAST, NORTH ARDMIYAN SEA,
       ODHEONGU SEA, THAWS END, THE BRIDGE, WIDOWS SEA, YARWARAN]
@@ -3392,7 +3392,7 @@ OOL3:
     unit:
     - [922.0, 243.0]
     - [1585.0, 7125.0]
-  name: OOL3
+  name: OOL1
   tiles: [197, 246]
   type: sea
 THE BRIDGE:
@@ -3645,11 +3645,11 @@ BANISHED SEA:
   name: BANISHED SEA
   tiles: [213]
   type: sea
-OOL5:
+OOL4:
   ID: 214
   area: 3403
   edges:
-    fleet: [BROKEN SEA, CANTISH SEA, EIGRAS, EINNSAG, EOR ISLANDS,
+    fleet: [OCEAN OF THE LOST, BROKEN SEA, CANTISH SEA, EIGRAS, EINNSAG, EOR ISLANDS,
       FOGHARABH, OOL1, OOL2, OOL3, OOL4, OOL5, SARMADFAR, SEA OF SILENCE, THENON CURRENT,
       URARTOLA, BINHRUNG COAST, EAST RINGLET SEA, JERKHAZUURA, KAUVABIYO COAST, NORTH ARDMIYAN SEA,
       ODHEONGU SEA, THAWS END, THE BRIDGE, WIDOWS SEA, YARWARAN]
@@ -3663,14 +3663,14 @@ OOL5:
     unit:
     - [1137.0, 337.0]
     - [1589.0, 7604.0]
-  name: OOL5
+  name: OOL4
   tiles: [214, 247]
   type: sea
-OOL4:
+OOL5:
   ID: 215
   area: 3405
   edges:
-    fleet: [BROKEN SEA, CANTISH SEA, EIGRAS, EINNSAG, EOR ISLANDS,
+    fleet: [OCEAN OF THE LOST, BROKEN SEA, CANTISH SEA, EIGRAS, EINNSAG, EOR ISLANDS,
       FOGHARABH, OOL1, OOL2, OOL3, OOL4, OOL5, SARMADFAR, SEA OF SILENCE, THENON CURRENT,
       URARTOLA, BINHRUNG COAST, EAST RINGLET SEA, JERKHAZUURA, KAUVABIYO COAST, NORTH ARDMIYAN SEA,
       ODHEONGU SEA, THAWS END, THE BRIDGE, WIDOWS SEA, YARWARAN]
@@ -3684,7 +3684,7 @@ OOL4:
     unit:
     - [1138.0, 137.0]
     - [1594.0, 7332.0]
-  name: OOL4
+  name: OOL5
   tiles: [215, 248]
   type: sea
 CHARMED SEA:
@@ -5476,7 +5476,8 @@ ANCARD:
   ID: 331
   area: 4456
   edges:
-    army: [AINETHIL, ARAIONN, ARBARAN, CASTONATH, GABLAINE, ROTTENSTEP, WYVERNHART]
+    army: [AINETHIL, ARAIONN, ARBARAN, CASTONATH, GABLAINE, IBEVAR CITY, ROTTENSTEP,
+      WYVERNHART]
   locs:
     label:
     - [0, 0]
@@ -5611,7 +5612,7 @@ AINETHIL:
   ID: 339
   area: 3796
   edges:
-    army: [ANCARD, ARBARAN, DAMESCROWN, GABLAINE, IBEVAR CITY]
+    army: [ANCARD, ARBARAN, DAMESCROWN, IBEVAR CITY]
   locs:
     label:
     - [0, 0]
@@ -5691,25 +5692,43 @@ VISWALL:
   type: land
 GABLAINE:
   ID: 344
-  area: 14419
+  area: 11912
   edges:
-    army: [AINETHIL, ANCARD, ARAIONN, ARANNEN, ARCA CORVUR, BLADEMARCHES, CASTONATH,
-      ELYNAILE, IBEVAR CITY]
+    army: [ANCARD, ARAIONN, ARANNEN, ARCA CORVUR, BLADEMARCHES, CASTONATH, ELYNAILE,
+      IBEVAR CITY]
   locs:
     label:
     - [0, 0]
     retreat:
-    - [694.0, 4351.0]
+    - [685.0, 4298.0]
     unit:
-    - [668.0, 4306.0]
+    - [678.0, 4344.0]
     sc:
     - [711.0, 4358.0]
   name: GABLAINE
   sc: 1
   tiles: [344]
   type: land
-ORKECH:
+IBEVAR CITY:
   ID: 345
+  area: 12007
+  edges:
+    army: [AINETHIL, ANCARD, ARANNEN, DAMESCROWN, GABLAINE, GISDEN, SILVERKEEP]
+  locs:
+    label:
+    - [0, 0]
+    retreat:
+    - [653.0, 4182.0]
+    unit:
+    - [658.0, 4236.0]
+    sc:
+    - [664.0, 4206.0]
+  name: IBEVAR CITY
+  sc: 1
+  tiles: [345]
+  type: land
+ORKECH:
+  ID: 346
   area: 33217
   edges:
     army: [APORLAEN, BULREKAYIG, DOMCHARUTH, IRDU AGEENEAS, LANKINA]
@@ -5722,10 +5741,10 @@ ORKECH:
     unit:
     - [670.0, 5293.0]
   name: ORKECH
-  tiles: [345]
+  tiles: [346]
   type: coast
-REGION 346:
-  ID: 346
+P:
+  ID: 347
   area: 197
   edges:
     army: [DERANNE, MANERD]
@@ -5739,28 +5758,10 @@ REGION 346:
     - [622.0, 3745.0]
     sc:
     - [622.0, 3740.0]
-  name: REGION 346
-  sc: 1
-  tiles: [346]
-  type: coast
-IBEVAR CITY:
-  ID: 347
-  area: 9486
-  edges:
-    army: [AINETHIL, ARANNEN, DAMESCROWN, GABLAINE, GISDEN, SILVERKEEP]
-  locs:
-    label:
-    - [0, 0]
-    retreat:
-    - [646.0, 4232.0]
-    unit:
-    - [657.0, 4190.0]
-    sc:
-    - [664.0, 4206.0]
-  name: IBEVAR CITY
+  name: P
   sc: 1
   tiles: [347]
-  type: land
+  type: coast
 BEEPECK:
   ID: 348
   area: 1390
@@ -9218,8 +9219,8 @@ MANERD:
   ID: 549
   area: 2997
   edges:
-    army: [CIDERFIELD, DERANNE, REGION 346, ROYSFORT, ROYVIBOBB]
-    fleet: [DERANNE, NIMSCODD SEA, PORTNAMM BAY, REGION 346, ROYVIBOBB]
+    army: [CIDERFIELD, DERANNE, P, ROYSFORT, ROYVIBOBB]
+    fleet: [DERANNE, NIMSCODD SEA, PORTNAMM BAY, P, ROYVIBOBB]
   locs:
     label:
     - [0, 0]
