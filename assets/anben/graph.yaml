@@ -207,7 +207,7 @@ DRENNETHILLE:
   ID: 15
   area: 6196
   edges:
-    army: [BONE GROVE, CIRANMYNA, ELYNAILE, FEAHEART, FLOWER GROVE, IMYHAIN]
+    army: [BONE GROVE, CIRANMYNA, ELYNAILE, FAEHEART, FLOWER GROVE, IMYHAIN]
   locs:
     label:
     - [0, 0]
@@ -225,7 +225,7 @@ IMYHAIN:
   ID: 16
   area: 4499
   edges:
-    army: [DRENNETHILLE, FEAHEART, FLOWER GROVE, SHADOW GROVE]
+    army: [DRENNETHILLE, FAEHEART, FLOWER GROVE, SHADOW GROVE]
   locs:
     label:
     - [0, 0]
@@ -243,7 +243,7 @@ SHADOW GROVE:
   ID: 17
   area: 2992
   edges:
-    army: [FEAHEART, IMYHAIN, NANSALEN]
+    army: [FAEHEART, IMYHAIN, NANSALEN]
   locs:
     label:
     - [0, 0]
@@ -5800,7 +5800,7 @@ ANRACHRAN:
   ID: 350
   area: 12974
   edges:
-    army: [ARAKEPRUN, BLASTGAT, CLAFAIDH, EIGHARD, FEAHEART, JHORGASHIRR,
+    army: [ARAKEPRUN, BLASTGAT, CLAFAIDH, EIGHARD, FAEHEART, JHORGASHIRR,
       TRIMGARB]
   locs:
     label:
@@ -5962,7 +5962,7 @@ IRDU AGEENEAS:
   name: IRDU AGEENEAS
   tiles: [359]
   type: land
-FEAHEART:
+FAEHEART:
   ID: 360
   area: 1923
   edges:
@@ -5977,7 +5977,7 @@ FEAHEART:
     unit:
     - [755.0, 861.0]
     - [820.0, 714.0]
-  name: FEAHEART
+  name: FAEHEART
   tiles: [360, 362]
   type: land
 EPEDNAR:
@@ -6015,7 +6015,7 @@ BLASTGAT:
   ID: 364
   area: 7458
   edges:
-    army: [ANRACHRAN, ARAKEPRUN, DEARKTIR, FEAHEART, MURDKATHER, TRIMGARB]
+    army: [ANRACHRAN, ARAKEPRUN, DEARKTIR, FAEHEART, MURDKATHER, TRIMGARB]
   locs:
     label:
     - [0, 0]
@@ -6086,7 +6086,7 @@ BONE GROVE:
   ID: 368
   area: 8517
   edges:
-    army: [ARCA CORVUR, DRENNETHILLE, ELYNAILE, FEAHEART, RE UYEL]
+    army: [ARCA CORVUR, DRENNETHILLE, ELYNAILE, FAEHEART, RE UYEL]
   locs:
     label:
     - [0, 0]
