@@ -81,6 +81,8 @@ class DiploMap(util.Versioned):
 		return load_yaml(player_path)
 	
 	def _fix_node_type(self, node):
+		if node.get('type', None) == 'coast':
+			return 'coast'
 		edges = node['edges']
 		if 'army' in edges and 'fleet' in edges:
 			return 'coast'

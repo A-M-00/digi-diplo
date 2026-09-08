@@ -295,10 +295,10 @@ Vanbury_Steel_Guild:
   color: '#818589'
   demonym: Steel_Guildsman
   home: [STEELHYL, BAYCOAST, SOLDARCAM, QUINTUPLETS, TRISTANTON, RICARDSPORT, PITHION,
-    ENPKEIOS]
+    EMPKEIOS]
   name: Vanbury_Steel_Guild
   territory: [STEELHYL, BAYCOAST, SOLDARCAM, WORMWAY, QUINTUPLETS, TRISTANTON, RICARDSPORT,
-    PITHION, ENPKEIOS]
+    PITHION, EMPKEIOS]
   units:
   - {loc: STEELHYL, type: army}
   - {loc: BAYCOAST, type: fleet}
@@ -307,7 +307,7 @@ Vanbury_Steel_Guild:
   - {loc: TRISTANTON, type: fleet}
   - {loc: RICARDSPORT, type: army}
   - {loc: PITHION, type: army}
-  - {loc: ENPKEIOS, type: fleet}
+  - {loc: EMPKEIOS, type: fleet}
   capital: RICARDSPORT
 Triarchy:
   color: '#90adda'

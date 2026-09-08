@@ -1526,8 +1526,8 @@ PITHION:
   ID: 88
   area: 10492
   edges:
-    army: [ANISKHEION, CLEMATAR, ENEION, ENPKEIOS, MTEIBHARA, UPPER CHENDYA]
-    fleet: [ANISKHEION, ENEION, ENPKEIOS]
+    army: [ANISKHEION, CLEMATAR, ENEION, EMPKEIOS, MTEIBHARA, UPPER CHENDYA]
+    fleet: [ANISKHEION, ENEION, EMPKEIOS]
   locs:
     label:
     - [0, 0]
@@ -1541,7 +1541,7 @@ PITHION:
   sc: 1
   tiles: [88]
   type: land
-ENPKEIOS:
+EMPKEIOS:
   ID: 89
   area: 5222
   edges:
@@ -1556,10 +1556,10 @@ ENPKEIOS:
     - [2577.0, 1597.0]
     sc:
     - [2593.0, 1648.0]
-  name: ENPKEIOS
+  name: EMPKEIOS
   sc: 1
   tiles: [89]
-  type: land
+  type: coast
 SIR:
   ID: 90
   area: 5717
@@ -1985,8 +1985,8 @@ MAI:
   ID: 114
   area: 527
   edges:
-    army: [BASAATELE, TUAN CAOBAN]
-    fleet: [BASAATELE, PRA BAY, TUAN CAOBAN]
+    army: [BASAATELE, CAOBAN]
+    fleet: [BASAATELE, PRA BAY, CAOBAN]
   locs:
     label:
     - [0, 0]
@@ -2269,7 +2269,7 @@ DERANNE:
   area: 4844
   edges:
     army: [DAROMSFORT, LORENTAINE, MANERD, ORDING, REDGLADES, P, ROYSFORT]
-    fleet: [DAROMSFORT, MANERD, PORTNAMM BAY, P, WESTCOAST]
+    fleet: [DAROMSFORT, MANERD, BAY OF PORTNAMM, P, WESTCOAST]
   locs:
     label:
     - [0, 0]
@@ -2960,7 +2960,7 @@ NIMSCODD SEA:
   ID: 171
   area: 73282
   edges:
-    fleet: [LONELY FAR LANE, LONELY ISLE, MANERD, NORTHERN OCEAN, ODDANSBAY, PORTNAMM BAY,
+    fleet: [LONELY FAR LANE, LONELY ISLE, MANERD, NORTHERN OCEAN, ODDANSBAY, BAY OF PORTNAMM,
       REAVERS SEA, ROYVIBOBB]
   locs:
     label:
@@ -3009,7 +3009,7 @@ LONELY FAR LANE:
   area: 209027
   edges:
     fleet: [COLDSWELLS, EXPANSE SEA, FAR ISLE, FORLORN ISLE, ICEBERG ALLEY, LONELY ISLE,
-      NIMSCODD SEA, NORTHERN THAW, PORTNAMM BAY, WESTCOAST]
+      NIMSCODD SEA, NORTHERN THAW, BAY OF PORTNAMM, WESTCOAST]
   locs:
     label:
     - [0, 0]
@@ -3098,7 +3098,7 @@ BAY OF VERTESK:
   name: BAY OF VERTESK
   tiles: [179]
   type: sea
-PORTNAMM BAY:
+BAY OF PORTNAMM:
   ID: 180
   area: 4250
   edges:
@@ -3110,7 +3110,7 @@ PORTNAMM BAY:
     - [605.0, 3723.0]
     unit:
     - [636.0, 3702.0]
-  name: PORTNAMM BAY
+  name: BAY OF PORTNAMM
   tiles: [180]
   type: sea
 DAMESHEAD:
@@ -3149,7 +3149,7 @@ WESTCOAST:
   area: 20872
   edges:
     fleet: [COAST OF VENAIL, DAROMSFORT, DERANNE, EXPANSE SEA, FAR ISLE, LONELY FAR LANE,
-      PORTNAMM BAY]
+      BAY OF PORTNAMM]
   locs:
     label:
     - [0, 0]
@@ -3911,7 +3911,7 @@ PRA BAY:
   ID: 232
   area: 1371
   edges:
-    fleet: [BAIHON, BASAATELE, GULF OF GON, KHOM SEA, MAI, TUAN CAOBAN]
+    fleet: [BAIHON, BASAATELE, GULF OF GON, KHOM SEA, MAI, CAOBAN]
   locs:
     label:
     - [0, 0]
@@ -4805,7 +4805,7 @@ CANTISH SEA:
   ID: 292
   area: 56945
   edges:
-    fleet: [ANISKHEION, DEGAKHEION, ENEION, OOL1, OOL2, OOL3, OOL4, OOL5, URARTOLA]
+    fleet: [ANISKHEION, DEGAKHEION, ENEION, OOL1, OOL2, OOL3, OOL4, OOL5, URARTOLA, THE PASSAGE]
   locs:
     label:
     - [0, 0]
@@ -4820,7 +4820,7 @@ THE PASSAGE:
   ID: 293
   area: 57018
   edges:
-    fleet: [AMEION, DEYEION, ENEION, PARAIDAR, THEKVRYS EDGE, VUSSAM SEA]
+    fleet: [AMEION, DEYEION, ENEION, PARAIDAR, THEKVRYS EDGE, VUSSAM SEA, CANTISH SEA]
   locs:
     label:
     - [0, 0]
@@ -5748,7 +5748,7 @@ P:
   area: 197
   edges:
     army: [DERANNE, MANERD]
-    fleet: [DERANNE, MANERD, PORTNAMM BAY]
+    fleet: [DERANNE, MANERD, BAY OF PORTNAMM]
   locs:
     label:
     - [0, 0]
@@ -5973,10 +5973,12 @@ FAEHEART:
     - [0, 0]
     retreat:
     - [749.0, 831.0]
-    - [877.0, 702.0]
+    - [783.0, 4604.0]
+    #- [877.0, 702.0]
     unit:
     - [755.0, 861.0]
-    - [820.0, 714.0]
+    - [783.0, 4604.0]
+    #- [820.0, 714.0]
   name: FAEHEART
   tiles: [360, 362]
   type: land
@@ -7120,7 +7122,7 @@ SANTHUN:
   ID: 429
   area: 3680
   edges:
-    army: [AZKARE, BAIHON, BASAATELE, JAYA RAYA, SIRTAN, TUAN CAOBAN]
+    army: [AZKARE, BAIHON, BASAATELE, JAYA RAYA, SIRTAN, CAOBAN]
   locs:
     label:
     - [0, 0]
@@ -7138,8 +7140,8 @@ BASAATELE:
   ID: 430
   area: 1586
   edges:
-    army: [AZKARE, MAI, SANTHUN, SKARKAOPHE, TAIVER, TUAN CAOBAN]
-    fleet: [GULF OF GON, MAI, PRA BAY, SKARKAOPHE, TUAN CAOBAN]
+    army: [AZKARE, MAI, SANTHUN, SKARKAOPHE, TAIVER, CAOBAN]
+    fleet: [GULF OF GON, MAI, PRA BAY, SKARKAOPHE, CAOBAN]
   locs:
     label:
     - [0, 0]
@@ -7187,7 +7189,7 @@ KOGGRAFFA:
   name: KOGGRAFFA
   tiles: [432]
   type: coast
-TUAN CAOBAN:
+CAOBAN:
   ID: 433
   area: 1169
   edges:
@@ -7202,7 +7204,7 @@ TUAN CAOBAN:
     - [1421.0, 6001.0]
     sc:
     - [1425.0, 6009.0]
-  name: TUAN CAOBAN
+  name: CAOBAN
   sc: 1
   tiles: [433]
   type: coast
@@ -7278,8 +7280,8 @@ BAIHON:
   ID: 438
   area: 4787
   edges:
-    army: [ARAWKELIN, HEBA, JAYA RAYA, SANTHUN, TUAN CAOBAN]
-    fleet: [ARAWKELIN, HEBA, KHOM SEA, PRA BAY, TUAN CAOBAN]
+    army: [ARAWKELIN, HEBA, JAYA RAYA, SANTHUN, CAOBAN]
+    fleet: [ARAWKELIN, HEBA, KHOM SEA, PRA BAY, CAOBAN]
   locs:
     label:
     - [0, 0]
@@ -8804,8 +8806,8 @@ VOTHELISI:
   ID: 526
   area: 12798
   edges:
-    army: [ANISIGO, ANISKHEION, DEGAKHEION, ENPKEIOS]
-    fleet: [ANISIGO, ANISKHEION, DEGAKHEION, ENPKEIOS]
+    army: [ANISIGO, ANISKHEION, DEGAKHEION, EMPKEIOS]
+    fleet: [ANISIGO, ANISKHEION, DEGAKHEION, EMPKEIOS]
   locs:
     label:
     - [0, 0]
@@ -8820,8 +8822,8 @@ ANISKHEION:
   ID: 527
   area: 30501
   edges:
-    army: [DEGAKHEION, ENEION, ENPKEIOS, PITHION, VOTHELISI]
-    fleet: [CANTISH SEA, DEGAKHEION, ENEION, ENPKEIOS, PITHION, VOTHELISI]
+    army: [DEGAKHEION, ENEION, EMPKEIOS, PITHION, VOTHELISI]
+    fleet: [CANTISH SEA, DEGAKHEION, ENEION, EMPKEIOS, PITHION, VOTHELISI]
   locs:
     label:
     - [0, 0]
@@ -9208,7 +9210,7 @@ MANERD:
   area: 2997
   edges:
     army: [CIDERFIELD, DERANNE, P, ROYSFORT, ROYVIBOBB]
-    fleet: [DERANNE, NIMSCODD SEA, PORTNAMM BAY, P, ROYVIBOBB]
+    fleet: [DERANNE, NIMSCODD SEA, BAY OF PORTNAMM, P, ROYVIBOBB]
   locs:
     label:
     - [0, 0]

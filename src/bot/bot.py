@@ -651,6 +651,8 @@ class DiplomacyBot(Versioned, DiscordBot):
 		num = 0
 		for line in lines:
 			line = line.strip()
+			line = line.translate(str.maketrans({"'": '', "’": ''}))
+			
 			if len(line):
 				try:
 					action = self.manager.record_action(player, line)
