@@ -23,7 +23,7 @@ from copy import deepcopy
 @fig.component('diplo-map')
 class DiploMap(util.Versioned):
 	def __init__(self, graph_path, players_path=None,
-	             ignore_unknown=None, fix_types=True, **kwargs):
+	             ignore_unknown=None, fix_types=False, **kwargs):
 		
 		if ignore_unknown is None:
 			ignore_unknown = type(self) != DiploMap
@@ -81,8 +81,6 @@ class DiploMap(util.Versioned):
 		return load_yaml(player_path)
 	
 	def _fix_node_type(self, node):
-		if node.get('type', None) == 'coast':
-			return 'coast'
 		edges = node['edges']
 		if 'army' in edges and 'fleet' in edges:
 			return 'coast'
